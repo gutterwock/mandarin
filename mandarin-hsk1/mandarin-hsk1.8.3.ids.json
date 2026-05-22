@@ -1,0 +1,405 @@
+{
+  "subtopic_id": "mandarin-hsk1.8.3",
+  "ingested_at": "2026-05-21T02:54:43.381Z",
+  "content": [
+    {
+      "id": "02b72b8d-a8b1-50dd-96ad-0c9b22facebd",
+      "title": "Real-world identification task",
+      "body": "You're helping a friend find their belongings at a busy café. They describe what they're looking for, and you need to understand their description.\n\nCommon descriptions you might hear:\n- 我的包是小的黑色的。(Wǒ de bāo shì xiǎo de hēisè de.) - My bag is small and black.\n- 我的手机是白色的。(Wǒ de shǒujī shì báisè de.) "
+    },
+    {
+      "id": "1216c8fc-6986-5ed9-8c6c-93a0b6c8ebfc",
+      "title": "The colour blue (蓝 lán)",
+      "body": "蓝 (lán) means \"blue\" in Chinese.\n\nPronunciation: lán (second tone)\nCharacter note: 蓝 has the grass radical 艹 on top\n\nExamples:\n- 蓝色 (lánsè) - the colour blue\n- 天蓝色 (tiānlánsè) - sky blue"
+    },
+    {
+      "id": "1a3b41d5-dc2e-53cf-8200-a08bd8298410",
+      "title": "Combining size and colour descriptions",
+      "body": "When using multiple adjectives, list them before 的, separated by commas or without connectors. The most common pattern is: [size] + [colour] + 的 + [noun].\n\nExamples:\n- 大红色的苹果 (dà hóngsè de píngguǒ) - big red apple\n- 小白色的狗 (xiǎo báisè de gǒu) - small white dog\n- 长黑色的头发 (cháng hēisè de tóufa) - long b"
+    },
+    {
+      "id": "4b83d169-7ffd-5bd4-b62f-60f70b43dcc7",
+      "title": "Fat and thin (胖 and 瘦)",
+      "body": "胖 (pàng) means \"fat\" or \"plump,\" while 瘦 (shòu) means \"thin\" or \"skinny.\"\n\n胖 - pàng (fourth tone)\n瘦 - shòu (fourth tone)\n\nThese adjectives describe body size or weight.\n\nExamples:\n- 胖猫 (pàng māo) - fat cat\n- 瘦的人 (shòu de rén) - thin person"
+    },
+    {
+      "id": "6365797f-1961-5d0e-bcc7-1d3b5c1910c7",
+      "title": "The colour pink (粉 fěn)",
+      "body": "粉 (fěn) primarily means \"powder\" in Chinese. In colour contexts, it typically refers to pink when used as 粉色 (fěnsè) or 粉红色 (fěnhóngsè), literally \"powder-red colour.\" Alone, 粉 refers to powder rather than the colour.\n\nPronunciation: fěn (third tone)\nCharacter note: 粉 contains the rice radical 米\n\nEx"
+    },
+    {
+      "id": "6cbb316c-589c-59e1-9a79-ec38d44ae83a",
+      "title": "Describing objects with colours",
+      "body": "To describe an object's colour in Chinese, use the pattern: [colour] + 的 + [noun] or [colour + 色] + 的 + [noun].\n\nPattern 1: 红的衣服 (hóng de yīfu) - red clothes\nPattern 2: 红色的衣服 (hóngsè de yīfu) - red clothes\n\nBoth patterns are correct. The second is more formal.\n\nMore examples:\n- 白色的猫 (báisè de māo) -"
+    },
+    {
+      "id": "6f8329f5-e183-5bc6-ac46-702fb35544af",
+      "title": "The colour red (红 hóng)",
+      "body": "红 (hóng) means \"red\" in Chinese. It's one of the most culturally significant colours in Chinese culture, often associated with good fortune and celebration.\n\nPronunciation: hóng (second tone)\nCharacter breakdown: 红 consists of the silk radical 纟and 工. Note: This is the simplified Chinese form. The t"
+    },
+    {
+      "id": "70058ab4-8efd-5407-8ead-e283b594ab90",
+      "title": "The colour white (白 bái)",
+      "body": "白 (bái) means \"white\" in Chinese. It can also mean \"plain\" or \"blank.\"\n\nPronunciation: bái (second tone)\nCharacter note: 白 is a pictographic character representing a white bone or skull, not a sun\n\nExamples:\n- 白色 (báisè) - the colour white\n- 白天 (báitiān) - daytime (literally \"white day\")"
+    },
+    {
+      "id": "7b3e1754-870d-5bcd-b71a-405338f66b4f",
+      "title": "The attributive marker 的 (de)",
+      "body": "When an adjective modifies a noun in Chinese, you often use the particle 的 (de) between them: adjective + 的 + noun.\n\n的 - de (neutral tone)\n\nPattern: [adjective] + 的 + [noun]\n\nExamples:\n- 红的苹果 (hóng de píngguǒ) - red apple\n- 大的狗 (dà de gǒu) - big dog\n- 高的人 (gāo de rén) - tall person\n\nNote: For single"
+    },
+    {
+      "id": "7cdbd4ff-769b-567c-be31-8187831a2ccd",
+      "title": "Long and short (长 and 短)",
+      "body": "长 (cháng) means \"long,\" while 短 (duǎn) means \"short\" (in length).\n\n长 - cháng (second tone) - meaning \"long\" (note: 长 has another pronunciation zhǎng meaning \"to grow\" or \"senior\")\n短 - duǎn (third tone)\n\nThese adjectives describe horizontal or linear length.\n\nExamples:\n- 长头发 (cháng tóufa) - long hair"
+    },
+    {
+      "id": "85200d17-b09b-5389-8d2e-90a77b084f50",
+      "title": "Pretty and handsome (漂亮 and 帅)",
+      "body": "漂亮 (piàoliang) means \"pretty\" or \"beautiful,\" while 帅 (shuài) means \"handsome.\"\n\n漂亮 - piàoliang (fourth tone + neutral tone)\n帅 - shuài (fourth tone)\n\n漂亮 is typically used for women, things, or general beauty. 帅 is typically used for men.\n\nExamples:\n- 漂亮的女孩 (piàoliang de nǚhái) - pretty girl\n- 帅的男人 ("
+    },
+    {
+      "id": "898c642b-4891-504c-93f9-28f5035f533e",
+      "title": "The colour yellow (黄 huáng)",
+      "body": "黄 (huáng) means \"yellow\" in Chinese. Yellow was traditionally the emperor's colour in China.\n\nPronunciation: huáng (second tone)\nCharacter note: 黄 contains the field radical 田\n\nExamples:\n- 黄色 (huángsè) - the colour yellow\n- 黄河 (Huáng Hé) - Yellow River"
+    },
+    {
+      "id": "9cffc7a4-a30a-54d7-ac93-f311c6969dfa",
+      "title": "Formal vs. casual colour descriptions",
+      "body": "Chinese has both formal and casual ways to describe colours. Understanding when to use each is important for natural speech.\n\nFormal/explicit (using 色):\n- 红色的车 (hóngsè de chē) - red car\n- 蓝色的天 (lánsè de tiān) - blue sky\n\nCasual (without 色):\n- 红的车 (hóng de chē) - red car\n- 蓝的天 (lán de tiān) - blue sk"
+    },
+    {
+      "id": "a0d0a22c-7866-5e32-81a4-d141cd41d289",
+      "title": "Tall and short (高 and 矮)",
+      "body": "高 (gāo) means \"tall\" or \"high,\" while 矮 (ǎi) means \"short\" (in height).\n\n高 - gāo (first tone)\n矮 - ǎi (third tone)\n\nThese adjectives describe vertical height of people or objects.\n\nExamples:\n- 高的人 (gāo de rén) - tall person\n- 矮的桌子 (ǎi de zhuōzi) - short table"
+    },
+    {
+      "id": "a450281a-7807-5c90-8cd3-d6e76f91e641",
+      "title": "Describing people comprehensively",
+      "body": "Combine multiple appearance adjectives to give complete descriptions of people. Use natural patterns that flow in Chinese.\n\nExamples:\n- 他是又高又帅的男人。(Tā shì yòu gāo yòu shuài de nánrén.) - He is a tall handsome man.\n- 她是瘦的漂亮的女孩。(Tā shì shòu de piàoliang de nǚhái.) - She is a thin pretty girl.\n- 我的朋友很高很"
+    },
+    {
+      "id": "ac51b927-58fc-56e1-a70f-4b592d658161",
+      "title": "Distinguishing height vs. length adjectives",
+      "body": "Chinese uses different adjectives for vertical height (高/矮) vs. horizontal/linear length (长/短). Understanding which to use depends on what you're describing.\n\n高 (gāo) / 矮 (ǎi) - for vertical height:\n- People's height: 高的人 (tall person)\n- Buildings: 高的楼 (tall building)\n- Mountains: 高的山 (tall mountain"
+    },
+    {
+      "id": "af115113-b070-5d34-b426-1e88b63b0886",
+      "title": "Shopping scenario application",
+      "body": "Apply colour and appearance vocabulary in a shopping context. Describe what you want to buy using complete descriptive phrases.\n\nShopping phrases:\n- 我想要红色的。(Wǒ xiǎng yào hóngsè de.) - I want the red one.\n- 有没有大的白色的?(Yǒu méiyǒu dà de báisè de?) - Do you have a big white one?\n- 这个小的蓝色的多少钱?(Zhège xiǎo "
+    },
+    {
+      "id": "c1353604-ea00-5d98-b7cf-9b6169fc1d0f",
+      "title": "Colour words with 色 (sè)",
+      "body": "In formal or explicit contexts, colour words are often followed by 色 (sè), which means \"colour.\" This makes the colour reference more explicit.\n\n色 - sè (fourth tone)\n\nPattern: [colour] + 色\n\nExamples:\n- 红色 (hóngsè) - red colour\n- 白色 (báisè) - white colour\n- 蓝色 (lánsè) - blue colour\n\nBoth 红 and 红色 can"
+    },
+    {
+      "id": "cf22628f-31c4-5c8f-a183-c4518d3ca6eb",
+      "title": "The colour green (绿 lǜ)",
+      "body": "绿 (lǜ) means \"green\" in Chinese.\n\nPronunciation: lǜ (fourth tone)\nCharacter breakdown: 绿 has the silk radical 纟on the left\n\nExamples:\n- 绿色 (lǜsè) - the colour green\n- 绿茶 (lǜchá) - green tea"
+    },
+    {
+      "id": "cf4d9423-7851-52df-ad1c-691b1d5a43c0",
+      "title": "Comparing and contrasting appearances",
+      "body": "Use appearance adjectives to compare different people or objects. Express contrasts using learned vocabulary.\n\nCommon patterns:\n- 他很高,她很矮。(Tā hěn gāo, tā hěn ǎi.) - He is very tall, she is very short.\n- 这个是大的,那个是小的。(Zhège shì dà de, nàge shì xiǎo de.) - This one is big, that one is small.\n- 我的猫是白色的,"
+    },
+    {
+      "id": "cfa9e5e1-0305-5682-84bc-d2755a8bb4c0",
+      "title": "Big and small (大 and 小)",
+      "body": "大 (dà) means \"big\" or \"large,\" while 小 (xiǎo) means \"small\" or \"little.\"\n\n大 - dà (fourth tone)\n小 - xiǎo (third tone)\n\nThese are opposite adjectives frequently used to describe size.\n\nExamples:\n- 大狗 (dà gǒu) - big dog\n- 小猫 (xiǎo māo) - small cat"
+    },
+    {
+      "id": "e2c661f6-5592-5cdc-be7a-a30f2de3ade3",
+      "title": "Describing people with appearance adjectives",
+      "body": "Use appearance adjectives with 的 to describe people: [adjective] + 的 + [person word].\n\nCommon patterns:\n- 高的男人 (gāo de nánrén) - tall man\n- 漂亮的女孩 (piàoliang de nǚhái) - pretty girl\n- 胖的人 (pàng de rén) - fat person\n- 瘦的孩子 (shòu de háizi) - thin child\n\nYou can also describe someone by name:\n- 高的李明 (gā"
+    },
+    {
+      "id": "f6b6a406-e5dd-53d7-bd2a-fdb332d9f6ec",
+      "title": "Body size adjectives usage",
+      "body": "胖 (pàng) and 瘦 (shòu) specifically describe body weight or build. They're different from size adjectives like 大 (big) and 小 (small).\n\nFor people and animals:\n- 胖的猫 (pàng de māo) - fat cat (body build)\n- 大的猫 (dà de māo) - big cat (overall size)\n- 瘦的狗 (shòu de gǒu) - thin dog (body build)\n- 小的狗 (xiǎo "
+    },
+    {
+      "id": "f83a9221-3fb5-5d2b-aece-0d7419a18b0b",
+      "title": "The colour black (黑 hēi)",
+      "body": "黑 (hēi) means \"black\" or \"dark\" in Chinese.\n\nPronunciation: hēi (first tone)\nCharacter note: 黑 is a complex character with the fire radical at the bottom\n\nExamples:\n- 黑色 (hēisè) - the colour black\n- 黑板 (hēibǎn) - blackboard"
+    },
+    {
+      "id": "fd1e1a28-3404-5b9a-94bb-4a55799179d4",
+      "title": "Describing a complete outfit",
+      "body": "Describe complete clothing items using multiple descriptors. Combine colours, sizes, and other adjectives naturally.\n\nExample descriptions:\n- 我有一件大红色的衣服。(Wǒ yǒu yí jiàn dà hóngsè de yīfu.) - I have a big red piece of clothing.\n- 她穿小蓝色的裙子。(Tā chuān xiǎo lánsè de qúnzi.) - She wears a small blue skirt"
+    }
+  ],
+  "questions": [
+    {
+      "id": "04ceb0f3-916a-59fa-96b3-2b8f7b32b502",
+      "question_text": "Write the pinyin (including tone number) for 绿 meaning \"green\":"
+    },
+    {
+      "id": "06423b9a-a1ba-598c-a794-0b47f1d6bb3b",
+      "question_text": "You're buying a shirt and want the \"long white one.\" Tell the shopkeeper in Chinese what you want:"
+    },
+    {
+      "id": "09ebde99-790d-5999-9fa6-4cc2590c8404",
+      "question_text": "Which phrase means \"big blue bag\"?"
+    },
+    {
+      "id": "0c3458dc-9870-5fb0-adad-c7ad0f5da9ee",
+      "question_text": "A shopkeeper asks \"你想要大的还是小的?\" (Nǐ xiǎng yào dà de háishi xiǎo de?). They want to know:"
+    },
+    {
+      "id": "0d53eb33-8943-5b80-8dc3-0a616cd3fd52",
+      "question_text": "Describe a \"small white shirt\" in Chinese using a complete phrase with multiple adjectives:"
+    },
+    {
+      "id": "12432bbd-1677-573c-abfe-f561f35da955",
+      "question_text": "Write the Chinese character for \"short\" (in length):"
+    },
+    {
+      "id": "13a16433-0906-57c9-bda1-7b7058794b76",
+      "question_text": "Write the Chinese word (characters) for \"pretty\" or \"beautiful\":"
+    },
+    {
+      "id": "18d1e542-7715-54de-b026-e4c556d2ee89",
+      "question_text": "How would you say \"This person is fat, that person is thin\"?"
+    },
+    {
+      "id": "1ffcc38f-d07e-5205-8cb2-fc6fd9ab9194",
+      "question_text": "Translate to Chinese: \"She has a long blue skirt.\""
+    },
+    {
+      "id": "252f3f66-7980-5cd4-bea9-474c407021f0",
+      "question_text": "Write the Chinese character for \"blue\":"
+    },
+    {
+      "id": "255faeb4-d741-58f8-b522-7efe2a392d06",
+      "question_text": "What does 大 (dà) mean?"
+    },
+    {
+      "id": "295e795b-f79d-55c7-abd7-8ccf47748b4e",
+      "question_text": "Which phrase means \"thin child\"?"
+    },
+    {
+      "id": "2cdff114-5fa8-5716-abf2-eaccde0e3202",
+      "question_text": "How would you describe \"long hair\" in Chinese?"
+    },
+    {
+      "id": "304109bb-abe4-5c73-99f2-c37813164c8e",
+      "question_text": "Which phrase is more formal?"
+    },
+    {
+      "id": "341bf88f-08ec-5ab0-8086-e0ddf645d53a",
+      "question_text": "Which word describes the length of hair, not height?"
+    },
+    {
+      "id": "3d64b732-fb27-51b2-bf8d-fb22dad19c7f",
+      "question_text": "Write the Chinese character for \"white\":"
+    },
+    {
+      "id": "3f458450-a258-5b7a-a2af-ce2c10cbb4ad",
+      "question_text": "Your friend lost a long yellow pen. Write what they would say in Chinese to describe it (using the pattern from the examples above):"
+    },
+    {
+      "id": "419a127f-84d0-5ec4-b0a3-e22e8dc97db2",
+      "question_text": "What does 长 (cháng) mean?"
+    },
+    {
+      "id": "430a93d9-ab62-50b6-8ba0-eca8309bc478",
+      "question_text": "Write the pinyin (including tone number) for 黑 meaning \"black\":"
+    },
+    {
+      "id": "4bdde3ed-d753-5df2-9b6d-9c271e0bb17e",
+      "question_text": "Write the pinyin (including tone number) for the character 红 meaning \"red\":"
+    },
+    {
+      "id": "4d29b332-77b3-56fb-9e9d-dadd648429e5",
+      "question_text": "How do you say \"big dog\" using the 的 structure?"
+    },
+    {
+      "id": "4fcc1f8f-f0f2-518f-884b-5321963b845d",
+      "question_text": "Which word describes a cat's body build, not overall size?"
+    },
+    {
+      "id": "50ecf234-10ea-5cb6-a621-436722d6ace3",
+      "question_text": "What does 瘦 (shòu) mean?"
+    },
+    {
+      "id": "52793b13-1900-5aed-9d03-f60497dc8a03",
+      "question_text": "Describe a \"tall thin man\" in Chinese using a complete phrase:"
+    },
+    {
+      "id": "55aa342d-77ff-5bab-891a-b4516f7e7cb4",
+      "question_text": "What does 黑 (hēi) mean?"
+    },
+    {
+      "id": "591aa1c0-0976-542a-ae38-23a53f6f1ab8",
+      "question_text": "What does 色 (sè) mean when added after a colour word?"
+    },
+    {
+      "id": "5bf9d8f0-616d-5a03-97f2-ecc1741e24b0",
+      "question_text": "Which adjective describes a person's height?"
+    },
+    {
+      "id": "5d121a0a-9d6d-5319-a926-280bc77ab568",
+      "question_text": "Which word would you use to describe a basketball player's height?"
+    },
+    {
+      "id": "652613ad-53d7-5774-ab49-5bc363172625",
+      "question_text": "Which is the more explicit way to say \"black\"?"
+    },
+    {
+      "id": "66f92f68-cade-5498-a406-ecad579ef6fd",
+      "question_text": "What does 胖 (pàng) mean?"
+    },
+    {
+      "id": "74f780d4-5439-5c62-a057-1c815ae2b60f",
+      "question_text": "What does 蓝 (lán) mean?"
+    },
+    {
+      "id": "775e731e-6182-50ed-8ae3-3361acecde86",
+      "question_text": "Write the Chinese character for \"short\" (in height):"
+    },
+    {
+      "id": "7c5bc5f3-d7cf-5a19-96ac-02aedcf909ca",
+      "question_text": "Translate: \"My teacher is a tall pretty woman.\""
+    },
+    {
+      "id": "7cafd2bd-af9b-50f5-b1e7-571e5852ed16",
+      "question_text": "Write the pinyin (including tone number) for 胖 meaning \"fat\":"
+    },
+    {
+      "id": "7e1c3d56-7f22-5a52-87d7-2dfa630b9877",
+      "question_text": "Which is the correct way to say \"white cat\"?"
+    },
+    {
+      "id": "7fe5e2eb-3b2a-5b76-aec6-6b59ba2ed7b3",
+      "question_text": "What does 粉 (fěn) mean in the context of colours?"
+    },
+    {
+      "id": "83f59744-d5e5-5945-931e-aa05eacf1351",
+      "question_text": "What does 小 (xiǎo) mean?"
+    },
+    {
+      "id": "8b1180c4-bd7e-5a23-bcbb-60ea7d5feaa2",
+      "question_text": "What does 高 (gāo) mean?"
+    },
+    {
+      "id": "8eeee49a-b69c-525b-a034-882c975893b1",
+      "question_text": "What particle connects an adjective to a noun in Chinese?"
+    },
+    {
+      "id": "938e4d1f-343b-5518-bc16-add18626d55c",
+      "question_text": "Write the pinyin (including tone number) for 粉 meaning \"pink\":"
+    },
+    {
+      "id": "94664b18-8b1d-5614-ad55-83f30cb9fb89",
+      "question_text": "What does 黄 (huáng) mean?"
+    },
+    {
+      "id": "987b6530-71f0-5e2d-a108-624764a5f52c",
+      "question_text": "Write a Chinese sentence contrasting a big dog and a small cat:"
+    },
+    {
+      "id": "9c9e7105-aa36-5151-99e0-d4148a94d6c1",
+      "question_text": "You want to say \"He wears big black shoes.\" Which is correct?"
+    },
+    {
+      "id": "9d04a936-d1ca-5092-8d31-a527e0c8cea6",
+      "question_text": "What does 白 (bái) mean?"
+    },
+    {
+      "id": "9f4fd4e2-36a8-5326-b685-8edb869fc51d",
+      "question_text": "Translate \"blue bag\" into Chinese using the colour + 的 + noun pattern:"
+    },
+    {
+      "id": "a20f6d10-ee02-5915-8884-e4bdbaacc685",
+      "question_text": "What does 漂亮 (piàoliang) mean?"
+    },
+    {
+      "id": "a294cbdd-1c54-5a89-9f7d-88ec9382c04e",
+      "question_text": "Arrange these elements to form \"red apple\" in Chinese:"
+    },
+    {
+      "id": "a33fb3fa-6e37-5eda-823d-bc825bf04992",
+      "question_text": "How do you say \"red clothes\" in Chinese?"
+    },
+    {
+      "id": "aee8051c-dda5-5d57-aec0-975c3da309c5",
+      "question_text": "In everyday spoken Chinese, which is more common?"
+    },
+    {
+      "id": "aeeee688-62ab-50f6-99c0-e6645b7f94ac",
+      "question_text": "What does 绿 (lǜ) mean?"
+    },
+    {
+      "id": "b733df3f-461c-5013-9fe3-363f019e5348",
+      "question_text": "Write the full Chinese word for \"white colour\" (colour + 色):"
+    },
+    {
+      "id": "b99d5f86-4209-57cd-9266-96046e5452f3",
+      "question_text": "How do you say \"handsome man\" in Chinese?"
+    },
+    {
+      "id": "bc394d4f-6af4-5024-bd80-aba9f714efd0",
+      "question_text": "Which are correct ways to say \"green tea\" in Chinese?"
+    },
+    {
+      "id": "bfd8f667-c7a3-56d9-84a6-937b617ae0da",
+      "question_text": "If you want to say a dog is physically large in overall size, which word would you use?"
+    },
+    {
+      "id": "c4c47247-570c-5f88-a179-559eaa166bc5",
+      "question_text": "Which phrase best describes \"a short fat cat\"?"
+    },
+    {
+      "id": "cbdccde3-9841-5668-be32-69f3934c36cd",
+      "question_text": "Arrange to form \"long black hair\" in Chinese:"
+    },
+    {
+      "id": "ce485148-fd4f-5ee6-a8e9-9650e07dbd10",
+      "question_text": "Your friend says \"我的包是小的蓝色的\" (Wǒ de bāo shì xiǎo de lánsè de). What are they looking for?"
+    },
+    {
+      "id": "d01f4ff2-bece-5fb6-a17e-bf4d468657e6",
+      "question_text": "Which phrase is NOT natural in Chinese?"
+    },
+    {
+      "id": "d62c1ad5-8330-5345-8541-27e480e13d1d",
+      "question_text": "Write the Chinese character for \"yellow\":"
+    },
+    {
+      "id": "d6c6770b-1c34-5b0b-9a2e-39ea14c20c8e",
+      "question_text": "Which word is typically used to describe a handsome man?"
+    },
+    {
+      "id": "de72e645-9b70-518b-8f7f-552e36310e00",
+      "question_text": "Describe the difference between two shirts: one is long and blue, the other is short and white:"
+    },
+    {
+      "id": "e5dd76b1-cc85-5f26-a6b9-f1ce4be0229d",
+      "question_text": "Someone says \"这个人很高很瘦,穿黑色的衣服\" (Zhège rén hěn gāo hěn shòu, chuān hēisè de yīfu). Which describes this person?"
+    },
+    {
+      "id": "e88aab4c-039b-5f80-8382-5df4e63f27fa",
+      "question_text": "Which items would typically be described with 高 (tall/high)?"
+    },
+    {
+      "id": "eb476447-fac1-5bcf-9dde-46650056b9a3",
+      "question_text": "What does 红 (hóng) mean?"
+    },
+    {
+      "id": "ecaa4e40-de8d-5f5a-9721-3882a9a8e627",
+      "question_text": "Translate \"pretty girl\" into Chinese:"
+    },
+    {
+      "id": "f09c85ed-5f82-5130-b0b2-3c363cda716e",
+      "question_text": "How do you say \"small white cat\" in Chinese?"
+    },
+    {
+      "id": "f3d0dedf-7796-5746-b309-90376c4d1882",
+      "question_text": "You want to ask a shopkeeper if they have a small black bag. Write your question in Chinese:"
+    },
+    {
+      "id": "fe448a67-29aa-51dc-a5af-8027a37b4aeb",
+      "question_text": "Which pairs represent opposite concepts of dimension or size?"
+    }
+  ]
+}

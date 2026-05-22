@@ -1,0 +1,1418 @@
+{
+  "mandarin-hsk1.1.1": {
+    "status": "issues",
+    "findings": [
+      {
+        "blockTitle": "phase:complex Tone Pair Combinations: First + Second",
+        "issue": "The example *tiānqì* is incorrectly identified as 1st + 2nd tone when it's actually 1st + 4th tone (天气). The correction offered mid-paragraph (*Zhōngwén*) is correct but creates confusion. Should be rewritten with only correct examples."
+      },
+      {
+        "blockTitle": "phase:complex Tone Pair Combinations: First + Second",
+        "issue": "The example *shēngyīn* is stated to be 1st + 1st, not 1st + 2nd. The actual correct reading is shēngyīn (1st + 1st, 声音), confirming it's not a suitable example for this section."
+      },
+      {
+        "blockTitle": "phase:complex Tone Pair Combinations: Third + Third",
+        "issue": "The examples *lǎoshǔ* (老鼠, mouse) and *yǔsǎn* (雨伞, umbrella) should be verified. Standard pronunciation is lǎoshǔ (3rd + 3rd → 2nd + 3rd) ✓ and yǔsǎn (3rd + 3rd → 2nd + 3rd) ✓. These are correct."
+      },
+      {
+        "blockTitle": "Question: Order these tones from highest starting pitch to lowest",
+        "issue": "The answer given is 'dabc' which corresponds to: First tone (55), Fourth tone (51), Third tone (214), Second tone (35). However, second tone starts at 3 (mid-range) and third tone starts at 2 (mid-low range per the notation 214). The correct ordering from highest starting pitch should be: First (5), Fourth (5), Second (3), Third (2), which would be 'd,a,c,b' or with first/fourth tied at top. The current answer 'dabc' incorrectly places third tone (starting at 2) before second tone (starting at 3)."
+      },
+      {
+        "blockTitle": "phase:integration Tone Production in Complete Sentences",
+        "issue": "In the example breakdown: 'Nǐ (2nd tone becomes 2nd tone, no change)' - This is confusing. The word 你 (nǐ) is third tone, not second tone. It should state that nǐ is third tone and becomes partial third before māma, or if discussing tone sandhi context, clarify what 'becomes 2nd tone' refers to."
+      }
+    ]
+  },
+  "mandarin-hsk1.1.3": {
+    "status": "issues",
+    "findings": [
+      {
+        "blockTitle": "Basic Initials: b, p, m, f",
+        "issue": "Factual inaccuracy: 'b' is described as 'without voice (unaspirated)' which is confusing. Mandarin 'b' is voiceless and unaspirated, not 'without voice.' The term 'voiceless' should be used instead of 'without voice' to be technically accurate."
+      },
+      {
+        "blockTitle": "Alveolar Initials: d, t, n, l",
+        "issue": "Factual inaccuracy: Same issue as above - 'd' is described as 'unaspirated' which is correct, but the English comparison 'like d in stop' is misleading since English 'd' in 'stop' is actually a 't' sound. Should compare to onset position more carefully."
+      },
+      {
+        "blockTitle": "Velar Initials: g, k, h",
+        "issue": "Factual inaccuracy: The description of 'h' as 'produced further back in the throat' is imprecise. Mandarin 'h' is a velar fricative [x], not a glottal fricative like English 'h' [h]. This distinction should be clearer."
+      },
+      {
+        "blockTitle": "Simple Finals: a, o, e, i, u, ü - Question about 'o'",
+        "issue": "Factual inaccuracy: The description of 'o' as 'like or in British English' is misleading. Mandarin 'o' [ɔ] or [o] varies by context and is not accurately compared to English 'or'. This vowel rarely appears alone in Standard Mandarin and its description needs refinement."
+      },
+      {
+        "blockTitle": "Compound Finals: ai, ei, ao, ou",
+        "issue": "Completeness issue: The statement 'The first vowel is typically more prominent' is not always accurate. In 'ei' and 'ou', the second element is often more prominent. This needs correction."
+      },
+      {
+        "blockTitle": "Special Finals: er, i variants - Question difficulty:2",
+        "issue": "Answer correctness: The question asks how 'i' is pronounced in 'zi', with answer 'b: Like a buzz, similar to uh'. This is imprecise. After z, c, s, the 'i' represents a syllabic consonant [ɿ], which is the continuation of the sibilant, not really 'uh'. The explanation could be clearer."
+      },
+      {
+        "blockTitle": "Distinguishing Similar Initial Pairs - ordering question",
+        "issue": "Answer correctness: The ordering question asks to arrange 'from least aspirated to most aspirated' with items bā, pā, mā, fā. The answer explanation states 'm and f are not stop consonants, no aspiration distinction' but then includes them in an ordering, which is contradictory. M and f cannot be ordered by aspiration as they are not stops. This question is conceptually flawed."
+      },
+      {
+        "blockTitle": "Palatal vs Retroflex vs Dental Initials - multiChoice question",
+        "issue": "Answer correctness: The question asks which initials are produced with tongue curled back, with answers b:zh, c:sh, e:r marked correct. However, 'd:x' is listed as an option but not marked. The answer is correct, but option 'a:j' and 'd:x' being included makes sense as distractors."
+      },
+      {
+        "blockTitle": "Spelling Rules for j, q, x + ü - Question 'How should qu be pronounced'",
+        "issue": "Answer clarity: Answer 'c: Like chü (with rounded lips as in ü)' is somewhat confusing because 'ch' in this context could be misread as the pinyin 'ch' which is retroflex. The answer should clarify this is meant as an approximate English sound, not pinyin 'ch'."
+      },
+      {
+        "blockTitle": "Building Syllables from Components - multiChoice question",
+        "issue": "Answer correctness: The explanation states 'zhü is invalid (zh doesn't combine with ü)' which is correct, but the answer should note that 'xua' is invalid because 'x' requires i/ü-based finals, and 'ua' has 'u' as the medial, which x cannot take."
+      },
+      {
+        "blockTitle": "Spelling Rules for j, q, x + ü - multiChoice question",
+        "issue": "Answer correctness: The question asks which syllables are pronounced with ü sound. Answer includes 'a:ju, c:qu, d:xu' as correct and 'b:lu, e:ku' as incorrect. However, the explanation should clarify that 'ju, qu, xu' are written without umlaut but pronounced with ü, while lu and ku use regular u. The answer is correct but could be clearer."
+      }
+    ]
+  },
+  "mandarin-hsk1.1.2": {
+    "status": "issues",
+    "findings": [
+      {
+        "blockTitle": "Third Tone Sandhi: The Basic Rule - Example",
+        "issue": "The example shows 你好 with both syllables as 3rd tone, but 好 is actually 3rd tone, so this is correct. However, the pronunciation guide 'níhǎo' could be misread - should clarify that ní is spoken as rising tone (2nd tone contour)."
+      },
+      {
+        "blockTitle": "The Negative 不 (bù): Base Tone - Examples",
+        "issue": "The content includes 不要 búyào in the examples but then says 'Wait—that last one looks different!' This creates confusion. 要 is 4th tone, so this should demonstrate the rule, but it's presented before explaining the rule, making the narrative disjointed."
+      },
+      {
+        "blockTitle": "The Negative 不 (bù): Tone Change Rule - Examples",
+        "issue": "The self-correction about 不对 is confusing and undermines learner confidence. The example should be removed or the entire section rewritten cleanly. 对 is 4th tone (duì), so 不对 should be bú duì, not bù duì as stated in keeping it."
+      },
+      {
+        "blockTitle": "The Negative 不 (bù): Tone Change Rule - Question on 不对",
+        "issue": "Question asks 'Which word keeps 不 in its original 4th tone?' and answer is (c) 不好. However, options (a), (b), and (d) all have 4th-tone syllables following 不, meaning 不 should change to 2nd tone in all of them. The explanation for (c) is correct, but option (b) 不对 should be pronounced bú duì, not bù duì."
+      },
+      {
+        "blockTitle": "Applying Multiple Tone Rules - Example 你不好",
+        "issue": "The explanation states 'Only third-tone sandhi applies (nǐ → ní before hǎo)' but 你 and 好 are not adjacent - 不 is between them. Third-tone sandhi only applies to consecutive 3rd-tone syllables. The answer (b) ní bù hǎo may be coincidentally correct due to 你 being followed by 不 (4th tone), triggering sandhi, but the explanation is wrong."
+      },
+      {
+        "blockTitle": "Third-Tone Sandhi in Three-Syllable Phrases - Explanation",
+        "issue": "In the explanation for 我也好, it states 'we only change the FIRST of two 3rd tones' when describing why 也 stays 3rd before 好. This is incorrect reasoning - 也 (3rd) + 好 (3rd) should trigger sandhi making 也 → yé. The result should be wó yé hǎo, not wó yě hǎo. The answer states only 我 changes, which is incorrect."
+      },
+      {
+        "blockTitle": "Third-Tone Sandhi in Three-Syllable Phrases - Free text question",
+        "issue": "The answer shows 'háo wǒ' for the pair 好+我, but explains that only the first of two 3rd tones changes. This is contradictory. If applying the rule consistently, 好 would change before 我 (both 3rd tone), so háo wǒ is correct, making the final result ní háo wǒ correct."
+      },
+      {
+        "blockTitle": "Real Conversation Tone Analysis - Free text answer",
+        "issue": "The answer analysis for 你也 states third-tone sandhi applies (nǐ + yě → ní + yě), which is correct. However, the analysis for 也去 is confusing and incorrect. It states 'yě is already first in yě + qù pair but it's 3rd + 4th so no sandhi applies.' Third-tone sandhi only applies to 3rd+3rd, so this is correct that no change occurs, but the explanation is unclear."
+      },
+      {
+        "blockTitle": "Real Conversation Tone Analysis - Multi-choice question",
+        "issue": "The explanation states '我 doesn't change—while it's 3rd tone, it's not followed by another 3rd tone.' However, in '我也不要' the sequence is 我 (3rd) + 也 (3rd), which should trigger sandhi. The first 我 should change: wó yě. The answer (abc) is marked correct but 我 in the first occurrence should also change."
+      },
+      {
+        "blockTitle": "Tone Rule Practice Set - Ordering question",
+        "issue": "The explanation states option (a) 我去 has '0 changes (3rd+4th has no sandhi)' which is correct. However, for option (c) 你好你好, it claims '3 changes in two pairs' but there are two pairs of 3rd+3rd: (你+好) and (你+好) again, which would be 2 changes total (first syllable of each pair), not 3."
+      },
+      {
+        "blockTitle": "Tone Rule Practice Set - Phrase analysis",
+        "issue": "In option (b) analysis '不是一个', the structure is 不 (4th) + 是 (4th) + 一 (1st) + 个 (4th). This would give: bú shì yí gè with 2 changes as stated (不→bú before 是, 一→yí before 个), which is correct."
+      },
+      {
+        "blockTitle": "Diagnostic Listening - Student pronunciation",
+        "issue": "The question describes a student pronouncing 一起 as 'yīqǐ (1st tone + 3rd tone)' and the correct answer is yìqǐ (4th + 3rd). This is correct as 一 changes to 4th before 3rd tone."
+      }
+    ]
+  },
+  "mandarin-hsk1.10.1": {
+    "status": "issues",
+    "findings": [
+      {
+        "blockTitle": "Practice Test Scenario - Question: What was Zhang Wei's total score?",
+        "issue": "Answer marked as 'd: 165 points' but the explanation shows calculation of 145 points. Correct total: Listening 13 correct (4+3+2+4), Reading 16 correct (5+4+3+4) = 29 total × 5 = 145 points. Answer should be 'a: 145 points'."
+      },
+      {
+        "blockTitle": "Practice Test Scenario - Question: Did Zhang Wei pass the HSK 1 exam?",
+        "issue": "With corrected score of 145 points, Zhang Wei did pass (above 120 threshold), so answer 'b' remains correct, but this depends on fixing the previous question."
+      },
+      {
+        "blockTitle": "Listening Part 3 Format",
+        "issue": "Minor ambiguity: states 'you must choose the correct answer from several pictures' but doesn't clarify if answer choices are always pictures or could be other formats. HSK 1 typically uses pictures but specification should be verified."
+      },
+      {
+        "blockTitle": "Listening Part 4 Format",
+        "issue": "States answers are 'usually given as pictures or short written phrases' - this creates uncertainty. At HSK 1 level, the format should be specified more definitively based on official exam structure."
+      },
+      {
+        "blockTitle": "Time Management Strategy",
+        "issue": "States 'approximately 40 minutes' total and breaks down to 15 (listening) + 17 (reading) + 5-8 (answer sheet) = 37-40 minutes. However, official HSK 1 exam duration should be verified for precision. Some sources indicate total test time including instructions may differ."
+      },
+      {
+        "blockTitle": "Exam Day Task Recognition - Question about Reading Part 1",
+        "issue": "Question states 'You see five pictures and five Chinese words written below them, but they're not in the correct order.' This description is slightly ambiguous - should clarify that words and pictures are separate and need to be matched, not that words are literally 'below' the pictures in order."
+      }
+    ]
+  },
+  "mandarin-hsk1.1.4": {
+    "status": "issues",
+    "findings": [
+      {
+        "blockTitle": "## phase:atomic Zero-initial i becomes yi - Example yī yī èr èr",
+        "issue": "The phrase 'yī yī èr èr' means 'one one two two' literally, but the example states it means 'random, chaotic'. While this phrase can colloquially suggest disorder, this specific meaning is not standard. A clearer example would be simpler vocabulary like 'yīfu' (clothes) to show the rule."
+      },
+      {
+        "blockTitle": "## phase:atomic Summary of zero-initial spelling rules - multiChoice question",
+        "issue": "Question asks which are correct transformations and lists answer as 'abd', but option 'c: ü becomes yü' is INCORRECT (it should be 'yu'), and option 'd: ü becomes yu' is CORRECT. The answer should be 'a, b, d' written as 'abd' which appears correct, but the question text shows 'answer: abd' when there are only options a, b, c, d. If answer is 'abd' this is impossible with 4 options. Likely meant to be 'a, b, d' or the options are misnumbered."
+      },
+      {
+        "blockTitle": "## phase:atomic Tone mark placement: when no a is present - singleChoice question 'Which syllable has the tone mark correctly placed?'",
+        "issue": "Option 'd: All of the above' is marked correct, but option 'c: heī' is INCORRECT. In 'hei' (black), the tone mark should go on 'e' (hēi), not 'i' (heī). The vowel 'e' has priority over 'i' when they appear together."
+      },
+      {
+        "blockTitle": "## phase:complex Tone mark placement in multi-vowel syllables - singleChoice question about 'mao'",
+        "issue": "Question asks about 'mao with tone 1' and the correct answer is 'māo'. However, the actual word for 'cat' is 'māo' (tone 1), but 'mào' (tone 4) means 'hat/cap'. Without specifying which word/meaning, this could be confusing. The answer 'māo' is technically correct for tone 1 as asked."
+      },
+      {
+        "blockTitle": "## phase:complex Distinguishing ü-related spellings - multiChoice question",
+        "issue": "Question asks 'In which contexts is the ü sound written with visible dots (ü)?' with answer marked as 'b' (After n or l). However, option 'c: At zero initial position' states ü is written with dots at zero initial, which is INCORRECT - at zero initial, ü becomes 'yu' WITHOUT dots. The answer 'b' alone is correct."
+      },
+      {
+        "blockTitle": "## phase:complex Erhua in common expressions - multiChoice question",
+        "issue": "Question lists answer as 'abd', but with options a, b, c, d, option 'd: Verbal expressions' should be included. However, 'c: Formal technical terms' is correctly excluded as erhua is informal. The answer 'abd' appears to be a typo and should be 'a, b, d' which would need to be encoded differently in the multiChoice format. Verify the answer encoding matches 'a, b, d' as selections."
+      },
+      {
+        "blockTitle": "## phase:integration Correcting pinyin spelling errors - singleChoice question about 'tāo yàn'",
+        "issue": "The explanation states the tone mark is incorrectly on the first vowel and should be 'tǎo yàn' with mark on 'a'. However, 'tāo yàn' already has the mark on 'a' in the first syllable (tāo). If the error is that it should be 3rd tone (tǎo) instead of 1st tone (tāo), then the issue is tone NUMBER, not tone placement. The explanation is misleading. The actual word 讨厌 is 'tǎo yàn' (3rd + 4th tone)."
+      },
+      {
+        "blockTitle": "## phase:integration Correcting pinyin spelling errors - multiChoice identifying errors",
+        "issue": "Option 'd: yù should be yú (jade is 2nd tone, not 4th)' - The word for 'jade' is 玉 'yù' (4th tone), NOT 2nd tone. The word 鱼 'yú' (2nd tone) means 'fish'. This option contains a factual error about which tone jade uses."
+      },
+      {
+        "blockTitle": "## phase:integration HSK vocabulary with complex pinyin - example 'yuèliang'",
+        "issue": "States 'tone on ia→a in second syllable' for 'liang'. In the combination 'ia', when 'a' is present, the tone mark goes on 'a' per the rules, making it 'liàng'. However, the notation 'ia→a' is unclear. Should simply state 'tone mark on a in the second syllable (liàng)'."
+      }
+    ]
+  },
+  "mandarin-hsk1.10.4": {
+    "status": "issues",
+    "findings": [
+      {
+        "blockTitle": "question singleChoice difficulty:1 - vocabulary percentage",
+        "issue": "The calculation 110/150 = 73.33% is correct, but this rounds to 73%, not exactly 73%. The answer is technically correct but the question could be more precise about rounding."
+      },
+      {
+        "blockTitle": "question ordering difficulty:2 - sentence structure",
+        "issue": "The correct word order for '这是我的书' (This is my book) should be: 这(a), 是(b), 我的(c), 书(d). The answer 'abcd' is correct."
+      },
+      {
+        "blockTitle": "HSK 1 exam scoring",
+        "issue": "In 'Diagnostic Practice Test Strategy' section, it states 'Listening: 35 questions' and 'Listening/40' and later 'Total/100' with 'HSK 1 requires 120/200 points'. However, the actual HSK 1 scoring is: Listening 100 points (Part 1: 5 questions/5 points, Part 2: 10 questions/10 points, Part 3: 10 questions/10 points, Part 4: 5 questions/5 points = total 30 questions for scaled 100 points), Reading 100 points (20 questions scaled to 100 points), Total 200 points. The '35 questions' for listening is incorrect (should be 30-31 questions). The scoring explanation is also confusing with '/40' and '/60' notation which doesn't match the 100+100=200 structure."
+      },
+      {
+        "blockTitle": "question singleChoice difficulty:3 - score interpretation",
+        "issue": "The question uses the scoring notation '32/40 on listening and 38/60 on reading (total: 70/100, or 140/200)'. This scoring system is inconsistent with actual HSK 1 scoring where both sections are worth 100 points each (total 200). The math also doesn't work: 32/40 scaled would be 80/100, and 38/60 scaled would be approximately 63/100, totaling 143/200, not 140/200."
+      },
+      {
+        "blockTitle": "Reading section question count",
+        "issue": "In 'Reading Section Skills Audit', it states 'Question Type 1: Match picture to word/phrase (5 questions), Question Type 2: Match sentence to picture (5 questions), Question Type 3: Complete sentence with correct word (10 questions)' totaling 20 questions. However, actual HSK 1 Reading has: Part 1 (5 questions), Part 2 (5 questions), Part 3 (5 questions), Part 4 (5 questions) = 20 questions total. The distribution described doesn't match the official format exactly."
+      }
+    ]
+  },
+  "mandarin-hsk1.1.5": {
+    "status": "issues",
+    "findings": [
+      {
+        "blockTitle": "What Are Radicals (部首)?",
+        "issue": "The statement 'There are 214 traditional radicals' is accurate for the Kangxi radical system, but may be confusing since the content focuses on simplified characters. Modern simplified character dictionaries often use 189-201 radicals. Consider clarifying this refers to the traditional classification system."
+      },
+      {
+        "blockTitle": "The Six Basic Strokes",
+        "issue": "The description of 捺 (nà) shows '丶 (when long)' but 丶 is the dot stroke. The nà stroke should be represented as something like ㇏ or described as a downward-right diagonal stroke. This is potentially confusing."
+      },
+      {
+        "blockTitle": "Stroke Order Rules: Outside Before Inside",
+        "issue": "The exception explanation is unclear. The rule for 囗-type enclosures is: write left and top, then inside, then bottom (close the enclosure). The current wording 'write the outer frame, then the inside, then close the bottom' could be more precise - should specify it's left-top-inside-bottom sequence."
+      },
+      {
+        "blockTitle": "Character Components vs. Individual Characters",
+        "issue": "忄 is listed as 'vertical heart' but should be clarified as the radical form of 心 (heart), parallel to how 亻 relates to 人 and 氵 relates to 水. The explanation would be clearer with this parallel structure."
+      },
+      {
+        "blockTitle": "Question: Which type of Chinese characters does the HSK examination use?",
+        "issue": "Difficulty rating of 0 seems appropriate, but the question is almost trivially easy given it directly follows a statement that 'HSK examinations use simplified characters.' Consider if this tests retention or is just immediate repetition."
+      },
+      {
+        "blockTitle": "Question: Explain why stroke order matters (freeText)",
+        "issue": "The answer key lists 'helps with character recognition when reading cursive or handwritten text' - while true, this is quite advanced for HSK 1 level where students are learning basic printed characters. Consider if this answer expectation matches the HSK 1 context."
+      },
+      {
+        "blockTitle": "Radicals and Semantic Fields",
+        "issue": "The claim that 法 (fǎ) 'originally related to water-level measurement' is historically accurate (水 + 廌, with 廌 being a mythical beast representing justice, later simplified), but the water connection is actually from 廌 removal in simplification, not water-level measurement. The etymology is more complex than stated."
+      },
+      {
+        "blockTitle": "Question: Why does 法 (fǎ, 'law') contain the water radical 氵?",
+        "issue": "Answer b states 'The character originally related to water-level measurement' - this is a folk etymology. The traditional form 灋 contained 水 and 廌 (a mythical creature of justice). The water radical's original semantic connection is debated by scholars. This answer presents one theory as definitive fact."
+      },
+      {
+        "blockTitle": "Character Evolution and Modern Forms",
+        "issue": "The statement that 聽 → 听 replaced 'complex ear/virtue components' is oversimplified. 聽 contains 耳 (ear), 王 (king acting as phonetic), 十, 目 (eye), and 一. The simplification to 听 (originally meaning 'to smile/laugh') is a complete character substitution, not component replacement. This misrepresents the simplification type."
+      },
+      {
+        "blockTitle": "Character Components in Context - 青 example",
+        "issue": "While 青 does provide pronunciation hints in 请, 清, and 晴 (all qīng), stating this as the pattern without noting that many phonetic components are less reliable could create false expectations. Consider adding a caveat that phonetic components provide clues but aren't always reliable, especially at HSK 1 level."
+      }
+    ]
+  },
+  "mandarin-hsk1.10.2": {
+    "status": "issues",
+    "findings": [
+      {
+        "blockTitle": "phase:atomic 我要 — \"I want\"",
+        "issue": "Minor: The statement 'This phrase is more direct than English \"I'd like,\" but it's the standard way to order' could be clearer. It's not about directness being problematic—我要 is simply the standard, unmarked form in Chinese contexts."
+      },
+      {
+        "blockTitle": "phase:atomic Asking price with 多少钱 - question exactMatch difficulty:1",
+        "issue": "The answer accepts both with and without question mark, but both answers show 多少钱 (missing 这个). Should be '这个多少钱' as specified in the question prompt."
+      },
+      {
+        "blockTitle": "phase:atomic Numbers in prices — Review - question singleChoice difficulty:1",
+        "issue": "Answer b '二十三块 (èrshí sān kuài)' is correct, but should note that there's no space in '二十三'—it should be written as one word '二十三'."
+      },
+      {
+        "blockTitle": "phase:atomic Measure word 个 in ordering",
+        "issue": "The explanation 'Use 两 (liǎng) not 二 (èr) for \"two\" when counting items' is correct but incomplete. Should note that 二 is used in compound numbers (二十二) and when counting abstractly, while 两 is used with measure words."
+      },
+      {
+        "blockTitle": "phase:complex Multiple items ordering - question multiChoice difficulty:2",
+        "issue": "Answer c '我要这个和那个' is marked correct, but 和 (hé) hasn't been introduced in this subtopic. This creates a pedagogical inconsistency—either 和 should be taught first, or this option should be excluded or marked as preview content."
+      },
+      {
+        "blockTitle": "phase:complex Responding to \"还要吗?\" - question singleChoice difficulty:2",
+        "issue": "Answer d '没有 (méiyǒu)' as a distractor is problematic because 没有 could actually be used in some contexts to mean 'don't have (anything else I want).' While 不要了 is more standard, 没有了 is also possible. Consider a clearer distractor."
+      },
+      {
+        "blockTitle": "phase:integration Complete restaurant ordering",
+        "issue": "The note introduces several new terms (要什么, 杯, 不要钱, 找你) that haven't been taught in the content. While marked as notes, this may confuse learners. Consider either teaching these in atomic/complex phases or marking this as 'preview/stretch' content."
+      },
+      {
+        "blockTitle": "phase:integration Handling misunderstanding",
+        "issue": "The phrase 请再说一次 is mentioned as 'beyond HSK 1 scope' but 再 and 说 are HSK 1 vocabulary. The construction might be complex, but the vocabulary is appropriate. Consider revising this statement."
+      },
+      {
+        "blockTitle": "phase:integration Listening comprehension — fast transaction - question singleChoice difficulty:3",
+        "issue": "The explanation for answer d is excellent, but the difficulty rating of 3 may be too high for a question asking 'what's different' when the differences are explicitly listed in the explanation. Consider difficulty 2."
+      }
+    ]
+  },
+  "mandarin-hsk1.10.3": {
+    "status": "issues",
+    "findings": [
+      {
+        "blockTitle": "phase:atomic Reading Time Expressions - question singleChoice difficulty:2",
+        "issue": "The question asks 'When is he not here?' for the sentence '他今天不在' but doesn't specify what 在 means in this context. While the answer 'Today' is correct, the sentence literally means 'He today not at/present' and the English translation could be clearer about whether this is a location or presence statement."
+      },
+      {
+        "blockTitle": "phase:atomic Reading Location Phrases",
+        "issue": "The content states '在那儿' means 'there' but in the example question it's used with negation. The question '我不在那儿' asking 'Where is the person?' with answer 'Not there' is slightly confusing - it's asking about location but the answer is a negative statement about location rather than stating where they ARE."
+      },
+      {
+        "blockTitle": "phase:atomic Reading Family Member References",
+        "issue": "The content lists '老师 (teacher)' and '朋友 (friend)' under 'Family Member References' but these are not family members. The section title and tag 'family' are misleading."
+      },
+      {
+        "blockTitle": "phase:atomic Reading Descriptions with 很",
+        "issue": "Content states '很 links the subject to the adjective' but doesn't clarify that in predicate adjective constructions, 很 is often grammatically required and doesn't always carry the strong meaning of 'very.' This is important for HSK 1 learners."
+      },
+      {
+        "blockTitle": "phase:complex Understanding Possession and Relationships - question singleChoice difficulty:2",
+        "issue": "The text says '我的老师是中国人。她的名字叫李老师。' The phrase '她的名字叫李老师' is slightly awkward. Typically it would be '她叫李老师' or '她的名字是李'. The construction '名字叫' is redundant since both indicate naming."
+      },
+      {
+        "blockTitle": "phase:complex Reading Location and Existence - question singleChoice difficulty:3",
+        "issue": "The question asks about the difference between '我在学校有朋友' and '我的朋友在学校'. The first sentence '我在学校有朋友' is grammatically awkward in Chinese. The correct form should be '我有朋友在学校' or '我在学校有一些朋友' to properly express 'I have friends at school.'"
+      },
+      {
+        "blockTitle": "phase:integration Reading a Simple Notice",
+        "issue": "The notice '商店今天不在。明天九点来。' uses '不在' for a store not being open, which is unusual. Stores would typically use '不开' (not open) or '关门' (closed). Also, '来' (come) in the second sentence is odd - it should be '开' (open) or '营业' (do business)."
+      },
+      {
+        "blockTitle": "phase:integration Reading a Simple Notice - question singleChoice difficulty:3 (second question)",
+        "issue": "Minor: The title shows this as a 'singleChoice' question but the previous question in the same phase:integration section also shows as 'singleChoice' with the same title. This creates ambiguity in identification - questions should have unique identifiers or more specific titles."
+      }
+    ]
+  },
+  "mandarin-hsk1.2.2": {
+    "status": "issues",
+    "findings": [
+      {
+        "blockTitle": "phase:atomic 不客气 (bú kèqi) — You're welcome",
+        "issue": "Tone information is incomplete. The block states 'bú kèqi' but doesn't explicitly list the tone pattern. While 'bú' indicates 2nd tone (tone sandhi from 4th), the complete pattern should be stated: 2nd tone, 4th tone, light/neutral tone for consistency with other blocks."
+      },
+      {
+        "blockTitle": "phase:atomic 没关系 (méi guānxi) — No problem / It's okay",
+        "issue": "Tone information is missing. Should specify: 2nd tone, 1st tone, light/neutral tone."
+      },
+      {
+        "blockTitle": "phase:atomic 请 (qǐng) — Please",
+        "issue": "Minor clarity issue in the explanation 'Unlike 对不起 (apology), 请 invites...' This comparison seems unnecessary at this point since 对不起 hasn't been introduced yet in the learning sequence, though it was mentioned earlier in the content."
+      },
+      {
+        "blockTitle": "phase:atomic 请进 (qǐng jìn) — Please come in",
+        "issue": "Tone information incomplete. Should specify: 3rd tone, 4th tone."
+      },
+      {
+        "blockTitle": "phase:atomic 请坐 (qǐng zuò) — Please sit",
+        "issue": "Tone information incomplete. Should specify: 3rd tone, 4th tone."
+      },
+      {
+        "blockTitle": "phase:complex Tone pairs in common phrases",
+        "issue": "Statement about 不客气 tone pattern needs clarification. It states '不客气 (bú kèqi): 2nd + 4th tone' but should note that 气 is often pronounced in neutral/light tone in natural speech, making it more accurately 2nd + 4th + neutral."
+      },
+      {
+        "blockTitle": "phase:complex Tone pairs in common phrases - question multiChoice",
+        "issue": "Question asks 'Which phrases use 4th tone somewhere in them?' and marks 不客气 as correct (option c). However, given the tone sandhi rule mentioned in the content where 不 becomes 2nd tone before 客 (4th tone), the 4th tone present is in 客, which makes this correct. But this could be clearer since 不 itself is not pronounced in 4th tone here."
+      }
+    ]
+  },
+  "mandarin-hsk1.2.4": {
+    "status": "issues",
+    "findings": [
+      {
+        "blockTitle": "Expressing Busyness 很忙 - multiChoice question",
+        "issue": "The question asks which situations are appropriate for responding 还好, and answer key is 'abd' (average day, okay but not great, feeling neutral). However, option 'c' (extremely happy) is marked as incorrect, but option 'b' (okay but not great) should be 'a' and 'd' only. Looking more carefully, the answer 'abd' appears correct - the issue is actually that this is labeled as difficulty:2 but should likely be difficulty:1 as it's straightforward vocabulary comprehension."
+      },
+      {
+        "blockTitle": "Combining Responses 还好，很忙 - freeText question",
+        "issue": "The answer criteria states 'Uses 还好 or similar neutral term' and 'Includes 很忙' with 'Proper punctuation (comma between phrases)', but the most accurate answer based on the content would be '还好，很忙' exactly as taught. The rubric is too loose and doesn't specify this exact phrase that was just taught."
+      },
+      {
+        "blockTitle": "Full Conversation Exchange - ordering question",
+        "issue": "The answer is given as 'cabd' which would be: 你好吗？(c), 我很好，谢谢。(a), 你呢？(b), 我也很好。(d). However, options 'a' and 'b' should be treated as a single response from Person B. The question setup doesn't make clear whether these are separate turns or one turn. This could confuse learners."
+      },
+      {
+        "blockTitle": "Responding Without Full Sentences - multiChoice question",
+        "issue": "Answer explanation states that '忙' alone is 'less common without 很 or another modifier in this context,' which contradicts marking it as incorrect (answer is 'acd', excluding 'b'). However, the explanation itself acknowledges it IS possible, just less common. This creates inconsistency between the answer key and explanation."
+      }
+    ]
+  },
+  "mandarin-hsk1.2.1": {
+    "status": "issues",
+    "findings": [
+      {
+        "blockTitle": "phase:atomic 您好 (nín hǎo) – Formal Hello - question multiChoice difficulty:2",
+        "issue": "Answer 'd: Greeting a shop assistant in a formal store' is questionable. Shop assistants are service workers and typically would not receive 您好 unless in very high-end establishments. This is not a standard example of when to use 您好, making it a weak inclusion in the answer key."
+      },
+      {
+        "blockTitle": "phase:atomic Responding to 你好 - question singleChoice difficulty:2",
+        "issue": "The question asks what to say if you want to respond respectfully because you're much older, but the correct answer is 'a: 你好' which is not more respectful. The logic is flawed - if YOU are older, you don't need to elevate formality. If anything, the younger person should use 您好 to you. This question has the social dynamic reversed. The answer should be 你好, but the premise is incorrect."
+      },
+      {
+        "blockTitle": "phase:complex Time-Based Greeting Selection - question singleChoice difficulty:2",
+        "issue": "The answer is listed as 'b: 早上好 or 您好' but option 'b' in the choices would only show one of these, not both with 'or'. The question construction is unclear - it should either be a multiChoice question or the options should be written as compound options like 'b: 早上好 or 您好'."
+      },
+      {
+        "blockTitle": "phase:complex Greeting and Farewell Combinations - question multiChoice difficulty:3",
+        "issue": "Answer states 'abd' but explains that option 'c: 你好 (arrival) → 早上好 (departure)' doesn't make sense. However, option 'b: 晚上好 (arrival) → 晚安 (departure before sleep)' only makes sense if there's a significant time gap and if people are actually going to bed. The scenario lacks this context, making it less universally correct than implied."
+      },
+      {
+        "blockTitle": "phase:integration Error Analysis and Correction - question multiChoice explanation",
+        "issue": "The explanation states '您好 with classmates is overly formal but not incorrect' - this contradicts marking option 'b' as not a mistake. If it's 'overly formal,' it could be considered socially awkward or inappropriate in context, which could be viewed as a pragmatic error even if grammatically correct. The distinction between 'wrong' and 'inappropriate' needs clarification."
+      }
+    ]
+  },
+  "mandarin-hsk1.3.1": {
+    "status": "issues",
+    "findings": [
+      {
+        "blockTitle": "One Hundred",
+        "issue": "Statement 'When saying exactly 100, you include 一 (yī) before 百. This is standard and not typically omitted' is imprecise. While 一百 is standard in most contexts, 百 alone can be used in certain contexts like classical Chinese or some modern expressions. The claim 'not typically omitted' overstates the case."
+      },
+      {
+        "blockTitle": "One Hundred",
+        "issue": "The example '一百零一 (yī bǎi líng yī) for 101' goes beyond the scope of 'Numbers 0-100' as stated in the subtopic title."
+      },
+      {
+        "blockTitle": "The Distinction Between 二 and 两",
+        "issue": "The rule for 200 needs clarification. While 两百 is standard in Mandarin, the absolute statement '两百 (liǎng bǎi)' and later 'never 二百 in standard Mandarin' may be too absolute, as 二百 appears in some regional dialects and classical usage, though 两百 is indeed the standard modern Mandarin form."
+      },
+      {
+        "blockTitle": "Using 二 and 两 in Context - question multiChoice difficulty:3",
+        "issue": "Answer key 'abd' includes option d 'When telling time (two o'clock)' but telling time with 两点 is not covered in the preceding content block, making this untestable based on the material presented."
+      },
+      {
+        "blockTitle": "Number System Analysis - question multiChoice difficulty:4",
+        "issue": "Explanation states 'D is incorrect because 200 uses 两百, not 二百' but option D states 'The number 200 uses 二百' which makes the question circular - it's testing whether students remember an exception rather than understand a principle. This doesn't align well with 'principles they should emphasize' about logic and patterns."
+      }
+    ]
+  },
+  "mandarin-hsk1.3.2": {
+    "status": "issues",
+    "findings": [
+      {
+        "blockTitle": "Asking prices: 这个多少钱 (zhège duōshao qián)",
+        "issue": "Pinyin answer key accepts 'zhè ge duō shǎo qián' with tone4 on 'ge', but 个 as a measure word should typically be neutral tone (ge or ge5). The answer key should include 'zhe4 ge5 duo1 shao3 qian2' or note that tone marking varies."
+      },
+      {
+        "blockTitle": "Asking prices: 这个多少钱 (zhège duōshao qián)",
+        "issue": "Same issue as previous - pinyin shows 'nà ge duō shǎo qián' with tone on 个, but neutral tone is standard. Answer key should reflect 'na4 ge5 duo1 shao3 qian2'."
+      },
+      {
+        "blockTitle": "Shortened price expressions",
+        "issue": "The explanation for 两百五 states it means 250 yuan with 十 omitted from 五十. However, 两百五 is ambiguous and could mean either 250 or 205 in different contexts. The content should note this potential ambiguity or clarify that context determines meaning."
+      },
+      {
+        "blockTitle": "Real shopping scenario - Item C question",
+        "issue": "The freeText answer states 六百五 'likely means 六百五十 (650 yuan) or possibly 六百五十块 (650.5 yuan)'. This is confusing - 六百五 as a shortened form typically means 650, not 650.5. The '.5' notation (650.5) would be 六百五十块五毛, not just adding 块."
+      },
+      {
+        "blockTitle": "Price comparison and calculation",
+        "issue": "The calculation answer shows 45.8 + 83 + 120.5 = 249.3 yuan, which is correct. However, the Chinese expression given is 二百四十九块三毛, but the answer key should verify if this is the expected format or if 二百四十九元三角 would also be acceptable."
+      },
+      {
+        "blockTitle": "Multi-step shopping conversation",
+        "issue": "The freeText answer rubric accepts '那个呢？' as a valid way to ask about the second item. While contextually this works, it literally means 'what about that one?' rather than explicitly asking the price. The rubric should clarify that this is acceptable as an implicit price question in context."
+      }
+    ]
+  },
+  "mandarin-hsk1.2.3": {
+    "status": "issues",
+    "findings": [
+      {
+        "blockTitle": "我 (wǒ) — I, me",
+        "issue": "Pronunciation description 'third tone — falling then rising' is incomplete. Third tone in isolation is low-dipping (falling-low-rising), but in continuous speech often becomes a low tone or changes based on tone sandhi rules. For HSK1 learners, 'low-dipping tone' or 'starts low, dips, then rises slightly' would be more accurate."
+      },
+      {
+        "blockTitle": "你 (nǐ) — you",
+        "issue": "States 你 is used 'informally or formally' - this is imprecise. 你 is the standard informal/neutral form. The formal 'you' is 您 (nín). For single person address, 你 is appropriate in most contexts but not the most formal."
+      },
+      {
+        "blockTitle": "什么 (shénme) — what",
+        "issue": "Pronunciation breakdown states 'me = neutral tone' but the standard pinyin is 'me' with a neutral tone marker. Should clarify that in 'shénme', the second syllable is typically written as 'me' in pinyin (not 'mē' or other tone marks)."
+      },
+      {
+        "blockTitle": "你是哪国人？— What is your nationality?",
+        "issue": "Minor: The structure breakdown shows '哪 (nǎ) = which' and '国 (guó) = country' separately, but they function together as '哪国' (which country) in this context. Could note that 哪 must be followed by a measure word or noun."
+      },
+      {
+        "blockTitle": "是 (shì) — to be (am/is/are)",
+        "issue": "The note 'Note: 是 is NOT used with adjectives in Chinese' is accurate but could be misleading. More precisely: 是 is not used to link subjects directly to adjectives (e.g., ❌我是高 for 'I am tall'). Adjectives can function as predicates directly, sometimes with 很. This is a key grammar point that deserves clarity."
+      },
+      {
+        "blockTitle": "Difference Between 叫 and 是",
+        "issue": "States '❌ 我是大卫' is incorrect 'unless you're confirming identity in context.' This is accurate but the later multiChoice question marks '我是大卫' as incorrect (answer 'ab', excluding 'c'), then explains it CAN be used in specific contexts. This creates confusion. Either mark it as correct with explanation, or be consistent that it's a mistake in introduction contexts."
+      },
+      {
+        "blockTitle": "Difference Between 叫 and 是 - multiChoice question",
+        "issue": "The question asks 'Which sentences use the verbs correctly?' and marks only 'ab' as correct, excluding '我是大卫', but then the explanation says it 'can be used in specific contexts.' This is contradictory. For HSK1 learners, either accept it with caveat or reject it clearly - don't do both."
+      },
+      {
+        "blockTitle": "Nationalities and Countries",
+        "issue": "日本人 (Rìběn rén) - should note that 日本 literally means 'sun origin' (Japan = land of rising sun), as this was provided for 美国 and 英国. Cultural/etymology notes should be consistent."
+      },
+      {
+        "blockTitle": "Common Mistakes in Introductions - Mistake 1",
+        "issue": "Lists '❌ 我是大卫 (when first introducing)' as a mistake, but earlier content said this CAN be used 'in specific contexts for confirming identity.' Need consistency. For HSK1, recommend clearly stating: use 我叫 for introductions, 我是 for identity confirmation only."
+      }
+    ]
+  },
+  "mandarin-hsk1.3.3": {
+    "status": "issues",
+    "findings": [
+      {
+        "blockTitle": "Constructing Complete Time Expressions - question exactMatch difficulty:2",
+        "issue": "The answer accepts both 下午六点半 (afternoon 6:30) and 晚上六点半 (evening 6:30) for '6:30 PM'. However, 6:30 PM should primarily use 晚上, not 下午, as 下午 typically ends around 6:00 PM. 下午六点半 is questionable for 6:30 PM."
+      },
+      {
+        "blockTitle": "Omitting 分 in Time Expressions - question singleChoice difficulty:2",
+        "issue": "The explanation states '六点三十 (without 半 or 分) is not standard', but this contradicts the earlier teaching in the same block that 分 can be omitted in casual speech. If 三点十五 is acceptable (as stated in the block), then 六点三十 should also be acceptable as an alternative to 六点半, though less common."
+      },
+      {
+        "blockTitle": "Reading Analog and Digital Time - question singleChoice difficulty:3",
+        "issue": "Answer choice A '十五点四十五分' is marked as incorrect, but this needs clarification. While not natural in spoken Mandarin, 24-hour format with native numbers (十五点) exists in some formal contexts. The question should specify 'spoken Mandarin' or 'everyday speech' more clearly if this is meant to be wrong."
+      },
+      {
+        "blockTitle": "Creating Your Daily Schedule - question freeText difficulty:4 (first question)",
+        "issue": "The rubric states times 'should be sequential' for a morning routine, but 去学校/工作 time could legitimately be before 吃早饭 time for some people (e.g., get up at 7:00, go to work at 7:30, eat breakfast at 8:30 at work). The requirement is too rigid."
+      },
+      {
+        "blockTitle": "Comparing Daily Schedules - question multiChoice difficulty:4",
+        "issue": "The explanation states 'Statement C is incorrect because 小明 eats lunch at 12:00 while 小红 eats at 12:30'. However, statement C says '小明和小红中午十二点吃午饭' (Xiao Ming and Xiao Hong eat lunch at noon 12:00), which is clearly false for 小红 who eats at 12:30. But the answer key marks C as incorrect by excluding it, which is correct. However, the Chinese phrasing is ambiguous - it could mean 'both eat at 12:00' or 'both eat at noon (time period)'. The explanation is correct but could be clearer."
+      }
+    ]
+  },
+  "mandarin-hsk1.3.4": {
+    "status": "issues",
+    "findings": [
+      {
+        "blockTitle": "月 (yuè) – \"Month\"",
+        "issue": "Lists months only through June but states to continue the pattern through December. Should explicitly list July-December for HSK1 completeness: 七月 (qīyuè) – July, 八月 (bāyuè) – August, 九月 (jiǔyuè) – September, 十月 (shíyuè) – October, 十一月 (shíyīyuè) – November, 十二月 (shí'èryuè) – December."
+      },
+      {
+        "blockTitle": "号 (hào) – \"Day of the Month\"",
+        "issue": "Missing important note that 日 (rì) is an alternative formal/written form for day of the month, though 号 is more common in spoken Chinese. This distinction may be tested at HSK1."
+      },
+      {
+        "blockTitle": "Talking About Birth Dates",
+        "issue": "Introduces 生日 (shēngrì) which may be beyond HSK1 vocabulary scope. Should verify this is in the HSK1 word list for subtopic mandarin-hsk1.3.4, as it's a relatively complex compound not previously introduced."
+      },
+      {
+        "blockTitle": "Planning a Meeting - question singleChoice difficulty:3",
+        "issue": "Question asks 'What does Li Ming ask after Wang Li suggests next week?' The answer 'What day of the week?' is correct based on '星期几？', but this assumes understanding of context that may be beyond a difficulty:3 question. The dialogue shows Li Ming says '好。星期几？' but '好' is a separate sentence. Could be clearer."
+      },
+      {
+        "blockTitle": "Calendar Reading - question singleChoice difficulty:3",
+        "issue": "Question requires calculating that Wednesday + 5 days = next Monday, which is correct. However, the explanation should clarify that 'next Monday' (下个星期一) means the Monday of the following week, not just the next occurrence of Monday, which would be in 5 days. The answer June 20 is correct for this interpretation."
+      },
+      {
+        "blockTitle": "Calendar Reading - question singleChoice difficulty:4",
+        "issue": "This question requires calendar calculation beyond typical HSK1 scope. It involves understanding '最后一个' (last/final) which hasn't been taught in this subtopic, and complex date arithmetic (determining which dates are Sundays). This is too advanced for HSK1 level despite the difficulty:4 rating."
+      },
+      {
+        "blockTitle": "Real-Life Scheduling - question freeText difficulty:3",
+        "issue": "Answer criteria mentions '可以' (can/may) but this word hasn't been explicitly taught in this subtopic. Should either introduce it in the content or remove from expected answers."
+      },
+      {
+        "blockTitle": "Real-Life Scheduling - question freeText difficulty:4",
+        "issue": "This synthesis question expects students to use '什么时候' (when/what time) which hasn't been explicitly taught in this subtopic, only appearing in one dialogue example. Should be taught as vocabulary before being required in assessment."
+      }
+    ]
+  },
+  "mandarin-hsk1.4.3": {
+    "status": "issues",
+    "findings": [
+      {
+        "blockTitle": "phase:integration Complex sentences with 有",
+        "issue": "The example sentence '我有一个在北京工作的朋友' uses a relative clause structure (de-clause modification) that is far beyond HSK 1 level. While the content acknowledges this, including it may confuse learners. The note says it 'shows growth' but this is a course module, not a growth trajectory display. Consider removing this example."
+      },
+      {
+        "blockTitle": "Question: Which sentences are grammatically correct? (multiChoice, difficulty:3)",
+        "issue": "Option (d) '教室有老师' is actually grammatically correct - it means 'There is a teacher in the classroom.' The explanation correctly identifies this meaning but marks it as incorrect based on a misinterpretation. The question asks which are 'grammatically correct' not which match a specific intended meaning stated in the option. Option (d) should be included in the answer as 'abcd' OR the option text should explicitly state an incorrect meaning/grammar."
+      },
+      {
+        "blockTitle": "Question: Which verb best completes: 我___家? (singleChoice, difficulty:3)",
+        "issue": "The question shows '我___家?' but this is incomplete Chinese. It should be '我___家' (without question mark, as a statement) or clarify the intended structure. The answer '在' is correct for '我在家' (I am at home), but '我___家?' as written is ambiguous."
+      }
+    ]
+  },
+  "mandarin-hsk1.3.5": {
+    "status": "issues",
+    "findings": [
+      {
+        "blockTitle": "晚上 (wǎnshang) — evening/night - Example usage",
+        "issue": "The example '我晚上八点睡觉' states 'I go to bed at 8 PM' but this is unusually early and may confuse learners. A more typical time like 十点 (10 PM) or 十一点 (11 PM) would be more realistic."
+      },
+      {
+        "blockTitle": "Common errors with time expressions - Error example 3",
+        "issue": "The explanation '(First look at books, then eat)' for '我先看书，再吃饭' is awkward English. Should be 'I first read, then eat' or 'First read/study, then eat.'"
+      },
+      {
+        "blockTitle": "A typical weekday routine - Sample text",
+        "issue": "The phrase '下午我继续工作' uses '继续' (continue) which may not have been introduced in HSK1 vocabulary. Consider using simpler vocabulary like '下午我工作' to stay within level."
+      },
+      {
+        "blockTitle": "Planning a weekend day - Sample text",
+        "issue": "The phrase '我早上先睡觉，然后起床' (In the morning I first sleep, then get up) is illogical. If it's already morning, the person wouldn't 'first sleep.' Should be '我先睡懒觉，然后起床' (sleep in, then get up) or simply '我上午起床' (I get up in the late morning)."
+      },
+      {
+        "blockTitle": "Planning a weekend day - Sample text vocabulary",
+        "issue": "Uses vocabulary that may exceed HSK1: '周末' (weekend), '咖啡店' (coffee shop), '朋友' (friend), '电影' (movie), '书店' (bookstore). Verify these are in HSK1 scope or adjust to use introduced vocabulary only."
+      },
+      {
+        "blockTitle": "Asking and answering about daily schedules - Question example",
+        "issue": "The question '你先吃饭还是先工作？' uses '还是' (or) which is a structure that may not have been introduced yet. Verify this is within the subtopic scope."
+      }
+    ]
+  },
+  "mandarin-hsk1.4.4": {
+    "status": "issues",
+    "findings": [
+      {
+        "blockTitle": "phase:atomic 在 with inside/outside locations - question ordering",
+        "issue": "The ordering question asks to arrange '房间 / 里 / 在 / 猫' but the answer 'dbca' produces '里在房间猫' which is incorrect. The correct order should be 'acbd' to produce '猫在房间里' (cat-at-room-inside)."
+      },
+      {
+        "blockTitle": "phase:atomic 在 with inside/outside locations - content examples",
+        "issue": "The examples show '房间里' (room-inside) and '房子外' (house-outside) which are not exactly parallel to the pattern stated. While '在房间里' is correct and common, '在房子外' is less natural than '在房子外面' for HSK1 level. Consider using '外面' consistently for clarity."
+      },
+      {
+        "blockTitle": "phase:complex 在 with time vs location - content accuracy",
+        "issue": "While 在 CAN indicate time in more advanced Chinese, this is not standard HSK1 content and may confuse learners. At HSK1, time expressions typically don't use 在 (e.g., '星期一我工作' not '我在星期一工作'). The example '在明天见' is also non-standard; '明天见' is the natural form."
+      },
+      {
+        "blockTitle": "phase:integration Comprehensive location descriptions - content vocabulary",
+        "issue": "The passage contains vocabulary (书架/bookshelf, 电脑/computer, 二楼/second floor) that exceeds typical HSK1 level. While this tests 在 comprehension, it may be too vocabulary-heavy for the stated level."
+      },
+      {
+        "blockTitle": "phase:integration Correcting location errors - question ordering",
+        "issue": "The ordering question asks to arrange '不 / 妈妈 / 家 / 在' with answer 'badc'. This produces '不妈妈家在' which is completely incorrect. The correct order should be 'abdc' to produce '妈妈不在家' (mom-not-at-home)."
+      }
+    ]
+  },
+  "mandarin-hsk1.4.1": {
+    "status": "issues",
+    "findings": [
+      {
+        "blockTitle": "phase:atomic Subject-Verb-Object Structure",
+        "issue": "The third example '他学习。(Tā xuéxí.) — He studies.' is presented as an SVO sentence but lacks an object. This contradicts the explanation that SVO means Subject-Verb-Object. Should clarify this is an intransitive verb example or remove it from the SVO examples."
+      },
+      {
+        "blockTitle": "phase:atomic Word Order is Fixed",
+        "issue": "The statement 'This order is fixed and cannot be changed in standard Mandarin sentences' is too absolute. Mandarin does allow topicalization and other word order variations in certain contexts (e.g., 茶，我喝。for topic-comment structure). Should specify this applies to basic declarative SVO sentences at HSK 1 level."
+      },
+      {
+        "blockTitle": "phase:atomic Adjectives Precede Nouns - example",
+        "issue": "The example '我看**好**书。(I read good books.)' is correct but may be ambiguous for beginners. In context, 好书 typically means 'good books' as a compound, but the sentence structure makes it look like emphasis on 'good'. Consider using a clearer example like '他是好老师' to avoid confusion."
+      },
+      {
+        "blockTitle": "phase:atomic Adverbs Precede Verbs",
+        "issue": "The classification of 很 (hěn) as an adverb is correct, but the example '我**很**喜欢。(Wǒ **hěn** xǐhuan.) — I like it very much.' lacks an object and may confuse learners about complete sentence structure. Consider '我很喜欢茶' for consistency with SVO focus."
+      },
+      {
+        "blockTitle": "phase:complex Sentences with Multiple Modifiers - difficulty:3 question",
+        "issue": "Question asks about order after subject as 'Adverb + Place + Time + Verb' but the explanation says 'Time typically comes at the very beginning or right after the subject.' This is contradictory. If time comes right after subject, it should be in the pattern before adverb, not excluded from it. The correct order after subject should be clarified as: (Time) + Adverb + Place + Verb."
+      },
+      {
+        "blockTitle": "phase:complex Negation and Word Order",
+        "issue": "The example '他们都**没**来。(They all didn't come.)' uses 来 which doesn't have an object, moving away from the SVO focus of the subtopic. Also, this is past tense negation which hasn't been introduced. Consider using '他们都不喝茶' to maintain consistency with SVO structure and present tense."
+      },
+      {
+        "blockTitle": "phase:integration Error Correction - question",
+        "issue": "In sentence option 'a: 我在学校今天学汉语', while incorrect, the error is specifically that place comes before time (should be time before place). The explanation correctly identifies this but the distractor might confuse students about whether place before time is sometimes acceptable."
+      }
+    ]
+  },
+  "mandarin-hsk1.5.1": {
+    "status": "issues",
+    "findings": [
+      {
+        "blockTitle": "phase:atomic The measure word 杯 (bēi) for cups/glasses",
+        "issue": "The explanation states '杯 itself means cup or glass' but then says 'it describes the container holding the beverage.' This is slightly imprecise - 杯 functions as a measure word here, not just describing a container. The phrase 一杯水 doesn't mean 'one cup water' as separate concepts, but 'one cup-measure-of water' as an integrated counting structure."
+      },
+      {
+        "blockTitle": "phase:atomic Common mistake: omitting the measure word",
+        "issue": "The example '四杯 (sì bēi) — saying only four cups without specifying what's in them' as an error is misleading. While incomplete in context, 四杯 is grammatically valid Chinese when the beverage is understood from context (e.g., 'I want four cups' when ordering at a café where the beverage type is already established). This may confuse learners about when ellipsis is acceptable."
+      },
+      {
+        "blockTitle": "phase:atomic When to use 个 (gè) as a default - question about beginner saying 一个书",
+        "issue": "Option b states using 个 for books is 'understandable but uses the general measure word instead of the specific one.' While pedagogically useful, this oversimplifies native speaker reactions. Many native speakers would consider 一个书 awkward or non-standard, not merely 'less specific.' The explanation should clarify this is more of a foreigner-friendly tolerance rather than standard usage."
+      },
+      {
+        "blockTitle": "phase:complex Distinguishing 两 (liǎng) and 二 (èr)",
+        "issue": "The statement 'Use 二 (èr) when counting or in numbers like 12, 22, etc.' is incomplete. It doesn't mention that 二 is also used in ordinal positions (第二 'second'), fractions (二分之一 'one half'), and some compound numbers. While this may be beyond HSK1 scope, the current wording implies these are the only contexts for 二, which is factually incomplete."
+      },
+      {
+        "blockTitle": "phase:integration Translating from English to Chinese - freeText question about 'two students'",
+        "issue": "The answer key states 'accent marks may vary' for pinyin, but this is imprecise. The tone marks are fixed (liǎng gè xuésheng with specific tones). What may vary is whether tone marks are included at all or which romanization system is used. The phrasing suggests tones are optional or variable, which contradicts the linguistic reality that tones are phonemic in Mandarin."
+      }
+    ]
+  },
+  "mandarin-hsk1.4.2": {
+    "status": "issues",
+    "findings": [
+      {
+        "blockTitle": "phase:atomic The Copula 是 (shì)",
+        "issue": "Statement 'It is **not** used with adjectives' needs clarification. While 是 is not used to link subjects directly to bare adjectives, it CAN be used with nominalized adjective phrases (e.g., 他是聪明的 'He is the smart one'). The content should specify it's not used to link subjects to bare adjectives for description."
+      },
+      {
+        "blockTitle": "phase:atomic Forming X是Y Sentences",
+        "issue": "The example 那是苹果 uses 苹果 without 个. While technically acceptable, at HSK1 level it would be more pedagogically consistent to show measure words (那是一个苹果) or acknowledge their typical omission in 是 sentences."
+      },
+      {
+        "blockTitle": "phase:atomic The Negation Word 不 with 是",
+        "issue": "The tone change explanation is imprecise. 不 changes to bú (second tone) before another fourth tone, and this IS reflected in some pinyin systems (though often not in standard writing). The statement 'though this is not reflected in pinyin' could confuse learners."
+      },
+      {
+        "blockTitle": "phase:complex Combining 是 with Modifiers - Question exactMatch",
+        "issue": "Answer accepts '他是我的朋友。' and '他是我的朋友' but the answer field shows only one version with period. Both with and without period should be explicitly listed as acceptable answers."
+      },
+      {
+        "blockTitle": "phase:complex Nationalities and Identity with 是 - Question freeText",
+        "issue": "Rubric criteria don't specify minimum dialogue length (2-4 lines mentioned in prompt). Should clarify whether this means 2-4 total utterances or 2-4 exchanges."
+      },
+      {
+        "blockTitle": "phase:integration Real-World Introductions",
+        "issue": "Example contains '李老师' but doesn't introduce the pattern of Title usage (surname + occupation as title). This could confuse HSK1 learners who haven't learned this pattern yet."
+      },
+      {
+        "blockTitle": "phase:integration Common Mistakes with 是",
+        "issue": "The explanation for mistake #1 could be more precise. Should clarify that 很 is an adverbial modifier, and that Chinese uses verbs (stative verbs) where English uses 'be + adjective', rather than just saying 'doesn't use 是'."
+      },
+      {
+        "blockTitle": "phase:integration Using 是 in Daily Scenarios",
+        "issue": "The café dialogue includes 这里的老师 which implies 'the teacher here/at this place' but this construction with 的 modifying a location phrase is beyond HSK1 scope. A simpler example would be more appropriate."
+      },
+      {
+        "blockTitle": "phase:integration Asking and Answering Identity Questions",
+        "issue": "Includes '你是做什么的？' and '你是哪国人？' which are marked as 'more advanced' but still included. At HSK1 level (basic copula 是), these should either be removed or moved to a clear 'preview' section, as they introduce question word structures not covered in the subtopic."
+      }
+    ]
+  },
+  "mandarin-hsk1.6.1": {
+    "status": "issues",
+    "findings": [
+      {
+        "blockTitle": "去 + place (destination structure) - Example",
+        "issue": "The example '他去家 (tā qù jiā) – He goes home' is unnatural. Chinese speakers typically say 他回家 (tā huí jiā) for 'goes home' since 回 implies returning. While 去家 is grammatically possible in some contexts, it's not the standard expression for this meaning at HSK1 level."
+      },
+      {
+        "blockTitle": "Contrast: 来 vs 去 with destinations - Example",
+        "issue": "The example '我去家 (wǒ qù jiā) – I go home (leaving school)' is unnatural for the same reason. Should be 我回家 (wǒ huí jiā). The usage of 去家 instead of 回家 is misleading for learners."
+      },
+      {
+        "blockTitle": "phase:complex Combining movement verbs in context - freeText question",
+        "issue": "The answer rubric states 'Uses 我在家 or 我回家 or 在家 to indicate current location' but 我回家 means 'I return home/I go home' (an action), not 'I am at home' (current location). This is factually incorrect. Should only accept 我在家 or similar static location expressions."
+      },
+      {
+        "blockTitle": "phase:complex Movement with 回 (return patterns) - Content",
+        "issue": "The example '我回中国 (wǒ huí Zhōngguó)' has a note '(implies China is my origin)' but this should be clarified: it more specifically implies the speaker has a connection to China (home country, origin, or place previously visited) and is returning there, not necessarily that they were born there."
+      },
+      {
+        "blockTitle": "phase:integration Movement narrative comprehension - multiChoice question",
+        "issue": "Answer option 'b: The speaker is currently at school' is marked correct, but the passage says '我去学校。我来学校' which contains both 去 and 来. The 来学校 does suggest arrival/current presence, but having both verbs in sequence is somewhat confusing. The explanation should acknowledge this or the passage should be revised for clarity."
+      },
+      {
+        "blockTitle": "phase:integration Perspective switching in conversation - multiChoice question",
+        "issue": "Answer 'd: Person A would respond with 去 if agreeing to go' is marked correct. However, the explanation states 'A would use 去 from A's perspective (away from home to school)' but Person A could also naturally say 我来 when agreeing, adopting Person B's perspective (common in Chinese conversation). The answer key is too restrictive - both 我去 and 我来 could be natural depending on whose perspective A adopts."
+      }
+    ]
+  },
+  "mandarin-hsk1.4.5": {
+    "status": "issues",
+    "findings": [
+      {
+        "blockTitle": "phase:atomic Introduction to 没 (méi)",
+        "issue": "Content states 没 negates 'completed actions (past tense negation)' but should clarify that 没 negates actions regardless of time - it indicates non-occurrence, not strictly past tense. Example: 我没去 can mean 'I didn't go' OR 'I haven't gone' depending on context."
+      },
+      {
+        "blockTitle": "phase:atomic 没 for completed actions with 了 - question 'Which is the correct way to say I didn't eat'",
+        "issue": "Option b '我不吃了' could be acceptable in certain contexts meaning 'I'm not eating anymore' (change of state), though 我没吃 is better for simple past negation. The question should acknowledge this nuance or rephrase to be unambiguous."
+      },
+      {
+        "blockTitle": "phase:atomic 不 vs 没: time reference",
+        "issue": "Oversimplified: states '不 looks forward or describes now' and '没 looks backward.' However, 没 can be used for present perfect contexts (I haven't done X yet), not just completed past. The distinction is more about completion/realization vs. non-completion, not strictly temporal direction."
+      },
+      {
+        "blockTitle": "phase:complex Sentence-final 了 vs negation - question 'If you want to say you didn't finish something'",
+        "issue": "Option d '我做完不了' actually means 'I cannot finish it' (potential complement negation), not 'I didn't finish.' This makes it a plausible distractor but the system should recognize it's testing a different grammar point (potential complements) not covered in this lesson."
+      },
+      {
+        "blockTitle": "phase:integration Translation challenges - question 'Translate: Yesterday I didn't go, but today I'm going'",
+        "issue": "Answer rubric accepts bare '去' for 'I'm going today' but HSK1 level would more naturally include explicit markers. Should accept '今天我去' but also '今天我要去' or '今天我会去' as these are clearer for expressing future intention at beginner level."
+      },
+      {
+        "blockTitle": "phase:integration Contextual negation selection - ordering question",
+        "issue": "The ordering question answer 'abcde' creates '我不喝咖啡但是昨天我喝了茶' which is grammatically correct but would more naturally be '我不喝咖啡，但是昨天喝了茶' (second 我 typically omitted with same subject). Should accept both word orders or restructure the question."
+      },
+      {
+        "blockTitle": "phase:integration Error correction - multiChoice question about errors",
+        "issue": "Explanation states option d '我没看了电影' has 了 with 没, but the actual error is word order - should be '我没看电影' or potentially '我没有看电影'. The 了 placement makes it doubly wrong, but the explanation should identify the primary issue more clearly."
+      }
+    ]
+  },
+  "mandarin-hsk1.5.4": {
+    "status": "issues",
+    "findings": [
+      {
+        "blockTitle": "phase:atomic 手机 (shǒujī) – mobile phone",
+        "issue": "The measure word for 手机 is stated as 部 (bù), but in HSK 1 context, 个 (gè) is more commonly used and should be mentioned as an acceptable alternative, as 部 is more formal."
+      },
+      {
+        "blockTitle": "phase:complex Drinks and meals vocabulary in context - question ordering",
+        "issue": "The ordering question asks to arrange '我 / 想 / 喝 / 一杯 / 茶' but the answer format 'abcd' treats '一杯茶' as a single unit (d), which is inconsistent with how the words were separated in the question prompt. Should be '我 / 想 / 喝 / 一杯茶' or separate as 5 items."
+      },
+      {
+        "blockTitle": "phase:complex Drinks and meals vocabulary in context - measure word question",
+        "issue": "The explanation states tea is typically counted with 杯 (bēi) not 碗 (wǎn), but in Chinese culture, traditional tea is sometimes served and counted in small bowls (茶碗), making this explanation slightly misleading. Better to say 'Tea in cups/glasses uses 杯' rather than stating 碗 is incorrect."
+      },
+      {
+        "blockTitle": "phase:integration Daily routine and places",
+        "issue": "The example uses 上午 twice in translation - 'In the morning' appears twice for both 早上 and 上午, but should distinguish: 早上 (early morning) and 上午 (late morning/forenoon)."
+      },
+      {
+        "blockTitle": "phase:integration Shopping and services scenario",
+        "issue": "Person B says '我想买水和茶' (I want to buy water and tea), but this phrasing in Chinese typically means buying packaged water and tea leaves/products, not drinks to consume immediately. For HSK 1 clarity, might be better to use '我想买一瓶水和一杯茶' or clarify the context."
+      },
+      {
+        "blockTitle": "phase:integration Comprehensive place-based narrative",
+        "issue": "The narrative uses several words beyond HSK 1 level: 忙 (máng - busy), 然后 (ránhòu - then), 朋友 (péngyou - friend), 也 (yě - also), 不舒服 (bù shūfu - not feeling well), 累 (lèi - tired), 买 (mǎi - buy), 看医生 (kàn yīshēng - see a doctor). While these may be useful, they should be flagged as beyond HSK 1 scope or this should be labeled as extension material."
+      }
+    ]
+  },
+  "mandarin-hsk1.5.2": {
+    "status": "issues",
+    "findings": [
+      {
+        "blockTitle": "phase:atomic Measure Word 个 (gè) - General Classifier - Question 1",
+        "issue": "Distractor 'a: 一个书' is actually somewhat acceptable in casual speech, though 一本书 is more correct. This makes the distractor less clearly wrong than intended for a difficulty:1 question."
+      },
+      {
+        "blockTitle": "phase:atomic Measure Word 杯 (bēi) - Cups and Glasses - Question 1",
+        "issue": "Distractor 'd: 一杯猫' (one cup of cat) is implausible and comical rather than a believable student error for difficulty:1."
+      },
+      {
+        "blockTitle": "phase:atomic Measure Word 块 (kuài) - Pieces and Money",
+        "issue": "Content states 块 is 'informal' for yuan, but at HSK 1 level, this nuance may confuse learners. 块 is the standard colloquial term, while 元 is formal. The distinction should be clearer."
+      },
+      {
+        "blockTitle": "phase:atomic Measure Word 只 (zhī) - Small Animals",
+        "issue": "The note mentions 匹 and 头 for larger animals are 'beyond HSK 1,' but this creates incomplete understanding. At HSK 1, students should know 只 works for common animals they'll encounter."
+      },
+      {
+        "blockTitle": "phase:atomic Question Word 几 (jǐ) - How Many (Small Numbers)",
+        "issue": "The pinyin answer 'ji3 ge4 ren2' has incorrect tone for 个, which should be neutral tone (ge5 or just ge) in this context, not 4th tone."
+      },
+      {
+        "blockTitle": "phase:atomic Using 多少 Without Measure Words",
+        "issue": "The example '多少个人? (duōshao gè xuésheng?)' has a mismatch - pinyin shows 'rén' but the translation says 'xuésheng' (students)."
+      },
+      {
+        "blockTitle": "phase:complex Numbers with Measure Words - Question 1",
+        "issue": "Distractor 'd: 两个猫' should not be marked as incorrect without explanation, as 个 is mentioned in earlier content as acceptable for general use when specific measure word is unknown. This creates internal inconsistency."
+      },
+      {
+        "blockTitle": "phase:complex Common Measure Word Errors - Question 2",
+        "issue": "The explanation states two errors but the actual Chinese '我有个三猫' has wrong order (should be 三只猫), wrong particle placement (个 after 有 is incorrect positioning), and wrong measure word (should be 只). This is actually more complex than stated."
+      },
+      {
+        "blockTitle": "phase:integration Restaurant Ordering Scenario - Question 1",
+        "issue": "The explanation for why 'd: 几本菜?' is wrong states 'dishes use 个' but doesn't acknowledge that 道 (dào) is actually the proper measure word for dishes, though 个 is acceptable as general classifier."
+      },
+      {
+        "blockTitle": "phase:integration Real-World Shopping Scenario",
+        "issue": "The scenario mentions pens use 支 (zhī) but says to 'accept 个 as alternative' for HSK 1. However, this measure word 支 hasn't been taught in any prior content block, creating confusion about what's in vs. out of scope."
+      },
+      {
+        "blockTitle": "phase:integration Mixed Measure Word Scenarios",
+        "issue": "Content mentions 'chairs 个 or 把' introducing 把 without any prior teaching. This is beyond the content scope established in earlier blocks."
+      }
+    ]
+  },
+  "mandarin-hsk1.6.2": {
+    "status": "issues",
+    "findings": [
+      {
+        "blockTitle": "phase:atomic 看 (kàn) — to watch, to read, to look at - question singleChoice difficulty:1",
+        "issue": "The question asks 'How do you say \"to read a book\" in Mandarin?' and marks 看书 as correct with explanation that it's 'most common,' but 读书 is also listed as a valid option. The explanation contradicts itself by acknowledging 读书 can mean 'to study/read' but then dismisses it. Both are valid; 看书 means 'read silently' and 读书 means 'read aloud/study.' The question should be reworded to specify 'read silently' or accept both answers."
+      },
+      {
+        "blockTitle": "phase:atomic 说 (shuō) — to speak, to say",
+        "issue": "The pronunciation is listed as 'shuō (first tone, high and level)' but 说 is actually fourth tone (shuō with falling tone), not first tone. This is a factual error."
+      },
+      {
+        "blockTitle": "phase:complex Verb-Object Combinations - question ordering difficulty:2",
+        "issue": "The question asks to arrange pairs 'from most commonly used together to least natural' with answer 'adbc'. However, the explanation states '看水 is grammatical but unusual' and '喝书 is semantically impossible,' which would suggest order 'adcb' (putting the impossible one last). The current answer 'adbc' puts 喝书 (impossible) before 看水 (unusual), which contradicts the explanation."
+      },
+      {
+        "blockTitle": "phase:integration Activity Recognition in Context - question multiChoice difficulty:3",
+        "issue": "The passage states '她做饭，吃饭' (she cooks, eats) and the correct answer includes 'c: Cooks', but option 'd: Studies Chinese' is not in the answer. However, the passage never mentions studying Chinese, so this is correct. The issue is that this question is well-formed, but the earlier passage example mentions '我学习中文' which might create confusion about whose activities are being described."
+      },
+      {
+        "blockTitle": "phase:integration Creating Action Sequences - question singleChoice difficulty:3",
+        "issue": "The question asks 'Which activity sequence is ILLOGICAL?' with answer 'c: 睡觉 → 开车 → 工作'. However, the explanation states 'The sequence \"sleep → drive → work\" is logical.' This directly contradicts the marked answer. The explanation then suggests it 'could be considered the least safe immediate transition,' but this makes the question ambiguous. Either the answer should be changed or the explanation should clearly state why waking up, driving to work is illogical (it isn't—it's a normal daily sequence)."
+      },
+      {
+        "blockTitle": "phase:integration Verb Choice in Communication - question multiChoice difficulty:3",
+        "issue": "The question asks which verbs would be UNUSUAL for Saturday, with only 'b: 工作' marked correct. However, the explanation says 'while some people work on weekends, 工作 is less typical.' This makes it 'less typical' rather than 'unusual or inappropriate.' Many people do work on Saturdays, making this a weak distractor. The question wording should be adjusted to 'less common' rather than 'unusual or inappropriate.'"
+      }
+    ]
+  },
+  "mandarin-hsk1.6.4": {
+    "status": "issues",
+    "findings": [
+      {
+        "blockTitle": "Using 要 (yào) for necessity or advice - Negative form explanation",
+        "issue": "The content states '不想 (bù xiǎng)' as a negative form of 要, but 不想 means 'don't want to' and uses the verb 想, not 要. While semantically similar, it's not technically the negative form of 要. This may confuse learners about verb forms."
+      },
+      {
+        "blockTitle": "Question: What is the negative form of 要 when it means 'want to'?",
+        "issue": "The accepted answers only include 不要/bú yào, but the content block above also mentions 不想 (bù xiǎng) as an alternative. Either the question should accept 不想 as an answer, or the content should clarify that 不想 uses a different verb entirely."
+      },
+      {
+        "blockTitle": "Distinguishing 会 from 可以 - Question with explanation",
+        "issue": "The explanation states '可以 would mean you have permission to cook, not that you know how.' However, 可以 can also express possibility/capability in some contexts, not just permission. The explanation is oversimplified for HSK1 level but may create misconceptions."
+      },
+      {
+        "blockTitle": "Practical scenarios - Free text question answer rubric",
+        "issue": "The answer rubric accepts both 会 and 可以 for teaching ability, but these have different meanings. 我会教你 = 'I know how to teach you' (learned skill), while 我可以教你 = 'I can/am able to teach you' (possibility/permission). For expressing teaching ability as a learned skill, only 会 should be accepted. The rubric is too lenient."
+      },
+      {
+        "blockTitle": "Context-dependent meanings - 会 examples",
+        "issue": "The example '我会来。— I will come. (future - based on knowledge/certainty)' may be confusing at HSK1 level. While 会 can express future certainty, this usage is more advanced. The distinction between 'I will come' (会) and 'I'm going to come' (要) is subtle and may be beyond HSK1 scope."
+      },
+      {
+        "blockTitle": "Context-dependent meanings - 要 example",
+        "issue": "The example '要下雨了。— It's going to rain. (imminent future)' is correct but uses the aspect particle 了, which adds complexity. This construction may be beyond the subtopic's scope if it focuses only on modal verb basics."
+      }
+    ]
+  },
+  "mandarin-hsk1.5.3": {
+    "status": "issues",
+    "findings": [
+      {
+        "blockTitle": "phase:atomic Personal Pronouns - 你 (you)",
+        "issue": "Content states 'Chinese does not typically distinguish between formal and informal \"you\" at the HSK 1 level, though 您 (nín) is a more polite form you'll encounter later.' However, 您 (nín) is actually part of the HSK 1 vocabulary list and should be introduced here, not deferred."
+      },
+      {
+        "blockTitle": "phase:atomic Possessive Particle - 的 structure - question exactMatch difficulty:1",
+        "issue": "The question asks 'How do you say \"we\" or \"us\" in Chinese' but is tagged under the 的 structure section. This question belongs in the 'Plural Pronouns - 们 suffix' section."
+      },
+      {
+        "blockTitle": "phase:complex Pronoun System Overview",
+        "issue": "Content mentions '它 (it)' in the table reference but 它 is never actually taught in any atomic phase. Either introduce 它 in an atomic phase or remove references to it from the complex phase."
+      },
+      {
+        "blockTitle": "phase:complex Possessives with 的 - question singleChoice difficulty:2",
+        "issue": "Answer option (b) '的我妈妈 (de wǒ māma)' and option (c) '他朋友的 (tā péngyou de)' - the question asks which sentences 'correctly use 的', but these are clearly incorrect. The question should specify 'which sentences correctly demonstrate proper 的 placement' to clarify what makes them wrong."
+      },
+      {
+        "blockTitle": "phase:integration Comprehensive Family and Social Network - question singleChoice difficulty:4",
+        "issue": "The question states 'how many 的 particles are used' in '我们的老师是他们妈妈的朋友' - the question says the answer is 'Two' but the explanation contradicts itself, saying 'Actually the sentence uses 的 twice: after 我们 and after 妈妈' but also mentioning a possible 的 after 他们. The sentence as written contains exactly TWO 的 particles (after 我们 and after 妈妈), so the answer is correct, but the explanation is confusing and contradictory. It should be rewritten clearly."
+      },
+      {
+        "blockTitle": "phase:complex Family Descriptions with 有",
+        "issue": "Content introduces 和 (hé) meaning 'and' which is new vocabulary not previously taught in atomic phases. This should either be introduced in an atomic phase first or clearly marked as new vocabulary being introduced here."
+      },
+      {
+        "blockTitle": "phase:integration Pronoun and Family Integration - question freeText difficulty:4",
+        "issue": "The rubric states 'States friend is also speaker's classmate: 她/他也是我同学' but uses 也 (yě, 'also') which has not been introduced in any atomic phase of this subtopic. Either introduce 也 earlier or remove it from expected answers."
+      }
+    ]
+  },
+  "mandarin-hsk1.6.3": {
+    "status": "issues",
+    "findings": [
+      {
+        "blockTitle": "phase:atomic 喜欢 (xǐhuan) - To like",
+        "issue": "Pronunciation note states both syllables are third tone, but 欢 (huan) is actually a light/neutral tone in standard pronunciation of 喜欢. It should be xǐhuan or xǐ·huan, not xǐhuǎn."
+      },
+      {
+        "blockTitle": "question multiChoice difficulty:3 (Comparing 喜欢, 想, and 不要 section)",
+        "issue": "The explanation for the question about '我喜欢看书,我想看书,但是我不要看' is confusing. Answer 'b: They want to read right now' is marked correct, but the explanation suggests a contradictory situation where wanting conflicts with refusing. This creates logical inconsistency - if 不要 represents refusal/decision against action, then their true desire state is unclear. This is too advanced/ambiguous for HSK1."
+      },
+      {
+        "blockTitle": "phase:complex Negation patterns: 不 usage",
+        "issue": "The note about tone change (bù → bú before fourth tone) is mentioned but may confuse learners. While factually accurate, 不要 is actually pronounced 'búyào' but for HSK1 level, this phonological detail might be better omitted or clarified that it's automatic in speech."
+      },
+      {
+        "blockTitle": "phase:integration Expressing complex preferences",
+        "issue": "Example '我不喜欢看书,但是我想看这本书' uses 这本书 (this book) which introduces the demonstrative 这 and measure word 本 that may not have been covered yet in HSK1.6.3. This creates a dependency issue."
+      },
+      {
+        "blockTitle": "question multiChoice difficulty:3 (Making and declining suggestions)",
+        "issue": "Answer explanation states 不要 is appropriate for 'politely declining tea: 不要茶,谢谢' is NOT appropriate (marked wrong), but in practice 不要茶,谢谢 is commonly used and reasonably polite. The explanation may be overly prescriptive. The distinction between 'politely declining' vs 'command' contexts for 不要 is more nuanced than presented."
+      }
+    ]
+  },
+  "mandarin-hsk1.7.1": {
+    "status": "issues",
+    "findings": [
+      {
+        "blockTitle": "Answering 是 Questions - multiChoice question",
+        "issue": "Answer option 'c: 对' is marked as correct, but 对 (duì) is not the standard grammatical response to 是 questions. While 对 can be used colloquially to mean 'correct/right,' the proper grammatical answer to '他是中国人吗？' should use the verb 是. The correct answers should be only 'a: 是' and 'b: 是，他是中国人'. Option 'd: 他是' is also grammatically correct as it contains the verb."
+      },
+      {
+        "blockTitle": "Answering 是 Questions - multiChoice question",
+        "issue": "The marked answer 'abd' includes option 'd: 他是' which is actually a correct response (subject + verb affirmation), but based on the pattern taught in the course, this may confuse learners about the standard short-form answer being just '是'. The explanation should clarify why all three are correct."
+      },
+      {
+        "blockTitle": "Question and Answer Pairs - multiChoice question",
+        "issue": "The explanation states 'While 是 can be used conversationally, the grammatically direct answers use the verb 去' but option 'c: 是，我们去' is marked as correct. This is contradictory. If 'c' is correct (which it is in natural speech), it should be included in the answer key 'abc', not just 'ab'. The explanation should be revised to reflect that 是 as an affirmative marker before providing the full answer is acceptable."
+      },
+      {
+        "blockTitle": "Common Mistakes with 吗 Questions - error correction question",
+        "issue": "The explanation for option 'c: 你不有电脑？' states 'Also, this appears to be missing 吗 if it's intended as a question.' However, the sentence does have a question mark, and the primary error is 不有 instead of 没有. The sentence should be '你没有电脑吗？' The secondary comment about 吗 is confusing since the intent may be to show a negated question form (which would be valid with 没有)."
+      }
+    ]
+  },
+  "mandarin-hsk1.8.1": {
+    "status": "issues",
+    "findings": [
+      {
+        "blockTitle": "Question forms with adjective predicates - With 吗 example",
+        "issue": "The example shows 'Statement: 贵很贵。' which is grammatically incorrect. It should be '很贵' not '贵很贵'. The correct progression should be: Statement: 很贵。→ Question: 很贵吗?"
+      },
+      {
+        "blockTitle": "Question forms with adjective predicates - question about water hot",
+        "issue": "Option 'a: 水热吗?' is marked as correct (part of 'all of the above'), but according to the content's own teaching, this bare adjective form without 很 would imply comparison. For a neutral question, it should be 水很热吗? The answer should be 'b and c' or the explanation needs to clarify context."
+      },
+      {
+        "blockTitle": "Combining negation with multiple adjectives - multiChoice question",
+        "issue": "The explanation states 'D should be 这个不贵也不好看 or similar (不好 alone is ambiguous without a full adjective like 好吃, 好看)'. However, 好 is a standalone adjective meaning 'good' at HSK1 level and 不好 is perfectly valid and commonly used. Option D '这个不贵也不好' should be grammatically correct."
+      },
+      {
+        "blockTitle": "Weather and temperature description - question answer",
+        "issue": "The explanation states '很 doesn't combine with negated adjectives in this context' but then marks option C (今天很冷,不热) as correct, which is fine. However, option A (今天很冷,很不热) is marked wrong. While 很不热 is less natural than 不热, it's not grammatically incorrect in Mandarin - 很 can intensify the negation in certain contexts. The explanation should clarify this is about naturalness, not grammaticality."
+      }
+    ]
+  },
+  "mandarin-hsk1.7.2": {
+    "status": "issues",
+    "findings": [
+      {
+        "blockTitle": "phase:atomic V-not-V Question Structure - Example",
+        "issue": "Minor accuracy issue: The phrase '你吃不吃？' is grammatically correct but pragmatically incomplete in real usage. It would typically require context or an object to be natural (e.g., 你吃不吃饭？). While not technically wrong, the example could mislead beginners about natural usage."
+      },
+      {
+        "blockTitle": "phase:complex V-not-V with Objects Between Pattern",
+        "issue": "The alternative form '你看这本书不看？' is presented as acceptable but is non-standard and rarely used by native speakers. This construction is generally considered awkward. The content overstates its acceptability and usage frequency. More accurate to note it's theoretically possible but strongly dispreferred."
+      },
+      {
+        "blockTitle": "phase:complex V-not-V with Objects Between Pattern - question about emphasis",
+        "issue": "The answer key states that '你去北京不去？' places emphasis on Beijing, but this word order is quite marked and unnatural for most speakers. The explanation oversimplifies - this form is rare enough that presenting it as merely 'emphatic' rather than 'non-standard/awkward' is misleading for HSK1 learners."
+      },
+      {
+        "blockTitle": "phase:integration Error Correction - multiChoice question",
+        "issue": "Option c: '他看书不看？' is marked as correct, but this should be flagged as questionable. While grammatically possible with the object between the pattern elements, it's the same construction criticized in the earlier 'Objects Between Pattern' section as non-standard. Inconsistent treatment of this structure across the content."
+      }
+    ]
+  },
+  "mandarin-hsk1.6.5": {
+    "status": "issues",
+    "findings": [
+      {
+        "blockTitle": "phase:atomic Sentence-final 了 marks completion or change of state",
+        "issue": "The structure stated as 'Subject + Verb + 了' is incomplete. This pattern only works for intransitive verbs. When objects are present, the structure should be 'Subject + Verb + Object + 了' as shown in later sections."
+      },
+      {
+        "blockTitle": "phase:atomic Verb-suffix 了 vs. sentence-final 了 - ordering question",
+        "issue": "The answer 'cbd' cannot be correct as there are only 3 components (她/了/来), so the options should be labeled a, b, c, not c, b, d. The correct arrangement 她来了 would be 'abc' if 她=a, 了=b, 来=c, or needs relabeling."
+      },
+      {
+        "blockTitle": "phase:atomic Questions with 了 - ordering question",
+        "issue": "The answer 'bdca' references 4 options for components 吗/她/了/走, but the labeling system is unclear. Should specify which letter corresponds to which component."
+      },
+      {
+        "blockTitle": "phase:atomic Common errors with 了 - multiChoice question",
+        "issue": "Answer 'd: With future intentions' is incorrect. 了 can be used with future intentions to indicate a change of state (e.g., 我要走了 'I'm leaving now/about to leave'). This is a legitimate use showing imminent change."
+      },
+      {
+        "blockTitle": "phase:atomic 没有 with objects - multiChoice question",
+        "issue": "The answer key 'abd' is incorrect. Option d states 'The verb remains unchanged' which is true, but option c '不 replaces 了' is false. The correct answer should be 'abd' but the explanation contradicts this by saying c is incorrect when actually it should note that a, b, d are correct."
+      },
+      {
+        "blockTitle": "phase:complex Change of state with adjectives - multiChoice question",
+        "issue": "The explanation dismisses 她高了 and 书大了 as 'less natural,' but 她高了 is actually commonly used to mean 'She grew taller/has gotten taller' especially for children. This is a standard usage and should be accepted as correct."
+      },
+      {
+        "blockTitle": "phase:integration Real dialogue: Meeting arrangement - multiChoice question",
+        "issue": "Answer key is 'abd' but explanation states Person A says 我没吃 (hasn't eaten), making option b true. However, the question asks which are true, and option c 'Li Ming has arrived' is clearly false (他还没来). The answer abd appears correct, but there may be a labeling issue since the explanation seems to address all points correctly."
+      }
+    ]
+  },
+  "mandarin-hsk1.9.3": {
+    "status": "issues",
+    "findings": [
+      {
+        "blockTitle": "电话 (diànhuà) — Telephone/Phone Call",
+        "issue": "The content mentions '打电话 (dǎ diànhuà) — to make a phone call (though 打 is beyond HSK 1)' but this creates confusion. If 打 is beyond HSK 1, it shouldn't be introduced here as it may confuse learners about what vocabulary is in scope."
+      },
+      {
+        "blockTitle": "Work Context Comprehension",
+        "issue": "The passage states '张医生工作。她是医生。她的学生学习汉语' which is confusing. Doctors don't typically have students who study Chinese language - this conflates two different professional roles. If Zhang is a doctor teaching medical students, they would study medicine, not Chinese language. This scenario is illogical."
+      },
+      {
+        "blockTitle": "Work Context Comprehension - question about profession",
+        "issue": "The explanation states 'Although she has students, the text explicitly states 她是医生 (she is a doctor)' but having students is unusual for doctors in typical contexts. The passage creates confusion about her actual role."
+      },
+      {
+        "blockTitle": "Cross-Cultural Professional Context",
+        "issue": "The content states 'Asking about someone's work: 你工作吗？ (Do you work?)' but this question asks whether someone works at all (yes/no), not about their profession. A more appropriate question for asking about profession would be '你做什么工作？' or '你是做什么的？', though these may be beyond HSK 1 scope. The current example is technically correct but pragmatically limited."
+      },
+      {
+        "blockTitle": "Daily Routine Description",
+        "issue": "The passage states '我有问题，我问老师' (When I have questions, I ask the teacher) but this translation adds 'when' which isn't in the Chinese. The Chinese literally says 'I have questions, I ask teacher' without the conditional 'when'. This is a minor translation accuracy issue."
+      }
+    ]
+  },
+  "mandarin-hsk1.7.4": {
+    "status": "issues",
+    "findings": [
+      {
+        "blockTitle": "question exactMatch caseSensitive difficulty:2 - Write the pinyin for 'What about his father?' using 呢",
+        "issue": "The question is marked caseSensitive but provides two acceptable answers with different capitalization ('Tā bàba ne?' and 'tā bàba ne?'). This creates ambiguity - either the question should not be caseSensitive, or only one capitalization should be accepted. Standard pinyin capitalization rules would favor 'Tā bàba ne?' at the start of a sentence."
+      },
+      {
+        "blockTitle": "phase:complex Distinguishing 呢 question types - multiChoice question",
+        "issue": "Option 'c: Starting a conversation with a stranger' is marked as incorrect, but option 'd: Following up on an established topic' is marked correct. However, the content block explicitly states 呢 cannot start conversations and requires established context. The issue is that option 'd' is too similar to the correct usage described earlier - it's not demonstrating a distinct 'type' of 呢 usage as promised by the block title 'Distinguishing 呢 question types'. The three types listed in content are: 1) returning a question, 2) asking whereabouts, 3) asking about status. Option d doesn't map to a distinct type."
+      },
+      {
+        "blockTitle": "phase:complex Implied questions with 呢 - singleChoice question",
+        "issue": "Option b states 'Where is your teacher? / Does your teacher also have students?' The second interpretation 'Does your teacher also have students?' is contextually weak. Given the context 'I have three students', asking '你的老师呢?' would more naturally mean 'What about your teacher?' in the sense of 'How many students does your teacher have?' or 'Where is your teacher?', not specifically about whether the teacher has students. The phrasing could be more precise."
+      },
+      {
+        "blockTitle": "phase:integration Error correction with 呢",
+        "issue": "The expected answer states 'Error 2: Wrong word order (忙 should come before 呢 if using 呢)'. This is misleading because in the context of asking if someone is busy, you wouldn't use 呢 at all - you'd use 吗. The sentence '你呢吗忙？' has more fundamental problems than just word order. If correcting to use 呢, it would be '你呢?' (returning the question) in appropriate context, where 忙 wouldn't appear at all. The explanation conflates different error types."
+      }
+    ]
+  },
+  "mandarin-hsk1.8.2": {
+    "status": "issues",
+    "findings": [
+      {
+        "blockTitle": "phase:atomic 很 (hěn) – Very - question exactMatch difficulty:1",
+        "issue": "The answer accepts 'hen hao' without tone marks as correct, but HSK1 learners should be held to proper pinyin standards including tone marks. Only 'hěn hǎo' should be accepted as correct."
+      },
+      {
+        "blockTitle": "phase:atomic 太 (tài) – Too/Extremely - question exactMatch difficulty:1",
+        "issue": "Same issue: 'tai gui' without tone marks is accepted. Should only accept 'tài guì'."
+      },
+      {
+        "blockTitle": "phase:atomic 真 (zhēn) – Really - question exactMatch difficulty:1",
+        "issue": "Same issue: 'zhen hao' without tone marks is accepted. Should only accept 'zhēn hǎo'."
+      },
+      {
+        "blockTitle": "phase:atomic 有点儿 (yǒudiǎnr) – A Bit - question exactMatch difficulty:1",
+        "issue": "Multiple accepted answers include versions without proper tone marks ('youdiǎnr lei', 'youdianr lei'). For consistency and educational value, should require proper tones: 'yǒudiǎnr lèi' or 'yǒudiǎn lèi' only."
+      },
+      {
+        "blockTitle": "phase:atomic 比较 (bǐjiào) – Relatively/Rather - question exactMatch difficulty:1",
+        "issue": "Same issue: 'bijiao mang' without tone marks is accepted. Should only accept 'bǐjiào máng'."
+      },
+      {
+        "blockTitle": "phase:atomic 不太 (bú tài) – Not Very - question exactMatch difficulty:1",
+        "issue": "Same issue: 'bu tai gui' without tone marks is accepted. Should only accept 'bú tài guì'."
+      },
+      {
+        "blockTitle": "phase:complex Using 有点儿 with Appropriate Adjectives",
+        "issue": "The statement '❌ 有点儿便宜 (cannot say \"a bit cheap\" – cheap is positive)' is misleading. While 便宜 can be positive, in context where something being cheap might indicate poor quality, 有点儿便宜 could be acceptable. The rule should be more nuanced about contextual negativity."
+      },
+      {
+        "blockTitle": "phase:integration Expressing Degrees in Natural Conversations - Intensity scale",
+        "issue": "The intensity scale '有点儿 < 比较 < 很 < 真 < 非常 < 太' is oversimplified. 有点儿 indicates mild degree but only for negatives, making direct comparison problematic. Also, 真 and 非常 aren't clearly ordered in intensity - 真 adds emphasis/sincerity rather than necessarily being stronger than 很."
+      }
+    ]
+  },
+  "mandarin-hsk1.7.3": {
+    "status": "issues",
+    "findings": [
+      {
+        "blockTitle": "phase:atomic Question word 什么时候 (shénme shíhou) - when",
+        "issue": "The exactMatch question accepts '什么时候你吃？' as a correct answer, but this word order, while grammatically acceptable, is less natural than '你什么时候吃？' The content block states 什么时候 is 'flexible in position but typically appears before the verb,' which contradicts accepting subject-first order equally."
+      },
+      {
+        "blockTitle": "phase:atomic Question word 怎么 (zěnme) - how",
+        "issue": "The exactMatch question for 'How do you say it?' accepts '怎么说？' without a subject. While acceptable in context, the English prompt 'How do YOU say it?' explicitly includes 'you,' making '你怎么说？' more accurate to the prompt."
+      },
+      {
+        "blockTitle": "phase:complex Combining time and location questions",
+        "issue": "The freeText question asks to translate 'Where do you eat lunch?' but the answer rubric mentions 什么时候 as optional and accepts '你什么时候在哪里吃午饭？' However, the English prompt does NOT ask about time ('when'), only location ('where'). The correct answer should be '你在哪里吃午饭？' without time element."
+      },
+      {
+        "blockTitle": "phase:complex Question words as indefinites",
+        "issue": "The multiChoice question about '我去everywhere' marks option B '我去哪里都' as incorrect. However, this is actually a valid alternative word order pattern in Chinese (verb + question word + 都), though less common than the standard pattern. This should be reconsidered or the explanation should note it's less standard rather than incorrect."
+      },
+      {
+        "blockTitle": "phase:integration Question formation from statements",
+        "issue": "The freeText question asks to create a question asking WHO is going, but marks '明天谁跟朋友去北京？' as an acceptable alternative. However, placing 明天 before 谁 changes emphasis and is less natural when 谁 is the primary focus of the question. The rubric should clarify this is acceptable but less preferred."
+      },
+      {
+        "blockTitle": "phase:integration Real-world question scenarios - freeText",
+        "issue": "The freeText answer rubric accepts '我们什么时候在哪里见？' as combining both time and location in ONE question. This contradicts the earlier content block 'Combining time and location questions' which stated that asking both together is 'rare' and 'More natural: Ask separately.' The rubric should clarify that two separate questions are expected, not one combined question."
+      }
+    ]
+  },
+  "mandarin-hsk1.9.2": {
+    "status": "issues",
+    "findings": [
+      {
+        "blockTitle": "phase:atomic 商店 (shāngdiàn) - Shop/Store - question exactMatch difficulty:1",
+        "issue": "Both answer options are identical (商店, 商店). The second should be the traditional character variant: 商店 is the same in both simplified and traditional, so there should only be one answer, OR if trying to show variants, both are already the same."
+      },
+      {
+        "blockTitle": "phase:complex Giving and Understanding Directions - question freeText difficulty:3",
+        "issue": "Answer rubric uses bullet points but should specify clearer scoring criteria. The phrase '往左走' should be specified with parentheses as '往左走。' (with period) to match the example pattern shown in content."
+      },
+      {
+        "blockTitle": "phase:integration Daily Routine Locations",
+        "issue": "Uses vocabulary not in HSK1 scope: 早上 (morning), 中午 (noon), 下午 (afternoon), 晚上 (evening), 右边 (right side), 回家 (return home). The subtopic should use only HSK1 vocabulary or clearly mark advanced terms."
+      },
+      {
+        "blockTitle": "phase:integration Navigation Challenge",
+        "issue": "Uses vocabulary beyond HSK1: 前面 (front/ahead), 左边 (left side), 右边 (right side), 后面/behind. These directional position words are not introduced in the atomic phase content which only covers 往左 and 往右."
+      },
+      {
+        "blockTitle": "phase:integration Navigation Challenge - question singleChoice difficulty:3",
+        "issue": "Answer option 'c: Go straight (前面)' uses 前面 which hasn't been taught in this subtopic. The answer explanation also references going straight, which contradicts available vocabulary."
+      },
+      {
+        "blockTitle": "phase:integration Navigation Challenge - question ordering difficulty:4",
+        "issue": "The task requires understanding of 'behind' (后面) which was not taught. Students cannot complete this with only 往左 and 往右 directional vocabulary."
+      },
+      {
+        "blockTitle": "phase:integration Transportation Decision-Making - Scenario C",
+        "issue": "Mentions '走路 (walk)' which is not HSK1 vocabulary introduced in this subtopic. The explanation for the question also assumes knowledge of walking as an option."
+      },
+      {
+        "blockTitle": "phase:integration Transportation Decision-Making - question singleChoice difficulty:4",
+        "issue": "Answer 'd: Walk' uses vocabulary (walking) not taught in this subtopic. While the explanation may be culturally accurate, it tests knowledge outside the scope."
+      }
+    ]
+  },
+  "mandarin-hsk1.8.3": {
+    "status": "issues",
+    "findings": [
+      {
+        "blockTitle": "The colour red (红 hóng)",
+        "issue": "Character breakdown states 红 consists of silk radical 纟and 工, but this is the simplified form. The traditional character 紅 has 糸 (silk) radical. The explanation should clarify this is for simplified Chinese or acknowledge the traditional form exists."
+      },
+      {
+        "blockTitle": "The colour white (白 bái)",
+        "issue": "Character note states 白 'originally represented a white sun' - this is incorrect. The character 白 is pictographic representing a white bone or skull, not a sun. The sun is represented by 日."
+      },
+      {
+        "blockTitle": "The colour pink (粉 fěn)",
+        "issue": "Content states 粉 alone means 'pink' but 粉 primarily means 'powder' and only refers to pink when used in color context as 粉色 or 粉红色. This should be clarified more explicitly."
+      },
+      {
+        "blockTitle": "Big and small (大 and 小) - multiChoice question",
+        "issue": "Question asks 'Which characters represent opposite concepts of size?' and marks answers a, b, c as correct. However, option d (红 and 白 - red and white) is clearly not about size, while options b (高 and 矮 - tall and short) and c (长 and 短 - long and short) are about dimensions, not strictly 'size'. The question wording should be 'dimensions' or only option 'a' should be marked correct for 'size'."
+      },
+      {
+        "blockTitle": "Long and short (长 and 短)",
+        "issue": "Note that 长 has multiple pronunciations: cháng (long) and zhǎng (to grow). The content should specify this is cháng for 'long' to avoid confusion."
+      },
+      {
+        "blockTitle": "Pretty and handsome (漂亮 and 帅)",
+        "issue": "The second exactMatch question asks to 'Write the Chinese word (characters) for pretty or beautiful' but only accepts 漂亮. However, 美 (měi) is also a valid HSK1-level word for beautiful that students might provide. Either clarify the question asks specifically for 漂亮, or accept 美 as an alternative answer."
+      },
+      {
+        "blockTitle": "Describing a complete outfit - freeText question",
+        "issue": "The answer rubric accepts 衬衫 (shirt) as the noun, but the question asks for 'small white shirt' and the rubric also accepts 衣服 (clothes/clothing) which is more generic. For HSK1 level teaching 'shirt' vocabulary, the specific term 衬衫 may not be HSK1 level (it's HSK2). The question should either accept 衣服 only or clarify the expected vocabulary level."
+      },
+      {
+        "blockTitle": "Describing people comprehensively",
+        "issue": "The example sentence '他是高的帅的男人' uses repeated 的 pattern, but this is not the most natural Chinese. More natural would be '他是高高帅帅的男人', '他是又高又帅的男人', or '他是一个高的、帅的男人'. The content should present more natural patterns."
+      },
+      {
+        "blockTitle": "Describing people comprehensively - singleChoice question",
+        "issue": "The explanation states 'While both A and D have correct vocabulary, A follows the more natural order of height before body build.' However, this prescriptive ordering is not consistently followed in natural Chinese speech. The explanation overstates the unnaturalness of option D."
+      },
+      {
+        "blockTitle": "Real-world identification task - freeText question",
+        "issue": "Answer rubric requires using 笔 (pen) but the English says 'yellow pen'. At HSK1 level, 笔 can mean pen or writing instrument generally. The question should clarify if it wants specifically 'pen' or accepts the general term, as HSK1 may not distinguish pen types in detail."
+      }
+    ]
+  },
+  "mandarin-hsk1.8.4": {
+    "status": "issues",
+    "findings": [
+      {
+        "blockTitle": "Using 认为 (rènwéi) to express opinions",
+        "issue": "认为 is not HSK 1 vocabulary. It appears at HSK 3. This entire block is above the level for HSK 1 students and should be removed or replaced with HSK 1-appropriate content."
+      },
+      {
+        "blockTitle": "The word 不错 (bú cuò) — not bad/pretty good",
+        "issue": "不错 is HSK 2 vocabulary, not HSK 1. While it may be understood, it exceeds the stated level of this course."
+      },
+      {
+        "blockTitle": "Restaurant conversation scenario",
+        "issue": "The dialogue contains 好喝 (hǎohē, good to drink) which was not taught in any prior content block. Also uses 菜 (cài, dish/vegetable), 茶 (chá, tea), 饭店 (fàndiàn, restaurant), and 中国 (Zhōngguó, China) which may not be HSK 1 or previously taught in this subtopic."
+      },
+      {
+        "blockTitle": "Movie discussion",
+        "issue": "Uses 电影 (diànyǐng, movie) which is HSK 2 vocabulary and may not have been introduced in earlier HSK 1 lessons."
+      },
+      {
+        "blockTitle": "Shopping opinions",
+        "issue": "Uses 件 (jiàn, measure word for clothing) and 衣服 (yīfu, clothing) which are HSK 2 vocabulary. The phrase structure may be too advanced for HSK 1."
+      },
+      {
+        "blockTitle": "Giving and receiving compliments",
+        "issue": "Contains 做 (zuò, to make/do), 唱 (chàng, to sing), 哪里 (nǎli, where/not at all), and 谢谢 (xièxie, thank you) - some of which may exceed HSK 1. Also uses complex structures like 你做的菜 and 你唱得 which involve grammar (得 complement, 的 modification) beyond HSK 1 level."
+      },
+      {
+        "blockTitle": "Comprehensive opinion exchange",
+        "issue": "Uses 地方 (dìfāng, place) and 电视节目 (diànshì jiémù, TV program) which are likely beyond HSK 1. The complexity of the multi-turn dialogue synthesis may exceed HSK 1 expectations."
+      },
+      {
+        "blockTitle": "The phrase 你觉得怎么样？ - question ordering",
+        "issue": "The question asks students to arrange characters but doesn't explicitly show what the correct order should be in the question text itself. While the answer key shows 'bca', students might benefit from seeing the constructed phrase after arrangement."
+      },
+      {
+        "blockTitle": "Asking for opinions with 你喜欢吗？",
+        "issue": "The block assumes 喜欢 was taught earlier in the course but doesn't verify this. If this is the first introduction of 喜欢, it should be taught more explicitly as new vocabulary."
+      },
+      {
+        "blockTitle": "The adjective 好听 (hǎotīng) — good-sounding - exactMatch question",
+        "issue": "The question asks 'Which compound adjective would you use to describe music: 好___?' but accepts both 听 and tīng as answers. While both are correct, accepting the character alone without 好 seems incomplete - the full word is 好听, not just 听."
+      }
+    ]
+  },
+  "mandarin-hsk1.9.4": {
+    "status": "issues",
+    "findings": [
+      {
+        "blockTitle": "天气 (tiānqì) – Weather, exactMatch question",
+        "issue": "The answer accepts 'tian1qi4' as correct, but this is numbered tone notation, not pinyin with tone marks as requested. The question explicitly asks for 'pinyin (with tone marks)' so only 'tiānqì' should be accepted."
+      },
+      {
+        "blockTitle": "身体 (shēntǐ) – Body/Health, exactMatch question",
+        "issue": "Same issue as above: 'shen1ti3' is numbered notation, not tone marks. Only 'shēntǐ' should be accepted for this question."
+      },
+      {
+        "blockTitle": "疼 (téng) – To Hurt/Pain, exactMatch question",
+        "issue": "Same issue: 'teng2' is numbered notation, not tone marks. Only 'téng' should be accepted."
+      },
+      {
+        "blockTitle": "不舒服 (bù shūfu) – Unwell/Uncomfortable, singleChoice question on negation",
+        "issue": "The explanation states 'the base positive form that 不 negates is just 舒服' which is correct, but the question stem asks 'What is the positive form of 不舒服?' This is ambiguous because in actual usage, 很舒服 and 好舒服 ARE positive forms that can be used. The question should be reworded to ask for 'the base word' or 'what word does 不 negate' to match the explanation."
+      },
+      {
+        "blockTitle": "Talking About Health and Discomfort, singleChoice question on sentence structure",
+        "issue": "Answer D states 'Both A and B' are correct. However, the explanation says 'While 我头很疼 is more common in spoken Chinese, 我的头很疼 is also correct.' This is accurate, but for HSK 1 level, this might introduce unnecessary complexity. The more common form '我头很疼' (option B) should be the single correct answer, or the question should acknowledge this is about acceptable variations rather than strict correctness."
+      },
+      {
+        "blockTitle": "Describing Weather Conditions, multiChoice question",
+        "issue": "The explanation states '很 cannot be placed before verbs like 下雨. \"今天很下雨\" is incorrect.' This is accurate. However, option D '今天不冷' uses 不 (not 很) with an adjective, which is grammatically correct and should be included in the answer. The current answer 'abd' is correct."
+      },
+      {
+        "blockTitle": "Medical Contexts: 医院 and 医生, content block",
+        "issue": "The content introduces the phrase '我要看医生' (I want to see a doctor) using 要 (yào), which may not have been introduced yet in HSK 1 level. This should be verified against the curriculum scope, or a simpler alternative should be used."
+      }
+    ]
+  },
+  "mandarin-hsk1.9.1": {
+    "status": "issues",
+    "findings": [
+      {
+        "blockTitle": "Noodles (面条)",
+        "issue": "The character breakdown states 面 means 'flour/wheat', but in modern usage 面 alone more commonly means 'noodles' or 'flour/dough'. More precise would be: 面 (noodles/flour) + 条 (strip/long thin piece). The HSK1 context should emphasize the compound meaning rather than individual character etymology."
+      },
+      {
+        "blockTitle": "Fruit (水果)",
+        "issue": "The tone change explanation is imprecise. It states 'first tone becomes rising when followed by another 3rd tone' but should say 'the first 3rd tone becomes a rising tone (sounds like 2nd tone) when followed by another 3rd tone.' The current wording could confuse learners about which tone changes."
+      },
+      {
+        "blockTitle": "Meat (肉)",
+        "issue": "The statement 'the radical 月 originally represented meat/flesh' is correct, but should clarify that in the character 肉 itself, the bottom component derives from the meat radical, not the moon radical (though they look similar in modern form). This is a common point of confusion."
+      },
+      {
+        "blockTitle": "Please Give Me (请给我)",
+        "issue": "The pronunciation note says all three syllables are 3rd tone '(3rd tone + 3rd tone + 3rd tone)' but doesn't mention the tone sandhi rule that would apply. When three 3rd tones occur together, typically the first two become 2nd tone in actual speech: qíng géi wǒ. This should be clarified for pronunciation accuracy."
+      },
+      {
+        "blockTitle": "Asking About Food Preferences - question singleChoice difficulty:2",
+        "issue": "The explanation states '味道怎么样？(How does it taste?) is more open-ended, inviting a descriptive response' but at HSK1 level, students likely don't have vocabulary for descriptive responses beyond 很好. The explanation oversells the 'open-ended' nature given the limited vocabulary at this level."
+      },
+      {
+        "blockTitle": "Measure Words with Food - question multiChoice difficulty:3",
+        "issue": "The explanation states '碗 is less common for water' and 'it's grammatically possible' - this is misleading. While theoretically possible, 一碗水 is actually quite natural in Chinese (a bowl of water) and not uncommon, especially in contexts like cooking or when water is served in bowls. The explanation undersells its naturalness."
+      },
+      {
+        "blockTitle": "Restaurant Interaction Sequence",
+        "issue": "The example shows 'Server: 好的。还要别的吗？' but doesn't note that 还要别的吗？is slightly above HSK1 level vocabulary (别的 is HSK2). A more level-appropriate alternative would be 还要吗？ The content should either simplify this or note it as receptive vocabulary only."
+      },
+      {
+        "blockTitle": "Creating a Balanced Order - question multiChoice difficulty:3",
+        "issue": "Answer option D '请给我一碗面条，一个鸡蛋，一些菜和一杯茶' uses 一些 (yìxiē, 'some') which is HSK2 vocabulary, not HSK1. This makes the option inappropriate for testing at this level. Should use vocabulary within HSK1 scope."
+      },
+      {
+        "blockTitle": "Situational Communication",
+        "issue": "The response guidance mentions '对不起 (sorry)' as optional. However, 对不起 is HSK1 vocabulary and should be expected/encouraged in this polite correction scenario, not treated as optional advanced vocabulary. The framing undersells an appropriate HSK1-level response."
+      }
+    ]
+  }
+}

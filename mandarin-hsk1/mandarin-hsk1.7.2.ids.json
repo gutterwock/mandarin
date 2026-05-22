@@ -1,0 +1,285 @@
+{
+  "subtopic_id": "mandarin-hsk1.7.2",
+  "ingested_at": "2026-05-21T02:54:43.357Z",
+  "content": [
+    {
+      "id": "0130fd8d-9b75-5149-b91d-a5358ba2c62b",
+      "title": "Error Correction",
+      "body": ""
+    },
+    {
+      "id": "0eb6e7b1-feae-50e7-84f6-aaeb8086cc4e",
+      "title": "V-not-V Question Structure",
+      "body": "The A-not-A question pattern (正反问句 zhèngfǎn wènjù) is formed by stating a verb followed by its negation. This creates a yes-no question that presents both options directly.\n\nBasic structure: Subject + Verb + 不 + Verb + (Object)?\n\nExamples:\n- 你去不去？(Nǐ qù bù qù?) — Are you going (or not)?\n- 他来不来？(Tā l"
+    },
+    {
+      "id": "129c5803-6be3-5b54-aaf2-739a560170c8",
+      "title": "Common V-not-V Question Patterns",
+      "body": "Several V-not-V patterns appear frequently in daily conversation:\n\n- 是不是 (shì bù shì) — is it or not\n- 有没有 (yǒu méiyǒu) — have or not\n- 好不好 (hǎo bù hǎo) — good or not / okay or not\n- 对不对 (duì bù duì) — correct or not\n- 要不要 (yào bù yào) — want or not\n- 会不会 (huì bù huì) — can or not / know how to or n"
+    },
+    {
+      "id": "14b6b707-1035-5612-acd9-85211d00003d",
+      "title": "V-not-V with Adjectives",
+      "body": "Adjective verbs (stative verbs) can also form A-not-A questions. Common examples include:\n\n- 好不好？(Hǎo bù hǎo?) — Is it good? / Is that okay?\n- 对不对？(Duì bù duì?) — Is it correct?\n- 忙不忙？(Máng bù máng?) — Are you busy?\n\nThese adjectives function as verbs in Chinese and follow the same V-not-V pattern."
+    },
+    {
+      "id": "32dace00-7bf1-50fb-bcd6-054349ea254f",
+      "title": "Abbreviated V-not-V Forms",
+      "body": "In rapid or casual speech, the second verb in the A-not-A pattern is sometimes shortened, especially with two-syllable verbs:\n\nFull form: 你喜欢不喜欢？(Nǐ xǐhuān bù xǐhuān?)\nShortened: 你喜不喜欢？(Nǐ xǐ bù xǐhuān?)\n\nThe first syllable of the verb is used before 不, but the full verb appears after 不. This is com"
+    },
+    {
+      "id": "3821f9f0-e971-54bf-b3ba-fca66eae7ff8",
+      "title": "Answering V-not-V Questions",
+      "body": "To answer a V-not-V question, you respond with either the positive verb or the negative form (Verb + 不):\n\nQuestion: 你去不去？(Nǐ qù bù qù?)\nPositive answer: 去。(Qù.) — Yes, I'm going.\nNegative answer: 不去。(Bù qù.) — No, I'm not going.\n\nYou do NOT answer with 是 (shì) or 不是 (bù shì) unless the verb in the q"
+    },
+    {
+      "id": "43cb864a-07a3-5901-b70b-73fbd770fab6",
+      "title": "Choosing Between 吗 and V-not-V",
+      "body": "While 吗 questions and V-not-V questions are functionally equivalent, there are subtle contextual preferences:\n\nV-not-V questions can sound slightly more direct or emphatic because they explicitly present both options. They're common when:\n- Seeking clarification or confirmation\n- The speaker genuine"
+    },
+    {
+      "id": "4800dd5a-15e0-51b7-bb72-c04b4c9234cb",
+      "title": "Negative Assumption Questions",
+      "body": "While V-not-V questions are grammatically neutral, context and tone can suggest an expected answer. However, the form itself doesn't encode assumption the way \"Don't you...?\" does in English.\n\nCompare:\n- 你不是学生吗？(Nǐ bù shì xuésheng ma?) — Aren't you a student? [suggests speaker thought you were]\n- 你是"
+    },
+    {
+      "id": "4c7f9702-d518-50b5-9339-dcaf20db6399",
+      "title": "V-not-V with Modal Verbs",
+      "body": "Modal verbs (能, 会, 要, 想, etc.) form A-not-A questions following the same pattern:\n\n- 你会不会说中文？(Nǐ huì bù huì shuō Zhōngwén?) — Can you speak Chinese?\n- 你想不想去？(Nǐ xiǎng bù xiǎng qù?) — Do you want to go?\n- 你能不能来？(Nǐ néng bù néng lái?) — Can you come?\n- 他要不要喝茶？(Tā yào bù yào hē chá?) — Does he want to "
+    },
+    {
+      "id": "7219db47-075b-509a-a9fc-7952ba142255",
+      "title": "Word Order in V-not-V Questions",
+      "body": "In V-not-V questions, the word order remains the same as in statements. Only the verb changes to the V-not-V pattern.\n\nStatement: 你吃中国菜。(Nǐ chī Zhōngguó cài.) — You eat Chinese food.\nQuestion: 你吃不吃中国菜？(Nǐ chī bù chī Zhōngguó cài?) — Do you eat Chinese food?\n\nThe object (中国菜) stays after the verb phr"
+    },
+    {
+      "id": "8ab00e16-cdd0-5f5f-acc9-66f584d663a0",
+      "title": "Combining V-not-V with Time and Place",
+      "body": "V-not-V questions can include time and place expressions. Following standard Chinese word order, time comes before the verb, and place typically comes before or after the verb depending on the verb type:\n\n- 你明天去不去？(Nǐ míngtiān qù bù qù?) — Are you going tomorrow?\n- 你在家吃不吃饭？(Nǐ zài jiā chī bù chī fàn"
+    },
+    {
+      "id": "9275530d-878b-5e09-bcec-569c6314e102",
+      "title": "有没有 Special Pattern",
+      "body": "The verb 有 (yǒu - to have) uses a special negative form: 没有 (méiyǒu). Therefore, its A-not-A question pattern is 有没有 (yǒu méiyǒu), not *有不有.\n\nStructure: Subject + 有没有 + Object?\n\nExamples:\n- 你有没有时间？(Nǐ yǒu méiyǒu shíjiān?) — Do you have time?\n- 他有没有钱？(Tā yǒu méiyǒu qián?) — Does he have money?\n- 你有没有"
+    },
+    {
+      "id": "a213a0e1-fd64-59bc-8223-978ebe39d1ea",
+      "title": "Answering 有没有 Questions",
+      "body": "To answer 有没有 questions, respond with:\n- Positive: 有 (yǒu) — Yes, I have / There is\n- Negative: 没有 (méiyǒu) — No, I don't have / There isn't\n\nNever use 不有 as it is grammatically incorrect."
+    },
+    {
+      "id": "a524be6a-18e2-553c-bcc1-18dc300d2438",
+      "title": "Question Formation Practice",
+      "body": ""
+    },
+    {
+      "id": "bad64703-cf11-518a-9dfd-536d95c64354",
+      "title": "Responding to V-not-V Questions with Elaboration",
+      "body": "While short answers (verb alone or negative form) are sufficient, fuller responses are natural in conversation:\n\nQuestion: 你明天去不去图书馆？\nShort: 去。or 不去。\nFull: 去，我要看书。(Yes, I need to study.)\nFull: 不去，我很忙。(No, I'm busy.)\n\nThe verb or its negation can be followed by explanations, making responses more nat"
+    },
+    {
+      "id": "e0d12d6f-a376-5ebc-a2b1-cabfca5cb4e8",
+      "title": "Real Conversation Scenarios",
+      "body": "Read this conversation between 小李 (Xiǎo Lǐ) and 小王 (Xiǎo Wáng):\n\n小王：你明天去不去公司？\n小李：去。你呢？\n小王：我不去，我在家工作。你明天忙不忙？\n小李：很忙。我有三个会。\n小王：你下午有没有时间喝咖啡？\n小李：没有，我下午也很忙。"
+    },
+    {
+      "id": "e2bdf1ed-b351-5546-8dea-def0481d9e79",
+      "title": "Mixed Question Types in Context",
+      "body": ""
+    },
+    {
+      "id": "e3b814c0-34da-5380-81c2-9bae3fb17288",
+      "title": "V-not-V with 是",
+      "body": "The verb 是 (to be) follows the same A-not-A pattern: 是不是 (shì bù shì).\n\nStructure: Subject + 是不是 + Noun/Adjective?\n\nExamples:\n- 你是不是学生？(Nǐ shì bù shì xuésheng?) — Are you a student?\n- 他是不是老师？(Tā shì bù shì lǎoshī?) — Is he a teacher?\n- 这是不是你的书？(Zhè shì bù shì nǐ de shū?) — Is this your book?\n\nAnswer"
+    },
+    {
+      "id": "eda9ee5d-b09d-5609-a8e5-1c869d8ecd59",
+      "title": "V-not-V with Objects Between Pattern",
+      "body": "When the A-not-A pattern uses abbreviated forms or when emphasis is needed, objects can sometimes appear between the verb elements, though the standard form keeps objects after the complete pattern.\n\nStandard: 你看不看这本书？(Nǐ kàn bù kàn zhè běn shū?)\nAlternative: 你看这本书不看？(Nǐ kàn zhè běn shū bù kàn?)\n\nTh"
+    },
+    {
+      "id": "f05ac9b8-aea3-5722-9074-c05d8db3df75",
+      "title": "Stylistic Choices in Context",
+      "body": ""
+    },
+    {
+      "id": "ffc8ab29-78e7-554d-a520-30ca98ed670c",
+      "title": "V-not-V vs 吗 Questions",
+      "body": "Both A-not-A questions and 吗 (ma) questions form yes-no questions in Mandarin. They are functionally equivalent with no inherent difference in politeness or formality.\n\nCompare:\n- 你去吗？(Nǐ qù ma?) — Are you going?\n- 你去不去？(Nǐ qù bù qù?) — Are you going?\n\nBoth are neutral and appropriate in the same co"
+    }
+  ],
+  "questions": [
+    {
+      "id": "07ded514-4b2f-56b7-bc6a-e77c19bc180b",
+      "question_text": "What is the difference in politeness between 你吃吗？and 你吃不吃？?"
+    },
+    {
+      "id": "0cbec572-ae89-5220-b935-58dcdd37f28e",
+      "question_text": "What does 忙不忙？ask?"
+    },
+    {
+      "id": "0de165c6-ed03-5919-a0af-3ab579c646eb",
+      "question_text": "In 你会不会说中文？, which verb forms the A-not-A pattern?"
+    },
+    {
+      "id": "12e4a53e-55f6-513c-8c29-9b7e3d202129",
+      "question_text": "Which is a common shortened form of 你认识不认识他？?"
+    },
+    {
+      "id": "15ab3ccb-1718-5952-b0c3-7a16c820c3c6",
+      "question_text": "Create a short 3-line dialogue where Person A asks two different A-not-A questions (using different verbs) and Person B answers both. Include at least one modal verb."
+    },
+    {
+      "id": "251985a7-6ec1-5bb0-9381-256db0da238b",
+      "question_text": "Where does the object appear in the question 你喝不喝茶？?"
+    },
+    {
+      "id": "267396ba-d090-5688-bebd-1ecfa55aa112",
+      "question_text": "Which is the correct A-not-A question form for 有?"
+    },
+    {
+      "id": "285109a7-a5c5-5132-87f3-147e42a60a6b",
+      "question_text": "Form an A-not-A question asking \"Do you want to eat Chinese food?\" using 想 (xiǎng - want to)."
+    },
+    {
+      "id": "28c68ed2-1990-5800-aa79-95dcf73644c0",
+      "question_text": "Which A-not-A patterns appear in this conversation?"
+    },
+    {
+      "id": "3cb61762-883a-5a4f-ad29-c160b31fe0c9",
+      "question_text": "Why does 小王 use 有没有时间 instead of another question form? What does this reveal about 有's negation pattern?"
+    },
+    {
+      "id": "4131c31d-5770-51e0-8553-192c98dcd097",
+      "question_text": "How does 小李 answer the first question?"
+    },
+    {
+      "id": "43b7f4d8-8527-5791-9388-74f5ae0bdf93",
+      "question_text": "What is the A-not-A form of the verb 是?"
+    },
+    {
+      "id": "505eec68-aa25-5b9a-82eb-7af3cc488185",
+      "question_text": "In which context might a V-not-V question be slightly more natural?"
+    },
+    {
+      "id": "5e847ac1-2d5c-54fc-a8a7-535f2fe8df81",
+      "question_text": "What does 你去不去？mean?"
+    },
+    {
+      "id": "60ab9f66-4273-5709-bce9-77f364b77dc3",
+      "question_text": "In the question 你吃不吃？, what grammatical function does 不 serve?"
+    },
+    {
+      "id": "6371671d-aa95-5882-adfb-5f91b5468a15",
+      "question_text": "Which statement about A-not-A questions is correct?"
+    },
+    {
+      "id": "66006201-da4e-5b1c-92fc-c5d07f26750c",
+      "question_text": "How do you answer \"yes\" to 你能不能来？?"
+    },
+    {
+      "id": "7a55462f-f78c-5c4c-b211-adf0d70dc723",
+      "question_text": "How do you answer \"no\" to the question 你来不来？?"
+    },
+    {
+      "id": "81abaa38-3227-59f7-a303-0d3711faba23",
+      "question_text": "Why is the A-not-A form of 有 different from other verbs?"
+    },
+    {
+      "id": "88878122-2502-57b6-b848-5b2e727d4ec0",
+      "question_text": "Explain why both 你明天来吗？and 你明天来不来？are acceptable, and describe any subtle difference in how they might be perceived."
+    },
+    {
+      "id": "8993c78c-7046-57eb-98c2-4c545eafad5e",
+      "question_text": "What happens in abbreviated A-not-A forms with two-syllable verbs?"
+    },
+    {
+      "id": "99e490eb-7273-595c-b76b-a05ac3f3499d",
+      "question_text": "How do you answer \"no\" to 你有没有电脑？?"
+    },
+    {
+      "id": "a3a55420-f0a1-5ff5-8ea8-e635296d1ee5",
+      "question_text": "Write the A-not-A question form asking \"Is it expensive?\" using 贵 (guì - expensive)."
+    },
+    {
+      "id": "ab1f3b7f-7bc0-597b-b976-f3d2d1b8094a",
+      "question_text": "How do you answer \"yes\" to 你是不是中国人？?"
+    },
+    {
+      "id": "ab58cbdb-4001-5c41-8b86-e6b7e8e9257f",
+      "question_text": "You want to confirm something you thought was true but now doubt. Which form most naturally expresses this?"
+    },
+    {
+      "id": "ad64e804-c8f6-551c-a6a7-ca38a0f0465b",
+      "question_text": "Answer \"yes\" to the question: 你有没有哥哥？(Do you have an older brother?)"
+    },
+    {
+      "id": "b012f2eb-a26f-5046-ba48-0e500bca6b6f",
+      "question_text": "Which question form suggests the speaker expected a positive answer?"
+    },
+    {
+      "id": "b54eb306-e7fa-5de1-be9a-3d3644881e61",
+      "question_text": "Arrange these elements to form a correct A-not-A question meaning \"Do you read Chinese books?\": 你 / 看不看 / 中国书 / ？"
+    },
+    {
+      "id": "bac04575-3d07-556b-9cac-868957c39f43",
+      "question_text": "What is the effect of saying 你去北京不去？instead of 你去不去北京？?"
+    },
+    {
+      "id": "c50ae624-0e3b-5f0d-bd67-b583ece8e118",
+      "question_text": "Arrange to form \"Do you study Chinese at school?\": 你 / 在学校 / 学不学 / 中文 / ？"
+    },
+    {
+      "id": "cdf7a510-2d2f-5c1e-b668-704170fd53f3",
+      "question_text": "Which of these are grammatically correct A-not-A questions?"
+    },
+    {
+      "id": "cf97bc4e-c98a-5984-90c4-0ea190890c09",
+      "question_text": "Which of these are correct A-not-A question forms?"
+    },
+    {
+      "id": "dafb75a9-5534-5b66-b797-b449c39bcf28",
+      "question_text": "Write an A-not-A question asking \"Do you work tomorrow?\" using 工作 (gōngzuò - to work) and 明天 (míngtiān - tomorrow)."
+    },
+    {
+      "id": "e04981e5-4471-5264-af71-832b1ac0fb5c",
+      "question_text": "A student says 你有不有时间？What is the error?"
+    },
+    {
+      "id": "e327fc42-8358-54af-b700-1814f38fefc2",
+      "question_text": "How does 你是不是老师？differ from 你不是老师吗？in terms of assumption?"
+    },
+    {
+      "id": "e32e53ad-0be3-5882-8c5d-34a36da4af1f",
+      "question_text": "Give a full-sentence negative answer to 你会不会说日语？(Can you speak Japanese?), including a brief reason."
+    },
+    {
+      "id": "e9c547ae-64b2-5db8-af4d-fe304bca83c2",
+      "question_text": "How would you answer \"yes\" to the question 他吃不吃中国菜？(Does he eat Chinese food?)"
+    },
+    {
+      "id": "f0b92483-5ab2-51ef-bb5d-b5f52e9416cb",
+      "question_text": "Which is a natural, complete answer to 你今天工作不工作？?"
+    },
+    {
+      "id": "f1b6cda7-6518-5e96-b914-52272a7b6da2",
+      "question_text": "A textbook uses 好不好？at the end of suggestions (e.g., 我们去看电影，好不好？). Explain the function of 好不好？in this context and how it differs from using it as a standalone question."
+    },
+    {
+      "id": "f7675709-79b1-5bb7-a82b-9e93f902be23",
+      "question_text": "Which word order is the standard, most common form?"
+    },
+    {
+      "id": "f7e56477-b692-554c-91ec-c5069444bd12",
+      "question_text": "You hear someone say both 你去不去？and 你去吗？in the same conversation. Explain why a speaker might choose to vary between these forms even though they're functionally equivalent."
+    },
+    {
+      "id": "fb451dfe-8184-5140-8065-2f14468eb705",
+      "question_text": "What does 好不好？typically mean when asking someone's opinion?"
+    },
+    {
+      "id": "ff72d06e-f405-5417-82c3-fe5869ccb776",
+      "question_text": "Transform these three 吗 questions into A-not-A questions: 1) 你喝咖啡吗？ 2) 他是你的朋友吗？ 3) 你们有中国茶吗？"
+    }
+  ]
+}

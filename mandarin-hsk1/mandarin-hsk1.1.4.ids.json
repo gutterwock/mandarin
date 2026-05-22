@@ -1,0 +1,246 @@
+{
+  "subtopic_id": "mandarin-hsk1.1.4",
+  "ingested_at": "2026-05-21T02:54:43.219Z",
+  "content": [
+    {
+      "id": "2343ae0d-7328-58f6-afed-f938627bcd12",
+      "title": "Applying zero-initial rules in context",
+      "body": "When writing pinyin for complete words, you must apply zero-initial spelling rules consistently. Consider the word for \"one one two two\" (chaotic): **yī yī èr èr**.\n\nNotice:\n- The syllables with \"i\" at the start become **yī**, not *ī\n- The number \"two\" (èr) keeps its consonant, so no rule applies\n- "
+    },
+    {
+      "id": "31f4f73e-e805-57f7-9966-fbd287281248",
+      "title": "Erhua in common expressions",
+      "body": "Erhua appears frequently in everyday expressions, especially those common in Beijing-area speech. Here are patterns to recognize:\n\n1. **Nouns**: **háizir** (child), **huār** (flower), **xiǎo niǎor** (little bird)\n2. **Location words**: **nǎr** (where), **zhèr** (here), **nàr** (there)\n3. **Verbal ph"
+    },
+    {
+      "id": "32e79eeb-ea71-5288-aabd-b63647d5062b",
+      "title": "Writing a complete sentence with spelling rules",
+      "body": "Consider the sentence: \"Five fish are here\" → **Wǔ tiáo yú zài zhèr.**\n\nAnalysis:\n- **Wǔ**: zero-initial u → wu, tone on u\n- **tiáo**: contains i, a, o → tone mark on a\n- **yú**: zero-initial ü → yu (no dots), tone on u\n- **zài**: contains a, i → tone mark on a\n- **zhèr**: erhua on location word\n\nEv"
+    },
+    {
+      "id": "42402e35-eaa3-553f-bf17-3f678e8cda27",
+      "title": "Summary of zero-initial spelling rules",
+      "body": "All three zero-initial vowels follow the same pattern: add a letter marker when the vowel starts a syllable with no consonant.\n\n| Original vowel | Spelled as | Example |\n|---|---|---|\n| i | yi | yī (one) |\n| u | wu | wǔ (five) |\n| ü | yu | yǔ (rain) |\n\nThese rules apply **only** when the vowel is at"
+    },
+    {
+      "id": "444dfa06-d725-5d5f-b456-0fbc9114d45c",
+      "title": "Erhua pronunciation effect",
+      "body": "When erhua is applied, the tongue curls back during the pronunciation of the final sound, creating a distinct \"r-colored\" vowel. The original syllable and the \"r\" blend into one sound.\n\nPronunciation changes:\n- The final vowel may be modified or dropped\n- The tongue retroflex position happens simult"
+    },
+    {
+      "id": "628d130c-bf47-57ec-900e-2297938e12f1",
+      "title": "Zero-initial i becomes yi",
+      "body": "When the vowel **i** begins a syllable with no consonant (a \"zero initial\"), it is written as **yi** in pinyin. This is a spelling convention that makes syllables easier to recognize in written text.\n\nExamples:\n- **yi** (one) — pronounced like \"ee\"\n- **yīfu** (衣服, clothes) — the i sound at the start"
+    },
+    {
+      "id": "72faea24-1679-54c6-b022-e4693c126e9d",
+      "title": "Regional variation in erhua",
+      "body": "Erhua usage varies significantly by region in China. Beijing and northern dialects use erhua frequently, while southern dialects (like Cantonese-influenced Mandarin) use it rarely or not at all.\n\n- **Northern Mandarin**: Heavy erhua usage (huār, nǎr, wánr)\n- **Standard Mandarin (Putonghua)**: Modera"
+    },
+    {
+      "id": "83510634-e9f0-576b-9876-10209ac04ea0",
+      "title": "Introduction to erhua (儿化)",
+      "body": "**Erhua** (儿化) is a phenomenon in Mandarin where the sound \"r\" is added to the end of a syllable, creating a retroflex effect. In pinyin, this is shown by adding **r** directly after the syllable.\n\nExamples:\n- **huār** (flower) — 花儿\n- **wánr** (to play) — 玩儿\n- **yìdiǎnr** (a little bit) — 一点儿\n\nThe *"
+    },
+    {
+      "id": "87561de1-70b7-53fd-a726-d895b69f25a9",
+      "title": "Zero-initial u becomes wu",
+      "body": "When the vowel **u** begins a syllable with no consonant, it is written as **wu** in pinyin. Like the yi rule, this is purely a spelling convention.\n\nExamples:\n- **wǔ** (five) — pronounced like \"oo\" in \"food\"\n- **wū yā** (crow) — the u sound at the start of a syllable\n\nThe **w** is not pronounced se"
+    },
+    {
+      "id": "98c2d289-3d81-58a6-808e-28ba9cdc5be9",
+      "title": "Distinguishing ü-related spellings",
+      "body": "The ü vowel appears in multiple spelling contexts, and distinguishing them is important:\n\n1. **After j, q, x**: always written **u** (no dots): **ju**, **qu**, **xu**\n2. **Zero initial**: written **yu** (no dots): **yú** (fish)\n3. **After n, l**: written **ü** (with dots): **nǚ** (female), **lǜ** (g"
+    },
+    {
+      "id": "a9719e4d-0cd4-5985-9fbe-899cc0b2376c",
+      "title": "HSK vocabulary with complex pinyin",
+      "body": "HSK 1 vocabulary includes words that test multiple spelling rules simultaneously. Practice with real vocabulary:\n\n- **xuéxiào** (school): tone on e in both syllables; u after x represents ü\n- **xiǎojiě** (miss/young lady): tone on a in xiǎo, tone on e in jiě\n- **nǚér** (daughter): ü visible after n,"
+    },
+    {
+      "id": "c4f99991-9d05-5de2-8808-0840263b841c",
+      "title": "Zero-initial ü becomes yu",
+      "body": "When the vowel **ü** begins a syllable with no consonant, it is written as **yu** in pinyin. Notice that the umlaut (two dots) is dropped when written this way.\n\nExamples:\n- **yú** (fish) — pronounced with rounded lips, like French \"u\" in \"tu\"\n- **yǔ** (rain)\n\nThe **ü** sound is distinct from **u**,"
+    },
+    {
+      "id": "c83b13c8-6599-5306-b70a-4360705296b9",
+      "title": "Complete tone mark placement rule",
+      "body": "The complete priority order for tone mark placement:\n\n1. **a** (highest priority — always gets the mark)\n2. **o** or **e** (if no a is present)\n3. When only **i** and **u** together: the second vowel gets the mark\n\nThis creates a systematic way to place tone marks correctly every time.\n\nMnemonic: \"*"
+    },
+    {
+      "id": "c8b8eae9-86e1-572c-a938-c22acb0237ac",
+      "title": "Correcting pinyin spelling errors",
+      "body": "Real learners make predictable errors with spelling rules. Developing the ability to spot and correct these errors solidifies your understanding.\n\nCommon errors:\n- Writing **i** instead of **yi** (forgetting zero-initial rule)\n- Placing tone mark on wrong vowel: *máo* instead of **mǎo**\n- Confusing "
+    },
+    {
+      "id": "d70ca254-6a4d-51c4-9fea-f88ba1e9b416",
+      "title": "Tone mark placement: the a priority",
+      "body": "When a syllable contains multiple vowels, the tone mark must be placed on the correct vowel. The vowel **a** always receives the tone mark when present in a syllable.\n\nExamples:\n- **hǎo** (good) — mark goes on a, not o\n- **mǎi** (buy) — mark goes on a, not i\n- **bài** (defeat) — mark goes on a\n\nThe "
+    },
+    {
+      "id": "d733d51b-65ce-5796-a618-a1afcf28b62a",
+      "title": "Tone mark placement: i and u together",
+      "body": "When **i** and **u** appear together with no a, o, or e present, the tone mark goes on the **second** vowel (whichever comes later in the syllable).\n\nExamples:\n- **liú** (flow) — mark goes on u (second vowel)\n- **jiǔ** (nine) — mark goes on u (second vowel)\n- **guī** (return) — mark goes on i (secon"
+    },
+    {
+      "id": "d7eeb088-da2b-5f35-b730-c732e6245b9e",
+      "title": "Tone mark placement: when no a is present",
+      "body": "When a syllable has no **a**, look for **o** or **e** — these vowels receive the tone mark next.\n\nExamples:\n- **dōu** (all) — mark goes on o\n- **lěng** (cold) — mark goes on e\n- **hēi** (black) — mark goes on e\n\nIf the syllable has **o** or **e**, the tone mark goes there. These vowels represent the"
+    },
+    {
+      "id": "f3dfa463-5b47-5a76-8741-04ab2af0c099",
+      "title": "Tone mark placement in multi-vowel syllables",
+      "body": "Real-world syllables often require careful analysis of the vowel combination to place tone marks correctly. Consider these examples:\n\n- **xiǎo** (small): contains **i**, **a**, **o** → mark goes on **a** (highest priority)\n- **jiǔ** (nine): contains **i**, **u** → mark goes on **u** (second vowel)\n-"
+    }
+  ],
+  "questions": [
+    {
+      "id": "025b33b8-89b3-5732-9523-3ae1c6f7c7ef",
+      "question_text": "In the phrase \"yī yuè\" (January), which syllables use zero-initial spelling rules?"
+    },
+    {
+      "id": "02f6abdb-7830-5052-b09e-e15875efc273",
+      "question_text": "How does erhua affect the number of syllables in a word?"
+    },
+    {
+      "id": "0d72c901-ced6-5e42-a96e-12a8b11a187d",
+      "question_text": "Write the correct pinyin for the number \"five\" (vowel sound is \"u\", tone is 3rd tone)."
+    },
+    {
+      "id": "229a66d8-cb75-57a2-8fad-cb4792462bb0",
+      "question_text": "Write the pinyin for \"One fish is swimming\" (tone marks required). Vocabulary: one = yī (1st tone), fish = yú (2nd tone), swim = yóu (2nd tone). Include tone marks and apply all spelling rules."
+    },
+    {
+      "id": "236da7ce-0aef-5d9c-a1e3-0674ea10b9e9",
+      "question_text": "Identify all the errors in: \"Wu ge i, ī tiáo yù\""
+    },
+    {
+      "id": "31fe0254-1780-5ae5-b52a-c0a8c9ebd8b9",
+      "question_text": "Why is the \"y\" added when writing \"yi\" instead of just \"i\"?"
+    },
+    {
+      "id": "337bb316-085e-5cc0-ae6d-b63ef899a808",
+      "question_text": "In the syllable \"dou\", where should the tone mark go?"
+    },
+    {
+      "id": "35586475-10d6-5db6-9e9f-441957cc56fa",
+      "question_text": "How is erhua represented in pinyin?"
+    },
+    {
+      "id": "390c11e5-b62d-5df1-a24f-15bdb6bfe669",
+      "question_text": "Why does the tone mark in \"mǎi\" go on the a instead of the i?"
+    },
+    {
+      "id": "3d1e47ce-a210-53a5-bd94-b3cdfd5319dd",
+      "question_text": "In the syllable \"hao\", where should the tone mark be placed?"
+    },
+    {
+      "id": "4b91af94-0bac-5242-86c2-a00828b0704a",
+      "question_text": "In the word \"xuéxiào\" (school), why don't we see ü written with dots?"
+    },
+    {
+      "id": "57f8fc43-69c5-509a-9bbb-547c2c1cbcee",
+      "question_text": "When \"ü\" is written as \"yu\" at the start of a syllable, what happens to the umlaut?"
+    },
+    {
+      "id": "5af18471-68c4-55cc-9ebd-6f1b3fe280fe",
+      "question_text": "Explain all the pinyin spelling rules applied in the word \"nǚér\" (daughter), including tone mark placement, ü spelling, and erhua."
+    },
+    {
+      "id": "5e0435c3-d015-5ce1-ba14-2b5b8ceaf256",
+      "question_text": "What does the \"r\" in erhua represent?"
+    },
+    {
+      "id": "60688708-3149-5f8c-8c0c-78766377941e",
+      "question_text": "In which contexts is the ü sound written with visible dots (ü)?"
+    },
+    {
+      "id": "61ed916e-cfa8-5ec2-b8d2-2bdfb518c424",
+      "question_text": "How is the vowel \"ü\" written when it begins a syllable with no consonant?"
+    },
+    {
+      "id": "6a48763e-5cb5-53d3-84dd-cb36c0810914",
+      "question_text": "When does the zero-initial spelling rule apply?"
+    },
+    {
+      "id": "6dd84c80-91ae-52fb-8c74-4e31dc63ca7e",
+      "question_text": "Where is the tone placed in a word with erhua, like \"huār\"?"
+    },
+    {
+      "id": "70b28c20-7e16-5c5d-a4a8-0b1f65a123c1",
+      "question_text": "In standard Mandarin learning materials, when should you expect to see erhua notation?"
+    },
+    {
+      "id": "7419b4c4-1086-5a2f-8e06-d04b3cc29222",
+      "question_text": "Why is \"ju\" written without dots even though it represents the ü sound?"
+    },
+    {
+      "id": "7cc137e3-c98e-566b-9b0b-2bdc663f1ce4",
+      "question_text": "Which of the following are correct zero-initial spelling transformations?"
+    },
+    {
+      "id": "82481328-7bcc-546d-a984-392f4144ae15",
+      "question_text": "When the vowel sound \"u\" starts a syllable with no consonant, how is it written?"
+    },
+    {
+      "id": "86b5398e-06bf-5db3-91fb-0c6c42078ec8",
+      "question_text": "Arrange these vowels in priority order for receiving tone marks (highest priority first):"
+    },
+    {
+      "id": "88fdb41c-cc5f-5b2c-bb6a-714e97f215c0",
+      "question_text": "Which are common categories where erhua frequently appears?"
+    },
+    {
+      "id": "8bd48a15-344c-5644-92f8-7c95bd89eb98",
+      "question_text": "In the syllable \"liu\", where should the tone mark be placed?"
+    },
+    {
+      "id": "8d82bed6-b2eb-5095-a770-9d8946f19ce2",
+      "question_text": "In the syllable \"mao\" with tone 1, where should the tone mark be written?"
+    },
+    {
+      "id": "8dfc99cc-e743-5253-a980-d8141a49463e",
+      "question_text": "In the sentence \"Wǔ tiáo yú zài zhèr\", how many syllables use zero-initial spelling rules?"
+    },
+    {
+      "id": "8fda3373-fbd3-5040-a668-c2a79051ac1f",
+      "question_text": "Why does the tone mark in \"guī\" go on the i?"
+    },
+    {
+      "id": "9fb5956f-737d-567a-806e-6a08b8264ca5",
+      "question_text": "Arrange these steps in the order you should follow when writing a syllable in pinyin:"
+    },
+    {
+      "id": "bb4bb488-4c31-569f-bddd-d7deeca6db7e",
+      "question_text": "Which pinyin contains a spelling error?"
+    },
+    {
+      "id": "bee64549-e8a2-5b4c-982d-2b20a7041325",
+      "question_text": "In the question \"Nǐ zài nǎr?\" (Where are you?), what does the \"r\" represent?"
+    },
+    {
+      "id": "c67be74b-ead0-55b3-99e7-cb9a230588c4",
+      "question_text": "Which pinyin spelling correctly represents the vowel sound \"i\" at the beginning of a syllable?"
+    },
+    {
+      "id": "ef7be1c6-02da-55b1-aef0-d8ebf0c78bb3",
+      "question_text": "Which syllable has the tone mark correctly placed?"
+    },
+    {
+      "id": "efa600fd-e939-53d2-a3be-c24d96abdf21",
+      "question_text": "Which syllable has the tone mark correctly placed?"
+    },
+    {
+      "id": "f8c8ba0b-f7b1-5cd3-b3d3-c4df82f80d31",
+      "question_text": "Which pinyin is correctly written using zero-initial rules?"
+    },
+    {
+      "id": "f9fd018b-caf3-5f61-8e5a-5d535e07e7c6",
+      "question_text": "Which region of China uses erhua most heavily?"
+    },
+    {
+      "id": "fa6a81db-d349-5a9b-afcb-8e755d538abd",
+      "question_text": "Which correctly states the tone mark placement rule?"
+    }
+  ]
+}

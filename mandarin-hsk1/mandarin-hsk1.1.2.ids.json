@@ -1,0 +1,230 @@
+{
+  "subtopic_id": "mandarin-hsk1.1.2",
+  "ingested_at": "2026-05-21T02:54:43.207Z",
+  "content": [
+    {
+      "id": "0755e0c8-3a38-5d63-976f-0484ef524d45",
+      "title": "Real Conversation Tone Analysis",
+      "body": "**Conversation:**\nA: 你好! 你也去吗?\nB: 我不去。我也不要一个。\n\n**Pinyin (as written):**\nA: Nǐhǎo! Nǐ yě qù ma?\nB: Wǒ bù qù. Wǒ yě bú yào yīgè.\n\n**Questions:** Analyze how tone rules apply to this conversation."
+    },
+    {
+      "id": "0e6c77da-ffff-50fd-af9d-af005d8323d9",
+      "title": "The Negative 不 (bù): Tone Change Rule",
+      "body": "When 不 (bù, 4th tone) appears before another fourth-tone syllable, it changes to second tone in pronunciation (bú).\n\n**The rule:** 4th + 4th → 2nd + 4th\n\nExamples:\n- 不是 bú shì (am/is/are not) — 不 changes to 2nd before shì (4th tone)\n- 不去 bú qù (not go) — 不 changes to 2nd before qù (4th tone)\n- 不要 bú"
+    },
+    {
+      "id": "0e9f09fc-dfca-5638-8516-8a5682448622",
+      "title": "Creating Your Own Examples",
+      "body": ""
+    },
+    {
+      "id": "2485ab90-e432-5f4a-a103-fa1ac3ef393b",
+      "title": "The Number 一 (yī): Base Tone",
+      "body": "The number 一 (one) normally has first tone: yī. You use this tone when:\n- Counting: 一, 二, 三, 四... (yī, èr, sān, sì...)\n- Saying the number alone: \"一\" (yī)\n- Using it as an ordinal: 第一 dìyī (first)\n\nHowever, when 一 appears before other syllables in words and phrases, it often changes tone."
+    },
+    {
+      "id": "39d3b758-21a4-5814-8539-ff024c5b016f",
+      "title": "Tone Rule Practice Set",
+      "body": ""
+    },
+    {
+      "id": "3b67ed2f-62b8-5fbf-8ae7-e147fb6c4aea",
+      "title": "Third Tone Sandhi: Written vs. Spoken",
+      "body": "An important distinction: tone sandhi affects pronunciation but NOT written pinyin. You always write the original tone marks (nǐhǎo), even though you pronounce the changed tones (níhǎo).\n\nThis means learners must remember both:\n- **What to write:** original tones (3rd + 3rd)\n- **What to say:** chang"
+    },
+    {
+      "id": "418d77c8-a124-5b62-9bf7-c2cb7ca75ccd",
+      "title": "The Negative 不 (bù): Base Tone",
+      "body": "The negative word 不 (bù) normally has fourth tone. You can see this in many common words:\n\n- 不对 bùduì (not correct)\n- 不好 bùhǎo (not good)\n\nWhen 不 appears before another fourth-tone syllable, it changes to second tone. This is a special tone change rule we'll cover next."
+    },
+    {
+      "id": "436c612c-e764-526d-a091-529ba63d6b6f",
+      "title": "Recognition vs. Production",
+      "body": "At HSK 1 level, distinguish between:\n\n**Recognition (listening):** You need to recognize that 不是 may sound like \"bú shì\" even when written \"bùshì\"\n\n**Production (speaking):** You should actively apply tone rules when speaking, saying \"bú shì\" not \"bù shì\"\n\n**Writing:** Always write original tones (b"
+    },
+    {
+      "id": "506c2a2b-a4ea-56a3-aa78-7c2f758ffea3",
+      "title": "The Number 一 (yī): Tone Changes Before 1st, 2nd, and 3rd Tones",
+      "body": "When 一 appears before a first, second, or third-tone syllable, it changes to fourth tone (yì).\n\n**The rule:** 1st + (1st/2nd/3rd) → 4th + (1st/2nd/3rd)\n\nExamples:\n- 一天 yì tiān (one day) — before 1st tone\n- 一年 yì nián (one year) — before 2nd tone\n- 一起 yì qǐ (together) — before 3rd tone\n\nNotice the pa"
+    },
+    {
+      "id": "54644793-817c-53a9-b886-2816d7bb156c",
+      "title": "Diagnostic Listening",
+      "body": ""
+    },
+    {
+      "id": "60a0d44c-2913-5bb4-8353-00fae919e075",
+      "title": "The Number 一 (yī): Tone Changes Before 4th Tone",
+      "body": "When 一 appears before a fourth-tone syllable, it changes to second tone (yí).\n\n**The rule:** 1st + 4th → 2nd + 4th\n\nExamples:\n- 一个 yí gè (one [measure word])\n- 一样 yí yàng (same)\n- 一半 yí bàn (half)\n\nThis is similar to the 不 rule, but notice: 一 changes before 4th tone (becoming 2nd), while 不 itself IS"
+    },
+    {
+      "id": "6ea1fc82-19a4-50cd-b7c6-b99af862af3d",
+      "title": "Applying Multiple Tone Rules",
+      "body": "Real Chinese phrases often require applying multiple tone rules. You must identify each rule independently:\n\nExample: 我不去 (I'm not going)\n- 我 wǒ (3rd tone)\n- 不 bù → bú (changes before 4th tone)\n- 去 qù (4th tone)\n- Result: wǒ bú qù\n\nExample: 一百 (one hundred)\n- 一 yī → no change (百 bǎi is 3rd tone... w"
+    },
+    {
+      "id": "9738f88d-f555-5ffc-b194-db92b614d182",
+      "title": "Tone Changes in Fast Speech",
+      "body": "In natural, fast speech, Chinese speakers may apply tone rules more liberally:\n\n**Standard:** Only the first of two 3rd tones changes\n**Fast speech:** Sometimes both may become \"half-third\" (a low tone that doesn't rise)\n\n**Standard:** 不 and 一 follow strict rules\n**Fast speech:** Syllables may reduc"
+    },
+    {
+      "id": "b4d37c70-5529-5e97-8f59-a8200eebc4f8",
+      "title": "Tone Sandhi in Pinyin Writing",
+      "body": "Important: Like third-tone sandhi, the tone changes for 不 and 一 affect pronunciation only, not standard pinyin writing.\n\n**Always write:**\n- 不是 bùshì (not bú shì)\n- 一个 yīgè (not yí gè)\n- 一天 yītiān (not yì tiān)\n\nHowever, some textbooks DO write the changed tones (bú shì, yí gè) to help beginners lea"
+    },
+    {
+      "id": "c2b1c952-13c3-5917-b479-a2dbc950eb6d",
+      "title": "Third-Tone Sandhi in Three-Syllable Phrases",
+      "body": "When three or more third tones appear together, apply sandhi from left to right in pairs:\n\nExample: 你好吗 (How are you?)\n- 你 nǐ (3rd)\n- 好 hǎo (3rd)\n- 吗 ma (neutral)\n\nStep 1: 你 + 好 → ní + hǎo (first pair)\nStep 2: hǎo + ma → hǎo + ma (好 stays 3rd because ma is neutral)\nResult: ní hǎo ma\n\nIf all three we"
+    },
+    {
+      "id": "ce59e8ef-7280-51a1-bbc5-1d996955ccae",
+      "title": "Third Tone Sandhi: The Basic Rule",
+      "body": "When two third-tone syllables appear together in Mandarin, the first third tone changes to a second tone in pronunciation, though the tone mark remains written as third tone.\n\n**Written:** nǐ (3rd) + hǎo (3rd) = 你好 nǐhǎo\n**Pronounced:** ní (2nd) + hǎo (3rd) = 你好 níhǎo\n\nThis sandhi (tone change) happ"
+    },
+    {
+      "id": "fcb567bd-6920-5afd-9676-fb88bf2a7ddb",
+      "title": "Distinguishing 不 and 一 Tone Rules",
+      "body": "不 and 一 have similar but distinct tone rules:\n\n**不 (base: 4th tone)**\n- Changes to 2nd tone only before 4th tone\n- Stays 4th tone before 1st, 2nd, 3rd tones\n\n**一 (base: 1st tone)**\n- Changes to 2nd tone before 4th tone\n- Changes to 4th tone before 1st, 2nd, 3rd tones\n\nBoth change to 2nd before 4th, "
+    },
+    {
+      "id": "ff57ff0d-21c9-5a85-ab3e-5d7e83fa7793",
+      "title": "Summary of 一 (yī) Tone Changes",
+      "body": "Here's the complete pattern for 一:\n\n**Base tone (1st):** When counting or standing alone\n- 一, 二, 三... (yī, èr, sān...)\n\n**Changes to 2nd tone:** Before 4th-tone syllables\n- 一个 yí gè\n\n**Changes to 4th tone:** Before 1st, 2nd, or 3rd-tone syllables\n- 一天 yì tiān (before 1st)\n- 一年 yì nián (before 2nd)\n-"
+    }
+  ],
+  "questions": [
+    {
+      "id": "0c6d9162-2b8b-5c61-93a2-42df1378b24f",
+      "question_text": "A student pronounces 一起 as \"yīqǐ\" (1st tone + 3rd tone). What feedback should they receive?"
+    },
+    {
+      "id": "13eee1b7-fc6b-5dbf-bd04-b2475a1453c1",
+      "question_text": "You see 不对 written in a dictionary. How should you pronounce it? (对 is duì, 4th tone)"
+    },
+    {
+      "id": "190ee97a-9b5a-5191-96f9-b0510f751179",
+      "question_text": "A native speaker says 你好 very quickly and both syllables sound low/flat. Is this wrong?"
+    },
+    {
+      "id": "1f1a34e5-303d-505a-a539-9fb9e3d565f5",
+      "question_text": "How is 不是 (not be) pronounced?"
+    },
+    {
+      "id": "27947dee-1173-52cf-a686-aa5cbf1c0105",
+      "question_text": "Create one original two-character phrase that requires third-tone sandhi and explain the tone change. Use characters you know from HSK 1."
+    },
+    {
+      "id": "2fe858d3-283d-5074-b76f-e7593b1736d7",
+      "question_text": "Which phrase requires applying THREE different tone rules (third-tone sandhi, 不 change, and 一 change)?"
+    },
+    {
+      "id": "371cb2da-d9fa-545c-a1d7-4e9574e7a7c5",
+      "question_text": "How is 一个 (one [item]) pronounced?"
+    },
+    {
+      "id": "3cc4627c-a5ee-5cca-9b56-006a8efb11b8",
+      "question_text": "When two third-tone syllables appear together, what happens to the first syllable?"
+    },
+    {
+      "id": "515a7299-d938-55ce-ad7c-385adc460057",
+      "question_text": "Arrange these phrases from \"no tone changes\" to \"most tone changes applied\":"
+    },
+    {
+      "id": "5184f84e-4868-5a3b-b7cd-7a69a9ab0559",
+      "question_text": "What happens to 一 before a 3rd-tone syllable like 起 (qǐ)?"
+    },
+    {
+      "id": "51b12ba4-54c2-51e7-8e60-cafb05d4f589",
+      "question_text": "Write the pronunciation of line A (你好! 你也去吗?) after applying all tone rules, showing which specific rules apply to each change."
+    },
+    {
+      "id": "5c07920a-2e32-5b9e-b3c2-93834cb74814",
+      "question_text": "How is 你不好 (you're not good) pronounced after applying all tone rules?"
+    },
+    {
+      "id": "66792ee3-db2e-544b-b21f-207dc228db8a",
+      "question_text": "A student writes 美好 (beautiful) as méihǎo to show the pronunciation. Is this correct?"
+    },
+    {
+      "id": "699117ef-0d8b-5d7c-a520-790393d25bd1",
+      "question_text": "What is the base tone of 一 when counting?"
+    },
+    {
+      "id": "69db857a-8c6a-5882-996b-7b38e897438c",
+      "question_text": "Write a three-character phrase using 不 or 一 that demonstrates the tone change rule, and explain which tone rule applies."
+    },
+    {
+      "id": "6d3a1619-63c1-5209-932c-b681d7059cab",
+      "question_text": "What is the standard pinyin writing for \"one [item]\" (pronounced yí gè)?"
+    },
+    {
+      "id": "6dc07781-b240-5831-9c55-b2134ce65bbb",
+      "question_text": "What tone does 一 become before a fourth-tone syllable?"
+    },
+    {
+      "id": "6eb413bd-9fa4-5399-aa38-114a3cce0d42",
+      "question_text": "When does 不 change from 4th tone to 2nd tone?"
+    },
+    {
+      "id": "7fc79505-c8ca-59b2-890c-021cab286dc7",
+      "question_text": "In which phrases do both characters change tone? (Select all that apply)"
+    },
+    {
+      "id": "98a55443-f1d1-5aab-8dcb-30916c7d2ad5",
+      "question_text": "Which word keeps 不 in its original 4th tone?"
+    },
+    {
+      "id": "adde0c46-709c-52ab-a636-9fe1798affd7",
+      "question_text": "Why is it important to write original tones (bùshì not búshì) even though you pronounce it differently?"
+    },
+    {
+      "id": "b335eebe-c1a4-5c84-a4d4-52c112f71535",
+      "question_text": "How is 一天 (one day) pronounced? (天 tiān is 1st tone)"
+    },
+    {
+      "id": "bb2a85c1-413c-528f-915e-54b57dd8fb36",
+      "question_text": "In 我也好 (I'm also good), how many third tones change to second tone?"
+    },
+    {
+      "id": "bb887b9a-ba1b-541e-b89a-fb5c49e156af",
+      "question_text": "What is the key difference between 不 and 一 tone change rules?"
+    },
+    {
+      "id": "c59834cd-4438-5871-8aea-386be077094d",
+      "question_text": "In line B (我不去。我也不要一个), which words undergo tone changes? (Select all that apply)"
+    },
+    {
+      "id": "d410a070-78ff-57a2-91f9-1fba78ca1e12",
+      "question_text": "In which words does 一 become fourth tone? (Select all that apply)"
+    },
+    {
+      "id": "d8ed7d28-ec2e-58d0-a830-05a2f5aeedab",
+      "question_text": "Explain the step-by-step process for applying third-tone sandhi to 你好我 (you good me), showing the tone at each step."
+    },
+    {
+      "id": "dc24650b-1cbd-5965-8268-d9ed325e4012",
+      "question_text": "When writing pinyin for 你好, which tone marks should you use?"
+    },
+    {
+      "id": "e487d504-e758-581b-8b69-7e6e574e87da",
+      "question_text": "A student consistently pronounces 不 as 2nd tone in ALL contexts (bú hǎo, bú duì, bú qù). Explain what they misunderstand about the tone rule and how to correct it."
+    },
+    {
+      "id": "e4b880a8-b28e-52cb-9be9-be11f144cff0",
+      "question_text": "How is 你好 (nǐhǎo) actually pronounced due to tone sandhi?"
+    },
+    {
+      "id": "e7250004-6f57-548a-8081-9210e3dec1f8",
+      "question_text": "When writing pinyin in your homework, which should you write for \"not be\"?"
+    },
+    {
+      "id": "e7c03777-be63-5f7b-9f9c-3d246a90c908",
+      "question_text": "What is the normal tone of 不 (bù)?"
+    },
+    {
+      "id": "ee93f4f8-3c2f-51cb-8a4d-05adc2caad27",
+      "question_text": "In 你好一个人 (you're a good person), what happens to 一?"
+    }
+  ]
+}

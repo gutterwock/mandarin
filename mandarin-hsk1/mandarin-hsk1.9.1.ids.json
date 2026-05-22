@@ -1,0 +1,359 @@
+{
+  "subtopic_id": "mandarin-hsk1.9.1",
+  "ingested_at": "2026-05-21T02:54:43.392Z",
+  "content": [
+    {
+      "id": "3ce02e0d-e2c9-5e73-b22a-d3b001738530",
+      "title": "Measure Words with Food",
+      "body": "Different foods use different measure words:\n\n**碗 (wǎn) - bowl:** 一碗饭 (a bowl of rice), 一碗面条 (a bowl of noodles)\n\n**杯 (bēi) - cup/glass:** 一杯水 (a glass of water), 一杯茶 (a cup of tea), 一杯咖啡 (a cup of coffee)\n\n**个 (gè) - general:** 一个苹果 (an apple), 一个鸡蛋 (an egg)\n\n**瓶 (píng) - bottle:** 一瓶啤酒 (a bottle o"
+    },
+    {
+      "id": "504686e5-cb85-597d-970f-d08dff3a941d",
+      "title": "Apple (苹果)",
+      "body": "**苹果** (píngguǒ) means \"apple.\"\n\n- **Pronunciation:** píngguǒ (2nd tone + 3rd tone)\n- **Character note:** 果 (guǒ) appears in both 水果 (fruit) and 苹果 (apple)\n- **Measure word:** Use 个 (gè) — 一个苹果 (yí gè píngguǒ) = one apple\n\nApples are very popular in China and often given as gifts."
+    },
+    {
+      "id": "512976f4-db3b-59e0-9e67-b6c94b545979",
+      "title": "Egg (鸡蛋)",
+      "body": "**鸡蛋** (jīdàn) means \"egg\" (chicken egg).\n\n- **Pronunciation:** jīdàn (1st tone + 4th tone)\n- **Character breakdown:** 鸡 (chicken) + 蛋 (egg) — literally \"chicken egg\"\n- **Measure word:** Use 个 (gè) — 一个鸡蛋 (yí gè jīdàn) = one egg\n\nEggs are a common breakfast food and ingredient in Chinese cuisine."
+    },
+    {
+      "id": "5174f610-e073-5946-8d6b-28afa788029c",
+      "title": "Situational Communication",
+      "body": "**Situation:** You're at a restaurant. The server brings you coffee, but you ordered tea. You need to:\n1. Politely indicate the mistake\n2. Restate what you want\n\n**Useful structures:**\n- 这是咖啡 (This is coffee)\n- 我要茶 (I want tea)\n- 请给我茶 (Please give me tea)\n\nIn Chinese culture, politely pointing out e"
+    },
+    {
+      "id": "53bab983-a4ed-5963-97ce-d6d8da279e31",
+      "title": "Milk (牛奶)",
+      "body": "**牛奶** (niúnǎi) means \"milk.\"\n\n- **Pronunciation:** niúnǎi (2nd tone + 3rd tone)\n- **Character breakdown:** 牛 (cow/ox) + 奶 (milk) — literally \"cow milk\"\n- **Measure word:** Use 杯 (bēi) for a glass, or 瓶 (píng) for a bottle\n\nMilk consumption has increased in modern China, though traditionally less co"
+    },
+    {
+      "id": "55efec66-0528-59e7-837f-0cd1f7d33439",
+      "title": "Fruit (水果)",
+      "body": "**水果** (shuǐguǒ) means \"fruit.\"\n\n- **Pronunciation:** shuǐguǒ (3rd tone + 3rd tone; the first 3rd tone becomes a rising tone (sounds like 2nd tone) when followed by another 3rd tone)\n- **Character breakdown:** 水 (water) + 果 (fruit/result) — literally \"watery fruit\"\n- **Usage:** Can refer to fruit in"
+    },
+    {
+      "id": "5a4c0b1c-44c6-5edd-8e1f-e563affc889d",
+      "title": "Please Give Me (请给我)",
+      "body": "**请给我** (qǐng gěi wǒ) means \"please give me.\"\n\n- **Pronunciation:** qǐng gěi wǒ (all three syllables are 3rd tone, but due to tone sandhi rules, 请 and 给 become 2nd tone when spoken: qíng géi wǒ)\n- **Breakdown:** 请 (please) + 给 (give) + 我 (me)\n- **Usage:** Polite way to request something: 请给我一杯水 (Qǐn"
+    },
+    {
+      "id": "5c75568a-1991-56e3-8f84-242b4c2e218d",
+      "title": "Restaurant Interaction Sequence",
+      "body": "A typical restaurant ordering sequence:\n\n1. **Server greets:** 你好！(Hello!)\n2. **You indicate readiness:** 我要... (I want...) or 请给我... (Please give me...)\n3. **You order items:** State food and drinks with measure words\n4. **Server may ask:** 还要吗？(Anything else?) or 还要别的吗？(Note: 别的 is HSK2 vocabulary"
+    },
+    {
+      "id": "5dad4771-a1b7-5283-91f7-89cf83d0049a",
+      "title": "Compound Food Words",
+      "body": "Many Chinese food words are compounds showing logical structure:\n\n**With 果 (fruit):**\n- 水果 (water + fruit = fruit in general)\n- 苹果 (phonetic + fruit = apple)\n\n**With origin + product:**\n- 鸡蛋 (chicken + egg = chicken egg)\n- 牛奶 (cow + milk = cow's milk)\n\n**Phonetic loanwords:**\n- 咖啡 (kāfēi = coffee, p"
+    },
+    {
+      "id": "62fa5161-f5c6-5b3a-8d7e-35fb4e6602d4",
+      "title": "Meat (肉)",
+      "body": "**肉** (ròu) means \"meat.\"\n\n- **Pronunciation:** ròu (4th tone)\n- **Character note:** Single-character word; the radical 月 originally represented meat/flesh. In the character 肉 itself, the bottom component derives from the meat radical, which looks similar to the moon radical 月 in modern form but has"
+    },
+    {
+      "id": "69648444-050f-538f-bfdb-4cbb6fb8d584",
+      "title": "Menu Comprehension",
+      "body": "You see this menu section at a Chinese restaurant:\n\n**主食 (Staple Foods)**\n- 饭 ¥8\n- 面条 ¥12\n\n**饮料 (Beverages)**\n- 水 ¥3\n- 茶 ¥5\n- 咖啡 ¥15\n- 牛奶 ¥8\n- 啤酒 ¥10\n\n**其他 (Other)**\n- 鸡蛋 ¥3\n- 水果 ¥6\n- 苹果 ¥4"
+    },
+    {
+      "id": "6ed42ab0-56ee-55f6-a359-91833f28c476",
+      "title": "Taste/Flavor (味道)",
+      "body": "**味道** (wèidào) means \"taste\" or \"flavor.\"\n\n- **Pronunciation:** wèidào (4th tone + 4th tone)\n- **Character breakdown:** 味 (taste/flavor) + 道 (way/path) — together meaning \"the way it tastes\"\n- **Question:** 味道怎么样？(Wèidào zěnmeyàng?) = How does it taste?/How's the flavor?\n\nThis is a common question "
+    },
+    {
+      "id": "7024a9ce-0b0f-5e69-8d04-49af6db70542",
+      "title": "Creating a Balanced Order",
+      "body": "Using HSK 1 vocabulary, create a balanced restaurant order:\n\n**Consider including:**\n- A staple (饭 or 面条)\n- Protein (肉 or 鸡蛋)\n- Vegetables/fruit (菜, 水果, or 苹果)\n- A beverage (水, 茶, 咖啡, 牛奶, or 啤酒)\n\n**Structure your order:**\n- Use proper measure words\n- Connect items logically\n- Use polite forms (请给我.."
+    },
+    {
+      "id": "74572d2c-137c-509a-83da-441ba294c12c",
+      "title": "Want/Need (要)",
+      "body": "**要** (yào) is a versatile word meaning \"want,\" \"need,\" or \"will\" (future).\n\n- **Pronunciation:** yào (4th tone)\n- **In restaurant context:** 我要... (Wǒ yào...) = \"I want...\" / \"I'll have...\"\n- **Pattern:** 要 + noun/noun phrase\n- **Example:** 我要一碗面条 (Wǒ yào yì wǎn miàntiáo) = I want/I'll have a bowl "
+    },
+    {
+      "id": "7d82e206-6a8a-5893-ad47-9e33c851aa16",
+      "title": "Ordering Multiple Items",
+      "body": "When ordering multiple items, you can list them with 要 or use 和 (and):\n\n**Pattern 1:** 我要 + item 1 + 和 + item 2\n- Example: 我要一碗面条和一杯茶 (I want a bowl of noodles and a cup of tea)\n\n**Pattern 2:** Separate sentences\n- 我要一碗面条。我也要一杯茶。(I want a bowl of noodles. I also want a cup of tea.)\n\n**Adding politen"
+    },
+    {
+      "id": "9972dfb3-f007-54a9-8100-9f99c01de8a5",
+      "title": "Noodles (面条)",
+      "body": "**面条** (miàntiáo) means \"noodles.\"\n\n- **Pronunciation:** miàntiáo (4th tone + 2nd tone)\n- **Character breakdown:** 面 (noodles/flour/dough) + 条 (strip/long thin piece). In modern usage, 面 more commonly means 'noodles' or 'flour/dough' rather than just 'wheat'.\n- **Measure word:** Use 碗 (wǎn, bowl) — "
+    },
+    {
+      "id": "9b74ee18-99f5-5ba7-ada0-96102585370d",
+      "title": "Water (水)",
+      "body": "**水** (shuǐ) means \"water.\"\n\n- **Pronunciation:** shuǐ (3rd tone)\n- **Character note:** Ancient pictograph depicting flowing water\n- **Measure word:** Use 杯 (bēi, cup/glass) — 一杯水 (yì bēi shuǐ) = one glass of water\n- **Also a radical:** Appears in many water-related characters like 河 (river), 海 (sea"
+    },
+    {
+      "id": "a1113ed3-7fe5-5804-95b8-db802e53a4f3",
+      "title": "Restaurant Role-Play Scenario",
+      "body": "You're at a Chinese restaurant. Practice this complete interaction:\n\n**Scenario:** You want to order noodles, an apple, and tea. The server will greet you and ask if you want anything else.\n\n**Key phrases to use:**\n- 请给我... (Please give me...)\n- 和 (and) to connect items\n- Correct measure words (碗, 个"
+    },
+    {
+      "id": "a5a67049-eb9c-5bac-a94d-0ecf77c1068f",
+      "title": "Dish/Vegetable (菜)",
+      "body": "**菜** (cài) has two related meanings: \"dish\" (prepared food) and \"vegetable.\"\n\n- **Pronunciation:** cài (4th tone)\n- **Context determines meaning:** \n  - 这个菜很好吃 (This dish is delicious)\n  - 买菜 (buy vegetables/groceries)\n- **Common phrase:** 点菜 (diǎncài) = order dishes (at a restaurant)\n\nThe dual mea"
+    },
+    {
+      "id": "bdef33e9-da0d-586e-b08b-343d3146ad5b",
+      "title": "Food and Drink Categories",
+      "body": "Chinese food vocabulary can be grouped by categories:\n\n**Staple foods (主食):** 饭 (rice), 面条 (noodles)\n\n**Proteins:** 肉 (meat), 鸡蛋 (egg)\n\n**Vegetables/dishes:** 菜 (vegetables/dishes), 水果 (fruit), 苹果 (apple)\n\n**Beverages:** 水 (water), 茶 (tea), 咖啡 (coffee), 牛奶 (milk), 啤酒 (beer)\n\nUnderstanding these cate"
+    },
+    {
+      "id": "cca701ba-122d-5c16-8f99-2baaa4ef022e",
+      "title": "Asking About Food Preferences",
+      "body": "Two main patterns for asking about food:\n\n**Pattern 1:** 好吃吗？(Hǎochī ma?) = Is it delicious?\n- Answer: 很好吃 (Very delicious) / 不好吃 (Not delicious)\n\n**Pattern 2:** 味道怎么样？(Wèidào zěnmeyàng?) = How does it taste?\n- Answer: 味道很好 (Tastes very good) / 还可以 (It's okay)\n\n**About preference:** Use 喜欢 (xǐhuan, "
+    },
+    {
+      "id": "e2ad619d-e51a-5492-ba94-142dde3d6eaa",
+      "title": "Rice and Meal (饭)",
+      "body": "**饭** (fàn) means both \"rice\" (cooked rice) and \"meal\" in general.\n\n- **Pronunciation:** fàn (falling tone, 4th tone)\n- **Character breakdown:** 饣(food radical) + 反\n- **Common usage:** 吃饭 (chīfàn) = eat a meal/eat rice\n\nWhen someone asks 你吃饭了吗？(Nǐ chīfàn le ma?), they're asking \"Have you eaten?\" — a"
+    },
+    {
+      "id": "e511501a-ae6b-51e9-8be0-13e2296f419b",
+      "title": "Tea (茶)",
+      "body": "**茶** (chá) means \"tea.\"\n\n- **Pronunciation:** chá (2nd tone)\n- **Cultural significance:** Tea has thousands of years of history in Chinese culture\n- **Measure word:** Use 杯 (bēi) — 一杯茶 (yì bēi chá) = one cup of tea\n- **Common phrase:** 喝茶 (hēchá) = drink tea"
+    },
+    {
+      "id": "e7fe7261-fd93-582a-b429-9522f2a95488",
+      "title": "Delicious (好吃)",
+      "body": "**好吃** (hǎochī) means \"delicious\" or \"tasty\" (literally \"good to eat\").\n\n- **Pronunciation:** hǎochī (3rd tone + 1st tone)\n- **Character breakdown:** 好 (good) + 吃 (eat)\n- **Question form:** 好吃吗？(Hǎochī ma?) = Is it delicious?/Does it taste good?\n- **Answer:** 很好吃 (Hěn hǎochī) = Very delicious\n\nThis "
+    },
+    {
+      "id": "e8dc2876-89cd-5aad-9b27-773924f6730a",
+      "title": "Beer (啤酒)",
+      "body": "**啤酒** (píjiǔ) means \"beer.\"\n\n- **Pronunciation:** píjiǔ (2nd tone + 3rd tone)\n- **Character note:** 啤 is phonetic (from \"beer\"); 酒 means \"alcohol/wine\"\n- **Measure word:** Use 杯 (bēi) for a glass, or 瓶 (píng) for a bottle\n- **Cultural note:** Beer is popular in China; Tsingtao (青岛) is a famous Chin"
+    },
+    {
+      "id": "f42a5ffd-e5b7-58c0-b322-93b32925e6bd",
+      "title": "Cross-Cultural Food Discussion",
+      "body": "Chinese meal structure and ordering customs differ from Western practices:\n\n**Differences:**\n- Chinese meals typically include a grain base (饭 or 面条) with dishes, not separate courses\n- Tea or water is standard; coffee is less traditional\n- Food is often shared family-style rather than individual po"
+    },
+    {
+      "id": "fb9b5c58-e489-5020-bb83-0e2de7e7f181",
+      "title": "Coffee (咖啡)",
+      "body": "**咖啡** (kāfēi) means \"coffee.\"\n\n- **Pronunciation:** kāfēi (1st tone + 1st tone)\n- **Loanword:** Phonetic transliteration from English \"coffee\"\n- **Character note:** Both characters have the 口 (mouth) radical, common in transliterated food/drink words\n- **Measure word:** Use 杯 (bēi) — 一杯咖啡 (yì bēi k"
+    }
+  ],
+  "questions": [
+    {
+      "id": "01d9f30d-1a30-50ca-bcc2-793999707f97",
+      "question_text": "Explain one major difference between typical Chinese and Western meal structure based on the vocabulary you learned."
+    },
+    {
+      "id": "09cb4b17-059d-518d-933f-76ec1707f134",
+      "question_text": "In a Chinese restaurant, if you receive the wrong item, the most appropriate response is to:"
+    },
+    {
+      "id": "0d6b74a0-d389-587f-84e0-959262a76888",
+      "question_text": "What is the pinyin (including tone numbers) for 鸡蛋 (egg)?"
+    },
+    {
+      "id": "13f97dd3-8897-5ebb-9594-21e0c5027fd2",
+      "question_text": "What does 请给我一个苹果 mean?"
+    },
+    {
+      "id": "1edac98b-03a3-56fb-ab6c-b8b9e2391e86",
+      "question_text": "What is the pinyin (including tone number) for 要 (want/need)?"
+    },
+    {
+      "id": "1f766a3e-05c6-557c-928c-c5c3bd3e870e",
+      "question_text": "What does 菜 (cài) mean?"
+    },
+    {
+      "id": "25518478-39c6-53e7-8812-0f352f019c61",
+      "question_text": "Which food words are phonetic loanwords from other languages?"
+    },
+    {
+      "id": "2e23c7e1-816b-598b-8c46-ab84a0961663",
+      "question_text": "What is the pinyin (including tone numbers) for 牛奶 (milk)?"
+    },
+    {
+      "id": "30b404e6-a27f-5289-88b4-529a91073782",
+      "question_text": "You're ordering lunch at a casual restaurant. Which of these orders would be appropriate and complete?"
+    },
+    {
+      "id": "354b3f14-b899-5059-9445-9fce61f4f4c0",
+      "question_text": "Which is more polite when ordering in a restaurant?"
+    },
+    {
+      "id": "36f01b66-1388-5c3b-a2df-81f05d0c7fda",
+      "question_text": "Which items on this menu are beverages?"
+    },
+    {
+      "id": "39161f17-10ed-5eb5-9449-36b7c230f0e3",
+      "question_text": "In 啤酒 (beer), what does the character 酒 mean?"
+    },
+    {
+      "id": "3dcc8a9d-80a1-500b-a5b5-4ed73b806b09",
+      "question_text": "Which question is more open-ended about someone's opinion of food?"
+    },
+    {
+      "id": "3f214ddd-de6b-5ed1-8958-25d17790c40b",
+      "question_text": "What does 苹果 (píngguǒ) mean?"
+    },
+    {
+      "id": "47015ccb-a732-5697-8431-be9db8dcb216",
+      "question_text": "Why do both characters in 咖啡 have the 口 radical?"
+    },
+    {
+      "id": "4cca8f7e-4841-5f58-ab3f-caa552681347",
+      "question_text": "What does 牛奶 (niúnǎi) mean?"
+    },
+    {
+      "id": "4d0d9650-7ef8-51ee-9e73-68deba1307f4",
+      "question_text": "What does 面条 (miàntiáo) mean?"
+    },
+    {
+      "id": "50f964a1-ac54-5648-8a4c-e27db23c7a06",
+      "question_text": "The server brought you 咖啡 but you ordered 茶. Write what you would say to politely correct this. (2-3 sentences)"
+    },
+    {
+      "id": "52538e12-3b55-5f68-bbe9-d2aaaec5e8c5",
+      "question_text": "You're ordering at a restaurant. Write what you would say to order: one bowl of noodles, one apple, and one cup of tea. Use a polite form."
+    },
+    {
+      "id": "547f3b82-0bda-5168-a5b8-2afd52d2f967",
+      "question_text": "Put this restaurant interaction in the correct order:"
+    },
+    {
+      "id": "5bff466c-04a6-5968-ba75-701da10e4e0f",
+      "question_text": "What does 味道 (wèidào) mean?"
+    },
+    {
+      "id": "607d38be-5eaa-5a27-aa98-68fe7b773d3e",
+      "question_text": "What does 水果 (shuǐguǒ) mean?"
+    },
+    {
+      "id": "655fc450-ea9a-585a-884e-a30639908e0a",
+      "question_text": "What does 茶 (chá) mean?"
+    },
+    {
+      "id": "79fea454-f03e-5fb2-bda5-41f768626a5d",
+      "question_text": "What does 味道怎么样？mean?"
+    },
+    {
+      "id": "80722629-7de6-5076-a422-5b43b22e2dc4",
+      "question_text": "You're eating at a restaurant with Chinese friends. They keep asking you 好吃吗？ about your food. This is:"
+    },
+    {
+      "id": "826e3e93-f956-5e7e-8e4a-750a9754cf83",
+      "question_text": "Which of these are beverages (drinks)?"
+    },
+    {
+      "id": "82db06c3-7746-56f1-b62c-c0314596e826",
+      "question_text": "How do you say \"I want noodles and coffee\"?"
+    },
+    {
+      "id": "937a4406-66fb-5049-8918-23b6828ca555",
+      "question_text": "How do you say \"one bowl of noodles\"?"
+    },
+    {
+      "id": "94d531f1-60a3-54fb-93c7-d9c829978a66",
+      "question_text": "Which measure words could correctly be used with 水 (water)?"
+    },
+    {
+      "id": "969c910f-44ac-5e4c-b693-79bc36dd4d50",
+      "question_text": "How do you say \"one cup of tea\"?"
+    },
+    {
+      "id": "a543aea2-5c85-5877-b655-c865df970979",
+      "question_text": "The server asks 还要别的吗？ What is being asked?"
+    },
+    {
+      "id": "ae0e7ee4-47ea-54ef-8906-3cc219a0f7c1",
+      "question_text": "What is the pinyin (including tone number) for 水 (water)?"
+    },
+    {
+      "id": "b5bc1988-624d-5c4c-8454-ba504d4b60a0",
+      "question_text": "What is the pinyin (including tone numbers) for 水果 (fruit)?"
+    },
+    {
+      "id": "b7620a84-245a-5340-b1ed-c3b8feb5bd10",
+      "question_text": "Which pair represents staple foods in Chinese cuisine?"
+    },
+    {
+      "id": "b865a2f9-9084-5ca2-af5d-b9763a7a7680",
+      "question_text": "What does 鸡蛋 (jīdàn) mean?"
+    },
+    {
+      "id": "baff3510-3267-52b4-8acc-0a4a06896a23",
+      "question_text": "Someone asks you 好吃吗？ about the food you're eating. What's an appropriate response?"
+    },
+    {
+      "id": "bf0e9036-a612-54fa-80cf-1a61a29a6754",
+      "question_text": "Which character appears in both 水果 (fruit) and 苹果 (apple)?"
+    },
+    {
+      "id": "bff48d18-c85d-5892-9c70-981b34dadbd5",
+      "question_text": "What does 饭 (fàn) mean?"
+    },
+    {
+      "id": "c62fcab6-c26e-5576-90fe-b461be03fbd4",
+      "question_text": "Which measure word is correct for 水 (water) when ordering a glass?"
+    },
+    {
+      "id": "c8f9a20f-6a17-5734-b9bf-6d07c53cb008",
+      "question_text": "Create a complete restaurant order with at least three items from different food categories. Use proper measure words and polite language."
+    },
+    {
+      "id": "cbf9b59f-1d85-5acf-9ef5-f8f85a2b237e",
+      "question_text": "What is the pinyin (including tone number) for 饭 (rice/meal)?"
+    },
+    {
+      "id": "d2ed6ba8-2c2e-5e27-a065-1bb5f21aa67a",
+      "question_text": "What does 我要一杯茶 mean?"
+    },
+    {
+      "id": "d2fa8f7d-aafb-5440-bbd1-0db1a67133a2",
+      "question_text": "What does 好吃 (hǎochī) mean?"
+    },
+    {
+      "id": "d78c1737-57dc-5b78-b250-a3f242fccfdf",
+      "question_text": "In the phrase 点菜 (diǎncài), what does 菜 mean?"
+    },
+    {
+      "id": "d83e13c4-42ed-5fc0-823d-60b98cda769f",
+      "question_text": "Why is 鸡蛋 (jīdàn) structured as \"chicken + egg\"?"
+    },
+    {
+      "id": "db9f2e7e-7024-53ad-b92a-4eb99929e66c",
+      "question_text": "What does 咖啡 (kāfēi) mean?"
+    },
+    {
+      "id": "e62c363c-9114-5a52-a0c7-c280245cb996",
+      "question_text": "How do you ask \"Is it delicious?\" in Chinese?"
+    },
+    {
+      "id": "ea665cbe-b17c-56e7-bbac-65297f82fc82",
+      "question_text": "What does 水 (shuǐ) mean?"
+    },
+    {
+      "id": "f19a0022-e0b9-5bc8-92ff-1d4f152a1cc9",
+      "question_text": "What does 肉 (ròu) mean?"
+    },
+    {
+      "id": "f2b8dccc-06a2-5ba3-9d07-17412e049328",
+      "question_text": "Based on the menu, how much would it cost to order 面条 (noodles) and 茶 (tea)?"
+    },
+    {
+      "id": "f2f059d3-4003-5e14-9aa7-48655affd49c",
+      "question_text": "Which of these are correct ways to order a bowl of noodles and a cup of tea?"
+    },
+    {
+      "id": "f7f01e2a-1859-5d86-88d1-06e1c978cb74",
+      "question_text": "Your friend asks you 味道怎么样？ about the noodles you ordered. Respond that they are very delicious."
+    },
+    {
+      "id": "f960f332-de12-558a-8540-41bc90241f2d",
+      "question_text": "What is the pinyin (including tone number) for 肉 (meat)?"
+    },
+    {
+      "id": "fee125b3-70af-5286-ac14-cb91ea9645eb",
+      "question_text": "What does 啤酒 (píjiǔ) mean?"
+    }
+  ]
+}

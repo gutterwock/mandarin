@@ -1,0 +1,289 @@
+{
+  "subtopic_id": "mandarin-hsk1.5.2",
+  "ingested_at": "2026-05-21T02:54:43.308Z",
+  "content": [
+    {
+      "id": "024a8a57-2f36-5637-a601-1b19e51bf0de",
+      "title": "Restaurant Ordering Scenario",
+      "body": "At a Chinese restaurant, your group is ordering. Understanding measure words helps you communicate clearly:\n\nCommon patterns:\n- Ordering dishes: 一个菜 (yī gè cài) - one dish\n- Ordering drinks: 三杯茶 (sān bēi chá) - three cups of tea\n- Asking quantity: 你们几个人? (Nǐmen jǐ gè rén?) - How many people are you?"
+    },
+    {
+      "id": "1522b431-f320-5190-a445-8a644aed838a",
+      "title": "Choosing Appropriate Measure Words",
+      "body": "Selecting the correct measure word requires understanding the category and characteristics of the noun. Consider these factors:\n\n**Physical characteristics:**\n- Flat? → 张 (paper, tables, beds)\n- Long and thin? → 条 (fish, rivers, pants)\n- Bound volumes? → 本 (books, magazines)\n\n**Category:**\n- People "
+    },
+    {
+      "id": "1fcca1fd-d1a0-5608-88a7-6adca437b2d8",
+      "title": "Measure Word 个 (gè) - General Classifier",
+      "body": "个 (gè) is the most common measure word in Mandarin Chinese. It's used with people and many general objects when you don't know or can't remember a more specific measure word.\n\n**Structure:** Number + 个 + Noun\n\nExamples:\n- 一个人 (yī gè rén) - one person\n- 两个朋友 (liǎng gè péngyou) - two friends\n- 三个学生 (s"
+    },
+    {
+      "id": "45a0fcff-b22c-558b-9d32-579cdadc5166",
+      "title": "Complete Shopping Transaction",
+      "body": "Shopping Transaction Dialogue:\n\n**Shopkeeper:** 你好! 你要什么? (Hello! What do you want?)\n**You:** [need to respond]\n**Shopkeeper:** 好的。书十块一本，笔三块一支。(OK. Books are 10 yuan each, pens are 3 yuan each.)\n**You:** [need to calculate and confirm]\n\nYou want: 2 books and 5 pens"
+    },
+    {
+      "id": "4cf3499e-5b67-5669-82f5-c4c111f69b7e",
+      "title": "Measure Word 杯 (bēi) - Cups and Glasses",
+      "body": "杯 (bēi) is used for beverages served in cups or glasses. The word itself means \"cup\" or \"glass.\"\n\n**Structure:** Number + 杯 + Beverage\n\nExamples:\n- 一杯水 (yī bēi shuǐ) - one glass of water\n- 两杯茶 (liǎng bēi chá) - two cups of tea\n- 三杯咖啡 (sān bēi kāfēi) - three cups of coffee\n\nThis measure word indicate"
+    },
+    {
+      "id": "61390ef3-4857-5ef1-a7fc-a886cf42cf2d",
+      "title": "Common Measure Word Errors",
+      "body": "Common mistakes to avoid:\n\n**Error 1: Omitting the measure word**\n- Incorrect: 一书 (yī shū)\n- Correct: 一本书 (yī běn shū)\n\n**Error 2: Using the wrong measure word**\n- Incorrect: 一个书 (should use 本 for books)\n- Correct: 一本书 (yī běn shū)\n\n**Error 3: Using 二 instead of 两 with measure words**\n- Incorrect: 二"
+    },
+    {
+      "id": "61d20232-aa25-5739-8e1e-a9db0f8556fe",
+      "title": "Measure Word 块 (kuài) - Pieces and Money",
+      "body": "块 (kuài) has two main uses: for pieces or chunks of something, and as the standard colloquial word for yuan (Chinese currency). 元 (yuán) is the formal/written form, but 块 is what you'll hear in everyday conversation.\n\n**Structure:** Number + 块 + Noun (or just 块 for money)\n\nExamples for pieces:\n- 一块蛋"
+    },
+    {
+      "id": "6adf840d-8801-56f4-85bd-b2da8e4bb223",
+      "title": "Measure Word 条 (tiáo) - Long Thin Objects",
+      "body": "条 (tiáo) is used for long, thin objects such as fish, snakes, rivers, roads, pants, and skirts.\n\n**Structure:** Number + 条 + Long Object\n\nExamples:\n- 一条鱼 (yī tiáo yú) - one fish\n- 两条河 (liǎng tiáo hé) - two rivers\n- 三条裤子 (sān tiáo kùzi) - three pairs of pants\n- 四条路 (sì tiáo lù) - four roads\n\nThe unif"
+    },
+    {
+      "id": "7c637bbf-7ae4-58fd-8c82-a700b06b4324",
+      "title": "Beverages and Container Measures",
+      "body": "杯 (bēi) is specifically for beverages in cups or glasses. Understanding when to use it:\n\n**Use 杯 for:**\n- 茶 (chá) - tea\n- 咖啡 (kāfēi) - coffee\n- 水 (shuǐ) - water\n- 牛奶 (niúnǎi) - milk\n- 果汁 (guǒzhī) - juice\n\n**Structure for ordering:** 我要 + Number + 杯 + Beverage\n- 我要一杯茶 (Wǒ yào yī bēi chá) - I want a c"
+    },
+    {
+      "id": "89c58aab-976a-5871-b184-38c07a48689a",
+      "title": "Question Formation with Measure Words",
+      "body": "When forming questions about quantity, the structure depends on whether you use 几 or 多少:\n\n**With 几 (expecting small numbers):**\n- Question: Subject + 有 + 几 + MW + Noun?\n- Example: 你有几本书? (Nǐ yǒu jǐ běn shū?) - How many books do you have?\n\n**With 多少 (larger or unknown quantities):**\n- Question: Subje"
+    },
+    {
+      "id": "9b0139e7-302e-5b82-b84a-f66b261233f8",
+      "title": "Measure Word 只 (zhī) - Small Animals",
+      "body": "只 (zhī) is used for small animals, particularly birds, cats, dogs, and other pets or small creatures. At HSK 1 level, 只 is the standard measure word for the common animals you'll encounter in daily conversation.\n\n**Structure:** Number + 只 + Animal\n\nExamples:\n- 一只猫 (yī zhī māo) - one cat\n- 两只狗 (liǎng"
+    },
+    {
+      "id": "a493af34-9489-5d6c-bc9b-bec61c497a26",
+      "title": "Real-World Shopping Scenario",
+      "body": "You're at a Chinese bookstore and stationery shop. You want to buy:\n- 3 notebooks\n- 2 pens (for HSK 1 level, use 个 as the general classifier)\n- 1 dictionary (词典 cídiǎn)\n\nThe shopkeeper asks: \"你要几本书?\" (How many books do you want?)\n\nYou also see that notebooks cost 5块 each, and you want to know the to"
+    },
+    {
+      "id": "a6d8ecb5-30f6-5d23-91c5-fd2fec87bfaa",
+      "title": "Question Word 几 (jǐ) - How Many (Small Numbers)",
+      "body": "几 (jǐ) means \"how many\" and is used when asking about quantities, typically when expecting a small number (usually under 10) as an answer.\n\n**Structure:** 几 + Measure Word + Noun\n\nExamples:\n- 几个人? (jǐ gè rén?) - How many people?\n- 几本书? (jǐ běn shū?) - How many books?\n- 几杯茶? (jǐ bēi chá?) - How many "
+    },
+    {
+      "id": "ac340255-99ab-5721-9042-f95b599bfa84",
+      "title": "Mixed Measure Word Scenarios",
+      "body": "Real conversations often require using multiple different measure words. Consider this situation:\n\nYou're helping a friend move into a new apartment. You're discussing what they have:\n- Furniture (tables 张, chairs 个)\n- Books (本)\n- Clothes (件 for tops, 条 for pants)\n- Pets (只)\n- Kitchen items (cups 杯,"
+    },
+    {
+      "id": "b5ee539f-8c7a-5e47-acc6-f60d5b541fe0",
+      "title": "Measure Word 件 (jiàn) - Clothing and Matters",
+      "body": "件 (jiàn) is used for two main categories: articles of clothing (especially upper body) and matters/affairs.\n\n**Structure:** Number + 件 + Noun\n\nExamples for clothing:\n- 一件衣服 (yī jiàn yīfu) - one piece of clothing\n- 两件毛衣 (liǎng jiàn máoyī) - two sweaters\n\nExamples for matters:\n- 一件事 (yī jiàn shì) - on"
+    },
+    {
+      "id": "b9d141e6-2b4f-5c62-ae8e-f689b20e053b",
+      "title": "Measure Word 本 (běn) - Books and Bound Items",
+      "body": "本 (běn) is the specific measure word used for books, magazines, notebooks, and other bound printed materials.\n\n**Structure:** Number + 本 + Book-related Noun\n\nExamples:\n- 一本书 (yī běn shū) - one book\n- 两本杂志 (liǎng běn zázhì) - two magazines\n- 三本词典 (sān běn cídiǎn) - three dictionaries\n\nThis measure wo"
+    },
+    {
+      "id": "d51ce65b-9df4-5492-b74e-31c443681f85",
+      "title": "Using 多少 Without Measure Words",
+      "body": "Unlike 几, which always requires a measure word, 多少 can be used directly before certain nouns, especially when asking about uncountable quantities or prices.\n\nExamples:\n- 多少钱? (duōshao qián?) - How much money? (no measure word needed)\n- 多少人? (duōshao rén?) - How many people? (measure word optional)\n\n"
+    },
+    {
+      "id": "dd28ede4-e56b-5456-be40-14adfee98d69",
+      "title": "Numbers with Measure Words",
+      "body": "When combining numbers with measure words, follow this pattern:\n\n**Structure:** Number + Measure Word + Noun\n\nImportant points:\n- 二 (èr) vs. 两 (liǎng): Use 两 (not 二) with measure words\n  - Correct: 两个人 (liǎng gè rén)\n  - Incorrect: 二个人 (èr gè rén)\n- This applies to all measure words: 两本书, 两杯茶, 两张桌子\n"
+    },
+    {
+      "id": "de6de22a-0d20-5717-9540-b23875490a73",
+      "title": "Question Word 多少 (duōshao) - How Many/Much (Larger Quantities)",
+      "body": "多少 (duōshao) means \"how many\" or \"how much\" and is used for larger quantities or when you're unsure of the magnitude. It can be used with or without measure words.\n\n**Structure:** 多少 + (Measure Word) + Noun\n\nExamples:\n- 多少钱? (duōshao qián?) - How much money?\n- 多少人? (duōshao rén?) - How many people? "
+    },
+    {
+      "id": "e4a882ef-464d-554d-bb7c-88a105f32cd9",
+      "title": "Animal and Pet Context",
+      "body": "When discussing pets or animals, using the correct measure word 只 (zhī) is important for natural communication.\n\nScenarios:\n- Asking about someone's pets: 你有几只猫? (How many cats do you have?)\n- Describing what you see: 我看见三只狗 (I see three dogs)\n- Talking about a pet store: 这里有很多只小狗 (There are many pu"
+    },
+    {
+      "id": "f8d69728-bf28-54a3-9767-e64fec9dc580",
+      "title": "Measure Word 张 (zhāng) - Flat Objects",
+      "body": "张 (zhāng) is used for flat objects such as paper, tables, beds, photos, and tickets.\n\n**Structure:** Number + 张 + Flat Object\n\nExamples:\n- 一张纸 (yī zhāng zhǐ) - one piece of paper\n- 两张桌子 (liǎng zhāng zhuōzi) - two tables\n- 三张照片 (sān zhāng zhàopiàn) - three photos\n- 四张票 (sì zhāng piào) - four tickets\n"
+    }
+  ],
+  "questions": [
+    {
+      "id": "200407da-2465-5fd0-a0e4-90e80b661a63",
+      "question_text": "How do you say \"four books\" in Chinese?"
+    },
+    {
+      "id": "2508cb32-6172-5482-9153-77ae79ac5ec9",
+      "question_text": "What does 两杯咖啡 (liǎng bēi kāfēi) mean?"
+    },
+    {
+      "id": "25ffafc2-3f38-5bab-a864-c14c4c82c77f",
+      "question_text": "The waiter asks \"你们几位?\" (How many people?). You have 5 people, and you want to order 2 cups of tea and 3 cups of coffee. How would you respond? Write in Chinese."
+    },
+    {
+      "id": "277fc8ba-d029-535b-b902-48df04c5ff4c",
+      "question_text": "What does 三件衣服 (sān jiàn yīfu) mean?"
+    },
+    {
+      "id": "2a172b36-03ae-571c-a96a-5ad48c1dde11",
+      "question_text": "Arrange these phrases in the order that uses measure words from most specific to most general:"
+    },
+    {
+      "id": "2a9fb4a7-4c0a-5055-822c-1cd7385791b8",
+      "question_text": "Your friend says: \"我有二本书，三张桌子，和五杯茶。\" Which parts are INCORRECT?"
+    },
+    {
+      "id": "3130079a-38d4-5e16-ab18-7d8010a832e7",
+      "question_text": "Which of these would use 条 as a measure word?"
+    },
+    {
+      "id": "33e476b3-9ff4-5b57-91fb-4e8082fc588b",
+      "question_text": "Which item would use 条 as its measure word?"
+    },
+    {
+      "id": "3ecce179-6dd2-5973-85db-7e3d3857aa54",
+      "question_text": "Write your part of the dialogue. Tell the shopkeeper what you want and ask for the total price. Use Chinese characters or pinyin with tone numbers."
+    },
+    {
+      "id": "408546f8-e915-541a-83d1-ece1594d8e57",
+      "question_text": "When asking about price, which question word is most appropriate?"
+    },
+    {
+      "id": "40e25bf7-4a84-5b0b-960f-0438505e665d",
+      "question_text": "What's the main difference between 几 and 多少?"
+    },
+    {
+      "id": "42edaeb7-028f-5658-8088-d39a4af3f68c",
+      "question_text": "Which sentences contain errors?"
+    },
+    {
+      "id": "453cefb1-db7b-5de2-b343-49f6e7dc4275",
+      "question_text": "Translate \"two books\" into Chinese (use pinyin with tone numbers):"
+    },
+    {
+      "id": "4aa058fe-c31d-5b43-9da1-e2cdb9bc56fc",
+      "question_text": "Which uses the correct measure word?"
+    },
+    {
+      "id": "4fc74a0f-b9f6-5a4c-93ab-1f981f604b8f",
+      "question_text": "Order these nouns from most specific to most general measure word: 书 (book), 桌子 (table), 苹果 (apple), 猫 (cat)"
+    },
+    {
+      "id": "5b11e51e-492b-5cc8-9dcd-c986339f76ae",
+      "question_text": "What does 三个学生 (sān gè xuésheng) mean?"
+    },
+    {
+      "id": "61dc7657-8ae3-59fb-9b30-6878cce9d85d",
+      "question_text": "Which question is grammatically acceptable?"
+    },
+    {
+      "id": "8b2be602-7340-55f5-91bb-d8e16e0fa3ae",
+      "question_text": "If notebooks are 5块 each and you're buying 3, what question would you ask to confirm the total price?"
+    },
+    {
+      "id": "8bd3f050-db7e-5500-ac45-56a5d3e85334",
+      "question_text": "块 can be used for which of the following?"
+    },
+    {
+      "id": "99af3239-9e93-5251-8aaa-4c5011280e4c",
+      "question_text": "Which measure words are used for physical characteristics (flat, long, etc.) rather than object categories?"
+    },
+    {
+      "id": "9ae3737e-120d-5a4d-baa3-f55aab85a41a",
+      "question_text": "How do you ask \"How many books?\" in Chinese?"
+    },
+    {
+      "id": "9c977436-347f-5eb1-8796-e3ec3c3fcab9",
+      "question_text": "How would you order two glasses of water?"
+    },
+    {
+      "id": "9fedd4ba-6042-5841-8296-70a73a48de28",
+      "question_text": "Which is the correct way to say \"two cats\"?"
+    },
+    {
+      "id": "a0b99dec-032e-5921-b2e5-e440eb0a143c",
+      "question_text": "What does 两只狗 (liǎng zhī gǒu) mean?"
+    },
+    {
+      "id": "a46a4719-7ed2-5cd3-b34b-12089253140a",
+      "question_text": "You're teaching a friend about Chinese measure words. Explain how to choose the right measure word for a noun, and give three examples with different measure words."
+    },
+    {
+      "id": "a6a84c8c-7d35-5289-8089-3a73c7f14815",
+      "question_text": "Which expressions are correct?"
+    },
+    {
+      "id": "b62b1563-d488-527b-9f9e-1b35ef65e285",
+      "question_text": "Which of these would use 张 as a measure word?"
+    },
+    {
+      "id": "b7d7d301-6532-50b5-bbfe-6d45b2bdced5",
+      "question_text": "Which measure word would you use for 照片 (photo)?"
+    },
+    {
+      "id": "bce4ea89-65cf-5780-b038-66b6385bdc06",
+      "question_text": "Which sentence correctly uses the measure word 个?"
+    },
+    {
+      "id": "bf6fc88c-c93e-52ca-b255-d9a91d3fdd8e",
+      "question_text": "How would you tell the shopkeeper what you want to buy? Write your response in Chinese characters or pinyin."
+    },
+    {
+      "id": "bfe88975-deac-53ba-a0a4-8390c17f3f5b",
+      "question_text": "If you're asking about the population of a city, which question word is more appropriate?"
+    },
+    {
+      "id": "c6d27ddf-fa72-5378-a089-bb0c1545143c",
+      "question_text": "How do you say \"one cat\" in Chinese?"
+    },
+    {
+      "id": "cbd2747e-7f59-5548-ba7f-ce3891092695",
+      "question_text": "Which question asks \"How many cats do you have?\" (expecting a small number)?"
+    },
+    {
+      "id": "cfe06ff1-a405-5127-a839-bd1cc24cfce5",
+      "question_text": "Which phrases would be appropriate for ordering at a restaurant?"
+    },
+    {
+      "id": "d121e087-c8f6-5653-a027-13d41368b75d",
+      "question_text": "Based on the shopkeeper's prices (books 10块, pens 3块), what is the total for 2 books and 5 pens?"
+    },
+    {
+      "id": "d342d1e0-012b-58a7-9e38-4e15c5482913",
+      "question_text": "Which item would use the measure word 张?"
+    },
+    {
+      "id": "d43ce106-2f93-5969-a0c2-aeacd04a30ef",
+      "question_text": "Describe in Chinese how many pets you have or would like to have. Use at least two different types of animals and correct measure words."
+    },
+    {
+      "id": "d92d83c2-1e31-591f-a07a-c3980804c995",
+      "question_text": "What does 十块钱 (shí kuài qián) mean?"
+    },
+    {
+      "id": "db381dbb-5add-50d2-bcc5-c76ea686c80d",
+      "question_text": "A student says \"我有个三猫\" (Wǒ yǒu gè sān māo). What are ALL the errors?"
+    },
+    {
+      "id": "db693030-524a-5d30-b133-27f9a4bc716f",
+      "question_text": "Translate \"How many people?\" into Chinese (use pinyin with tone numbers):"
+    },
+    {
+      "id": "dcee3f51-5eb3-582d-9035-2469c58af8d6",
+      "question_text": "Your friend says \"我家有两只猫和一只狗\" (Wǒ jiā yǒu liǎng zhī māo hé yī zhī gǒu). What does this mean?"
+    },
+    {
+      "id": "defee520-c7b9-5a30-bdf3-bdf7ec37124c",
+      "question_text": "件 can be used to count which of the following?"
+    },
+    {
+      "id": "e914fbf7-6430-53fb-a9e5-da2db85b058d",
+      "question_text": "Explain when to use 两 (liǎng) versus 二 (èr) in Chinese counting."
+    },
+    {
+      "id": "f17e13c1-d628-58fc-bdfb-4b1c91536cf7",
+      "question_text": "What types of items use 杯 as a measure word, and why?"
+    }
+  ]
+}
